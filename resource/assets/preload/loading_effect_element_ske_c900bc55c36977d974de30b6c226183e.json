@@ -1,0 +1,1122 @@
+{
+    "frameRate": 24,
+    "name": "loading_effect_element",
+    "version": "5.5",
+    "compatibleVersion": "5.5",
+    "armature": [
+        {
+            "type": "Armature",
+            "frameRate": 24,
+            "name": "loading_effect_element",
+            "aabb": {
+                "x": -586.86,
+                "y": -353.37,
+                "width": 1069.28,
+                "height": 715
+            },
+            "bone": [
+                {
+                    "name": "root"
+                },
+                {
+                    "name": "bone",
+                    "parent": "root",
+                    "transform": {
+                        "x": -211.567,
+                        "y": -48.6975
+                    }
+                },
+                {
+                    "name": "C0",
+                    "parent": "bone",
+                    "transform": {
+                        "x": -247.5141,
+                        "y": -116.1603
+                    }
+                },
+                {
+                    "name": "pan",
+                    "parent": "bone",
+                    "transform": {
+                        "x": -26.633,
+                        "y": 90.8475
+                    }
+                },
+                {
+                    "name": "paiguang",
+                    "parent": "bone",
+                    "transform": {
+                        "x": -29.883,
+                        "y": -3.1525
+                    }
+                },
+                {
+                    "name": "A1",
+                    "parent": "bone",
+                    "transform": {
+                        "x": 339.711,
+                        "y": 184.0082
+                    }
+                },
+                {
+                    "name": "B2",
+                    "parent": "bone",
+                    "transform": {
+                        "x": -145.6492,
+                        "y": -153.9119
+                    }
+                },
+                {
+                    "name": "A2",
+                    "parent": "bone",
+                    "transform": {
+                        "x": -292.6562,
+                        "y": -80.2593
+                    }
+                },
+                {
+                    "name": "B0",
+                    "parent": "bone",
+                    "transform": {
+                        "x": -316.7944,
+                        "y": -2.9375
+                    }
+                },
+                {
+                    "name": "B3",
+                    "parent": "bone",
+                    "transform": {
+                        "x": -298.4281,
+                        "y": 132.9308
+                    }
+                },
+                {
+                    "name": "B1",
+                    "parent": "bone",
+                    "transform": {
+                        "x": 191.3351,
+                        "y": 122.116
+                    }
+                },
+                {
+                    "name": "E0",
+                    "parent": "bone",
+                    "transform": {
+                        "x": -227.2774,
+                        "y": -91.4008
+                    }
+                },
+                {
+                    "name": "D0",
+                    "parent": "bone",
+                    "transform": {
+                        "x": 260.4718,
+                        "y": 201.3029
+                    }
+                },
+                {
+                    "name": "E1",
+                    "parent": "bone",
+                    "transform": {
+                        "x": -335.0426,
+                        "y": -68.1717
+                    }
+                },
+                {
+                    "name": "D1",
+                    "parent": "bone",
+                    "transform": {
+                        "x": -309.9052,
+                        "y": -204.4817
+                    }
+                },
+                {
+                    "name": "A3",
+                    "parent": "bone",
+                    "transform": {
+                        "x": -276.6421,
+                        "y": 230.4426
+                    }
+                },
+                {
+                    "name": "diguang",
+                    "parent": "bone",
+                    "transform": {
+                        "x": -16.933,
+                        "y": 40.5975
+                    }
+                },
+                {
+                    "name": "C3",
+                    "parent": "bone",
+                    "transform": {
+                        "x": 29.9001,
+                        "y": 282.8157
+                    }
+                },
+                {
+                    "name": "A0",
+                    "parent": "bone",
+                    "transform": {
+                        "x": 320.2216,
+                        "y": -15.117
+                    }
+                },
+                {
+                    "name": "D2",
+                    "parent": "bone",
+                    "transform": {
+                        "x": 201.2524,
+                        "y": 267.801
+                    }
+                },
+                {
+                    "name": "C2",
+                    "parent": "bone",
+                    "transform": {
+                        "x": 506.1151,
+                        "y": 296.9925
+                    }
+                },
+                {
+                    "name": "E2",
+                    "parent": "bone",
+                    "transform": {
+                        "x": 641.9888,
+                        "y": 312.9135
+                    }
+                },
+                {
+                    "name": "E3",
+                    "parent": "bone",
+                    "transform": {
+                        "x": -251.3978,
+                        "y": -189.6207
+                    }
+                }
+            ],
+            "slot": [
+                {
+                    "name": "diguang",
+                    "parent": "diguang"
+                },
+                {
+                    "name": "11",
+                    "parent": "B3"
+                },
+                {
+                    "name": "01",
+                    "parent": "C0"
+                },
+                {
+                    "name": "06",
+                    "parent": "B1"
+                },
+                {
+                    "name": "07",
+                    "parent": "D0"
+                },
+                {
+                    "name": "092",
+                    "parent": "D2"
+                },
+                {
+                    "name": "021",
+                    "parent": "C2"
+                },
+                {
+                    "name": "05",
+                    "parent": "E1"
+                },
+                {
+                    "name": "04",
+                    "parent": "E0"
+                },
+                {
+                    "name": "12",
+                    "parent": "A1"
+                },
+                {
+                    "name": "03",
+                    "parent": "C3"
+                },
+                {
+                    "name": "08",
+                    "parent": "B0"
+                },
+                {
+                    "name": "091",
+                    "parent": "A2"
+                },
+                {
+                    "name": "pan",
+                    "parent": "pan"
+                },
+                {
+                    "name": "pai",
+                    "parent": "pan"
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "paiguang",
+                    "parent": "paiguang"
+                },
+                {
+                    "name": "10",
+                    "parent": "A0"
+                },
+                {
+                    "name": "02",
+                    "parent": "A3"
+                },
+                {
+                    "name": "022",
+                    "parent": "D1"
+                },
+                {
+                    "name": "09",
+                    "parent": "B2"
+                },
+                {
+                    "name": "051",
+                    "parent": "E2"
+                },
+                {
+                    "name": "0511",
+                    "parent": "E3"
+                }
+            ],
+            "skin": [
+                {
+                    "slot": [
+                        {
+                            "name": "paiguang",
+                            "display": [
+                                {
+                                    "name": "paiguang",
+                                    "transform": {
+                                        "x": -1.16,
+                                        "y": -1.61,
+                                        "scX": -0.8403,
+                                        "scY": -0.8403
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "08",
+                            "display": [
+                                {
+                                    "name": "B0"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "05",
+                            "display": [
+                                {
+                                    "name": "E1"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "01",
+                            "display": [
+                                {
+                                    "name": "C0"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "021",
+                            "display": [
+                                {
+                                    "name": "C2"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "12",
+                            "display": [
+                                {
+                                    "name": "A1"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "diguang",
+                            "display": [
+                                {
+                                    "name": "diguang",
+                                    "transform": {
+                                        "x": 37.24,
+                                        "y": 12.23
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "pai",
+                            "display": [
+                                {
+                                    "name": "pai",
+                                    "transform": {
+                                        "x": 64.81,
+                                        "y": -81.7
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "09",
+                            "display": [
+                                {
+                                    "name": "B2"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "051",
+                            "display": [
+                                {
+                                    "name": "E2"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "092",
+                            "display": [
+                                {
+                                    "name": "D2",
+                                    "transform": {
+                                        "x": -2.4,
+                                        "y": -6.39
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "04",
+                            "display": [
+                                {
+                                    "name": "E0"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "022",
+                            "display": [
+                                {
+                                    "name": "D1"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "pan",
+                            "display": [
+                                {
+                                    "name": "pan",
+                                    "transform": {
+                                        "x": -22.57,
+                                        "y": 44.29
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "10",
+                            "display": [
+                                {
+                                    "name": "A0"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "11",
+                            "display": [
+                                {
+                                    "name": "B3"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "07",
+                            "display": [
+                                {
+                                    "name": "D0"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "0511",
+                            "display": [
+                                {
+                                    "name": "E3"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "02",
+                            "display": [
+                                {
+                                    "name": "A3"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "06",
+                            "display": [
+                                {
+                                    "name": "B1"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "091",
+                            "display": [
+                                {
+                                    "name": "A2"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "03",
+                            "display": [
+                                {
+                                    "name": "C3"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "animation": [
+                {
+                    "duration": 48,
+                    "playTimes": 0,
+                    "name": "xunhuan",
+                    "bone": [
+                        {
+                            "name": "paiguang",
+                            "translateFrame": [
+                                {
+                                    "duration": 24,
+                                    "curve": [
+                                        0,
+                                        0,
+                                        0.5,
+                                        1
+                                    ],
+                                    "x": 6.56
+                                },
+                                {
+                                    "duration": 24,
+                                    "curve": [
+                                        0.5,
+                                        0,
+                                        1,
+                                        1
+                                    ],
+                                    "x": 6.56,
+                                    "y": 17.49
+                                },
+                                {
+                                    "duration": 0,
+                                    "x": 6.56
+                                }
+                            ]
+                        },
+                        {
+                            "name": "B3",
+                            "translateFrame": [
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "y": 2.45
+                                },
+                                {
+                                    "duration": 20,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "y": 26.96
+                                },
+                                {
+                                    "duration": 20,
+                                    "tweenEasing": 0,
+                                    "y": 29.41
+                                },
+                                {
+                                    "duration": 0,
+                                    "y": 2.45
+                                }
+                            ]
+                        },
+                        {
+                            "name": "A2",
+                            "translateFrame": [
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "y": 0.49
+                                },
+                                {
+                                    "duration": 20,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "y": 10.78
+                                },
+                                {
+                                    "duration": 20,
+                                    "tweenEasing": 0,
+                                    "y": 11.76
+                                },
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "y": 0.98
+                                },
+                                {
+                                    "duration": 0,
+                                    "y": 0.49
+                                }
+                            ]
+                        },
+                        {
+                            "name": "pan",
+                            "translateFrame": [
+                                {
+                                    "duration": 18,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0,
+                                    "y": 11.38
+                                },
+                                {
+                                    "duration": 18,
+                                    "tweenEasing": 0,
+                                    "y": 12.41
+                                },
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0,
+                                    "y": 1.03
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "A1",
+                            "translateFrame": [
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "y": 0.49
+                                },
+                                {
+                                    "duration": 20,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "y": 10.78
+                                },
+                                {
+                                    "duration": 20,
+                                    "tweenEasing": 0,
+                                    "y": 11.76
+                                },
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "y": 0.98
+                                },
+                                {
+                                    "duration": 0,
+                                    "y": 0.49
+                                }
+                            ]
+                        },
+                        {
+                            "name": "B2",
+                            "translateFrame": [
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "y": 2.45
+                                },
+                                {
+                                    "duration": 20,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "y": 26.96
+                                },
+                                {
+                                    "duration": 20,
+                                    "tweenEasing": 0,
+                                    "y": 29.41
+                                },
+                                {
+                                    "duration": 0,
+                                    "y": 2.45
+                                }
+                            ]
+                        },
+                        {
+                            "name": "D2",
+                            "translateFrame": [
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "y": 3.92
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "y": 1.23
+                                },
+                                {
+                                    "duration": 20,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "y": 13.48
+                                },
+                                {
+                                    "duration": 16,
+                                    "tweenEasing": 0,
+                                    "y": 14.71
+                                },
+                                {
+                                    "duration": 0,
+                                    "y": 3.92
+                                }
+                            ]
+                        },
+                        {
+                            "name": "A0",
+                            "translateFrame": [
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "y": 0.49
+                                },
+                                {
+                                    "duration": 20,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "y": 10.78
+                                },
+                                {
+                                    "duration": 20,
+                                    "tweenEasing": 0,
+                                    "y": 11.76
+                                },
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "y": 0.98
+                                },
+                                {
+                                    "duration": 0,
+                                    "y": 0.49
+                                }
+                            ]
+                        },
+                        {
+                            "name": "B0",
+                            "translateFrame": [
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "y": 2.45
+                                },
+                                {
+                                    "duration": 20,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "y": 26.96
+                                },
+                                {
+                                    "duration": 20,
+                                    "tweenEasing": 0,
+                                    "y": 29.41
+                                },
+                                {
+                                    "duration": 0,
+                                    "y": 2.45
+                                }
+                            ]
+                        },
+                        {
+                            "name": "B1",
+                            "translateFrame": [
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "y": 2.45
+                                },
+                                {
+                                    "duration": 20,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "y": 26.96
+                                },
+                                {
+                                    "duration": 20,
+                                    "tweenEasing": 0,
+                                    "y": 29.41
+                                },
+                                {
+                                    "duration": 0,
+                                    "y": 2.45
+                                }
+                            ]
+                        },
+                        {
+                            "name": "E0",
+                            "translateFrame": [
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0,
+                                    "y": 3.27
+                                },
+                                {
+                                    "duration": 24,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 14,
+                                    "tweenEasing": 0,
+                                    "y": 7.86
+                                },
+                                {
+                                    "duration": 0,
+                                    "y": 3.27
+                                }
+                            ]
+                        },
+                        {
+                            "name": "D0",
+                            "translateFrame": [
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "y": 3.92
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "y": 1.23
+                                },
+                                {
+                                    "duration": 20,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "y": 13.48
+                                },
+                                {
+                                    "duration": 16,
+                                    "tweenEasing": 0,
+                                    "y": 14.71
+                                },
+                                {
+                                    "duration": 0,
+                                    "y": 3.92
+                                }
+                            ]
+                        },
+                        {
+                            "name": "E1",
+                            "translateFrame": [
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0,
+                                    "y": 3.27
+                                },
+                                {
+                                    "duration": 24,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 14,
+                                    "tweenEasing": 0,
+                                    "y": 7.86
+                                },
+                                {
+                                    "duration": 0,
+                                    "y": 3.27
+                                }
+                            ]
+                        },
+                        {
+                            "name": "D1",
+                            "translateFrame": [
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "y": 3.92
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "y": 1.23
+                                },
+                                {
+                                    "duration": 20,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "y": 13.48
+                                },
+                                {
+                                    "duration": 16,
+                                    "tweenEasing": 0,
+                                    "y": 14.71
+                                },
+                                {
+                                    "duration": 0,
+                                    "y": 3.92
+                                }
+                            ]
+                        },
+                        {
+                            "name": "A3",
+                            "translateFrame": [
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "y": 0.49
+                                },
+                                {
+                                    "duration": 20,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "y": 10.78
+                                },
+                                {
+                                    "duration": 20,
+                                    "tweenEasing": 0,
+                                    "y": 11.76
+                                },
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "y": 0.98
+                                },
+                                {
+                                    "duration": 0,
+                                    "y": 0.49
+                                }
+                            ]
+                        },
+                        {
+                            "name": "C3",
+                            "translateFrame": [
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "y": 1.49
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "y": 0.68
+                                },
+                                {
+                                    "duration": 20,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "y": 8.09
+                                },
+                                {
+                                    "duration": 18,
+                                    "tweenEasing": 0,
+                                    "y": 8.82
+                                },
+                                {
+                                    "duration": 0,
+                                    "y": 1.49
+                                }
+                            ]
+                        },
+                        {
+                            "name": "C0",
+                            "translateFrame": [
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "y": 1.49
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "y": 0.68
+                                },
+                                {
+                                    "duration": 20,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "y": 8.09
+                                },
+                                {
+                                    "duration": 18,
+                                    "tweenEasing": 0,
+                                    "y": 8.82
+                                },
+                                {
+                                    "duration": 0,
+                                    "y": 1.49
+                                }
+                            ]
+                        },
+                        {
+                            "name": "C2",
+                            "translateFrame": [
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "y": 1.49
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "y": 0.68
+                                },
+                                {
+                                    "duration": 20,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "y": 8.09
+                                },
+                                {
+                                    "duration": 18,
+                                    "tweenEasing": 0,
+                                    "y": 8.82
+                                },
+                                {
+                                    "duration": 0,
+                                    "y": 1.49
+                                }
+                            ]
+                        },
+                        {
+                            "name": "E2",
+                            "translateFrame": [
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0,
+                                    "y": 3.27
+                                },
+                                {
+                                    "duration": 24,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 14,
+                                    "tweenEasing": 0,
+                                    "y": 7.86
+                                },
+                                {
+                                    "duration": 0,
+                                    "y": 3.27
+                                }
+                            ]
+                        },
+                        {
+                            "name": "E3",
+                            "translateFrame": [
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0,
+                                    "y": 3.27
+                                },
+                                {
+                                    "duration": 24,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 14,
+                                    "tweenEasing": 0,
+                                    "y": 7.86
+                                },
+                                {
+                                    "duration": 0,
+                                    "y": 3.27
+                                }
+                            ]
+                        }
+                    ],
+                    "slot": [
+                        {
+                            "name": "paiguang",
+                            "colorFrame": [
+                                {
+                                    "duration": 24,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 24,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 27
+                                    }
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "defaultActions": [
+                {
+                    "gotoAndPlay": "xunhuan"
+                }
+            ]
+        }
+    ]
+}

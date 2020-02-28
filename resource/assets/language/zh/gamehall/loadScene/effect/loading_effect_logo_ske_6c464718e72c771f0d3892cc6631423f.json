@@ -1,0 +1,372 @@
+{
+    "frameRate": 24,
+    "name": "loading_effect_logo",
+    "version": "5.5",
+    "compatibleVersion": "5.5",
+    "armature": [
+        {
+            "type": "Armature",
+            "frameRate": 24,
+            "name": "loading_effect_logo",
+            "aabb": {
+                "x": -143.28,
+                "y": -283.84,
+                "width": 341.67,
+                "height": 574.67
+            },
+            "bone": [
+                {
+                    "name": "root"
+                },
+                {
+                    "name": "biaoti_00001",
+                    "parent": "root",
+                    "transform": {
+                        "x": -15.8158,
+                        "y": -5.2632
+                    }
+                },
+                {
+                    "name": "yw",
+                    "parent": "root",
+                    "transform": {
+                        "x": -111.0757,
+                        "y": 115.7709,
+                        "scX": 1.2,
+                        "scY": 1.2
+                    }
+                }
+            ],
+            "slot": [
+                {
+                    "name": "font",
+                    "parent": "root"
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": 23,
+                    "name": "biaoti_00001",
+                    "parent": "biaoti_00001",
+                    "color": {
+                        "gM": 88,
+                        "bM": 56
+                    }
+                },
+                {
+                    "name": "yw",
+                    "parent": "yw"
+                }
+            ],
+            "skin": [
+                {
+                    "slot": [
+                        {
+                            "name": "biaoti_00001",
+                            "display": [
+                                {
+                                    "name": "biaoti_00024",
+                                    "transform": {
+                                        "x": 39.5
+                                    }
+                                },
+                                {
+                                    "name": "biaoti_00023",
+                                    "transform": {
+                                        "x": 39.5
+                                    }
+                                },
+                                {
+                                    "name": "biaoti_00022",
+                                    "transform": {
+                                        "x": 39.5
+                                    }
+                                },
+                                {
+                                    "name": "biaoti_00021",
+                                    "transform": {
+                                        "x": 39.5
+                                    }
+                                },
+                                {
+                                    "name": "biaoti_00020",
+                                    "transform": {
+                                        "x": 39.5
+                                    }
+                                },
+                                {
+                                    "name": "biaoti_00019",
+                                    "transform": {
+                                        "x": 39.5
+                                    }
+                                },
+                                {
+                                    "name": "biaoti_00018",
+                                    "transform": {
+                                        "x": 39.5
+                                    }
+                                },
+                                {
+                                    "name": "biaoti_00017",
+                                    "transform": {
+                                        "x": 39.5
+                                    }
+                                },
+                                {
+                                    "name": "biaoti_00016",
+                                    "transform": {
+                                        "x": 39.5
+                                    }
+                                },
+                                {
+                                    "name": "biaoti_00015",
+                                    "transform": {
+                                        "x": 39.5
+                                    }
+                                },
+                                {
+                                    "name": "biaoti_00014",
+                                    "transform": {
+                                        "x": 39.5
+                                    }
+                                },
+                                {
+                                    "name": "biaoti_00013",
+                                    "transform": {
+                                        "x": 39.5
+                                    }
+                                },
+                                {
+                                    "name": "biaoti_00012",
+                                    "transform": {
+                                        "x": 39.5
+                                    }
+                                },
+                                {
+                                    "name": "biaoti_00011",
+                                    "transform": {
+                                        "x": 39.5
+                                    }
+                                },
+                                {
+                                    "name": "biaoti_00010",
+                                    "transform": {
+                                        "x": 39.5
+                                    }
+                                },
+                                {
+                                    "name": "biaoti_00009",
+                                    "transform": {
+                                        "x": 39.5
+                                    }
+                                },
+                                {
+                                    "name": "biaoti_00008",
+                                    "transform": {
+                                        "x": 39.5
+                                    }
+                                },
+                                {
+                                    "name": "biaoti_00007",
+                                    "transform": {
+                                        "x": 39.5
+                                    }
+                                },
+                                {
+                                    "name": "biaoti_00006",
+                                    "transform": {
+                                        "x": 39.5
+                                    }
+                                },
+                                {
+                                    "name": "biaoti_00005",
+                                    "transform": {
+                                        "x": 39.5
+                                    }
+                                },
+                                {
+                                    "name": "biaoti_00004",
+                                    "transform": {
+                                        "x": 39.5
+                                    }
+                                },
+                                {
+                                    "name": "biaoti_00003",
+                                    "transform": {
+                                        "x": 39.5
+                                    }
+                                },
+                                {
+                                    "name": "biaoti_00002",
+                                    "transform": {
+                                        "x": 39.5
+                                    }
+                                },
+                                {
+                                    "name": "biaoti_00001",
+                                    "transform": {
+                                        "x": 44.21,
+                                        "y": 1.42
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "font",
+                            "display": [
+                                {
+                                    "name": "font",
+                                    "transform": {
+                                        "x": 24.72,
+                                        "y": 7.33
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "yw",
+                            "display": [
+                                {
+                                    "name": "gamehall_loading_title_2"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "animation": [
+                {
+                    "duration": 36,
+                    "playTimes": 0,
+                    "name": "biaoti",
+                    "bone": [
+                        {
+                            "name": "biaoti_00001",
+                            "translateFrame": [
+                                {
+                                    "duration": 36,
+                                    "x": -4.71,
+                                    "y": -1.42
+                                }
+                            ]
+                        }
+                    ],
+                    "slot": [
+                        {
+                            "name": "biaoti_00001",
+                            "displayFrame": [
+                                {
+                                    "duration": 2,
+                                    "value": 23
+                                },
+                                {
+                                    "value": 22
+                                },
+                                {
+                                    "duration": 2,
+                                    "value": 21
+                                },
+                                {
+                                    "value": 20
+                                },
+                                {
+                                    "duration": 2,
+                                    "value": 19
+                                },
+                                {
+                                    "value": 18
+                                },
+                                {
+                                    "duration": 2,
+                                    "value": 17
+                                },
+                                {
+                                    "value": 16
+                                },
+                                {
+                                    "duration": 2,
+                                    "value": 15
+                                },
+                                {
+                                    "value": 14
+                                },
+                                {
+                                    "duration": 2,
+                                    "value": 13
+                                },
+                                {
+                                    "value": 12
+                                },
+                                {
+                                    "duration": 2,
+                                    "value": 11
+                                },
+                                {
+                                    "value": 10
+                                },
+                                {
+                                    "duration": 2,
+                                    "value": 9
+                                },
+                                {
+                                    "value": 8
+                                },
+                                {
+                                    "duration": 2,
+                                    "value": 7
+                                },
+                                {
+                                    "value": 6
+                                },
+                                {
+                                    "duration": 2,
+                                    "value": 5
+                                },
+                                {
+                                    "value": 4
+                                },
+                                {
+                                    "duration": 2,
+                                    "value": 3
+                                },
+                                {
+                                    "value": 2
+                                },
+                                {
+                                    "duration": 2,
+                                    "value": 1
+                                },
+                                {}
+                            ],
+                            "colorFrame": [
+                                {
+                                    "duration": 35,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "gM": 88,
+                                        "bM": 56
+                                    }
+                                },
+                                {
+                                    "duration": 0,
+                                    "value": {
+                                        "aM": 0,
+                                        "gM": 88,
+                                        "bM": 56
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "defaultActions": [
+                {
+                    "gotoAndPlay": "biaoti"
+                }
+            ]
+        }
+    ]
+}

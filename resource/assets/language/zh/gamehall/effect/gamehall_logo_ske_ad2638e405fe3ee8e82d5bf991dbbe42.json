@@ -1,0 +1,547 @@
+{
+    "frameRate": 30,
+    "name": "gamehall_logo",
+    "version": "5.5",
+    "compatibleVersion": "5.5",
+    "armature": [
+        {
+            "type": "Armature",
+            "frameRate": 30,
+            "name": "gamehall_logo",
+            "aabb": {
+                "x": -189.37,
+                "y": -101.46,
+                "width": 316,
+                "height": 203.55
+            },
+            "bone": [
+                {
+                    "name": "root"
+                },
+                {
+                    "name": "骨骼",
+                    "parent": "root"
+                },
+                {
+                    "name": "骨骼6",
+                    "parent": "root",
+                    "transform": {
+                        "x": -53.71,
+                        "y": -23.84
+                    }
+                },
+                {
+                    "name": "骨骼2",
+                    "parent": "root",
+                    "transform": {
+                        "x": -29.59,
+                        "y": 1.47
+                    }
+                },
+                {
+                    "name": "骨骼3",
+                    "parent": "骨骼2",
+                    "transform": {
+                        "x": -38.35,
+                        "y": 3.32
+                    }
+                },
+                {
+                    "name": "骨骼5",
+                    "parent": "骨骼3",
+                    "transform": {
+                        "x": -14.03,
+                        "y": -1.79
+                    }
+                },
+                {
+                    "name": "骨骼4",
+                    "parent": "骨骼3",
+                    "transform": {
+                        "x": 18.7,
+                        "y": -3.57
+                    }
+                }
+            ],
+            "slot": [
+                {
+                    "name": "logo_txt",
+                    "parent": "骨骼2"
+                },
+                {
+                    "name": "logo_Y",
+                    "parent": "骨骼4"
+                },
+                {
+                    "name": "logo_K",
+                    "parent": "骨骼5"
+                },
+                {
+                    "name": "logo_txt2",
+                    "parent": "骨骼3"
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "light",
+                    "parent": "骨骼",
+                    "color": {
+                        "aM": 61,
+                        "gM": 92,
+                        "bM": 35
+                    }
+                },
+                {
+                    "blendMode": "add",
+                    "name": "EffectStartLight",
+                    "parent": "骨骼6",
+                    "color": {
+                        "aM": 0
+                    }
+                }
+            ],
+            "skin": [
+                {
+                    "slot": [
+                        {
+                            "name": "light",
+                            "display": [
+                                {
+                                    "name": "hallLogoLight00"
+                                },
+                                {
+                                    "name": "hallLogoLight01"
+                                },
+                                {
+                                    "name": "hallLogoLight02"
+                                },
+                                {
+                                    "name": "hallLogoLight03"
+                                },
+                                {
+                                    "name": "hallLogoLight04"
+                                },
+                                {
+                                    "name": "hallLogoLight05"
+                                },
+                                {
+                                    "name": "hallLogoLight06"
+                                },
+                                {
+                                    "name": "hallLogoLight07"
+                                },
+                                {
+                                    "name": "hallLogoLight08"
+                                },
+                                {
+                                    "name": "hallLogoLight09"
+                                },
+                                {
+                                    "name": "hallLogoLight10"
+                                },
+                                {
+                                    "name": "hallLogoLight11"
+                                },
+                                {
+                                    "name": "hallLogoLight12"
+                                },
+                                {
+                                    "name": "hallLogoLight13"
+                                },
+                                {
+                                    "name": "hallLogoLight14"
+                                },
+                                {
+                                    "name": "hallLogoLight15"
+                                },
+                                {
+                                    "name": "hallLogoLight16"
+                                },
+                                {
+                                    "name": "hallLogoLight17"
+                                },
+                                {
+                                    "name": "hallLogoLight18"
+                                },
+                                {
+                                    "name": "hallLogoLight19"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "EffectStartLight",
+                            "display": [
+                                {
+                                    "name": "EffectStartLight",
+                                    "transform": {
+                                        "x": 22.34,
+                                        "y": -3.62
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "logo_txt",
+                            "display": [
+                                {
+                                    "name": "logo_txt",
+                                    "transform": {
+                                        "x": 70.85,
+                                        "y": -2.85
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "logo_K",
+                            "display": [
+                                {
+                                    "name": "logo_K",
+                                    "transform": {
+                                        "x": -0.11,
+                                        "y": 0.09,
+                                        "scX": 0.28,
+                                        "scY": 0.28
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "logo_Y",
+                            "display": [
+                                {
+                                    "name": "logo_Y",
+                                    "transform": {
+                                        "y": -0.85,
+                                        "scX": 0.275,
+                                        "scY": 0.28
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "logo_txt2",
+                            "display": [
+                                {
+                                    "name": "logo_txt2"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "animation": [
+                {
+                    "duration": 240,
+                    "name": "animation",
+                    "playTimes": 0, 
+                    "bone": [
+                        {
+                            "name": "骨骼3",
+                            "scaleFrame": [
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 28,
+                                    "x": 1.05,
+                                    "y": 1.05
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0,
+                                    "x": 1.05,
+                                    "y": 1.05
+                                },
+                                {
+                                    "duration": 198
+                                }
+                            ]
+                        },
+                        {
+                            "name": "骨骼4",
+                            "scaleFrame": [
+                                {
+                                    "duration": 7
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0,
+                                    "x": 0
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0,
+                                    "x": -1
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0,
+                                    "x": 0
+                                },
+                                {
+                                    "duration": 205
+                                }
+                            ]
+                        },
+                        {
+                            "name": "骨骼5",
+                            "scaleFrame": [
+                                {
+                                    "duration": 7
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0,
+                                    "x": 0
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0,
+                                    "x": -1
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0,
+                                    "x": 0
+                                },
+                                {
+                                    "duration": 205
+                                }
+                            ]
+                        },
+                        {
+                            "name": "骨骼6",
+                            "translateFrame": [
+                                {
+                                    "duration": 92,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 26,
+                                    "curve": [
+                                        0,
+                                        0.215,
+                                        0.75,
+                                        1
+                                    ]
+                                },
+                                {
+                                    "duration": 122,
+                                    "x": 12.66
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "duration": 92,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 7,
+                                    "curve": [
+                                        0,
+                                        0.215,
+                                        0.75,
+                                        1
+                                    ],
+                                    "x": 0.7,
+                                    "y": 0.7
+                                },
+                                {
+                                    "duration": 19,
+                                    "curve": [
+                                        0.25,
+                                        0,
+                                        1,
+                                        0.78
+                                    ]
+                                },
+                                {
+                                    "duration": 122,
+                                    "x": 0.7,
+                                    "y": 0.7
+                                }
+                            ]
+                        }
+                    ],
+                    "slot": [
+                        {
+                            "name": "EffectStartLight",
+                            "colorFrame": [
+                                {
+                                    "duration": 92,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 7,
+                                    "curve": [
+                                        0,
+                                        0.19,
+                                        0.75,
+                                        1
+                                    ],
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 19,
+                                    "curve": [
+                                        0.25,
+                                        0,
+                                        1,
+                                        0.75
+                                    ]
+                                },
+                                {
+                                    "duration": 122,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "light",
+                            "displayFrame": [
+                                {
+                                    "duration": 47,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 2
+                                },
+                                {
+                                    "duration": 2,
+                                    "value": 1
+                                },
+                                {
+                                    "duration": 2,
+                                    "value": 2
+                                },
+                                {
+                                    "duration": 2,
+                                    "value": 3
+                                },
+                                {
+                                    "duration": 2,
+                                    "value": 4
+                                },
+                                {
+                                    "duration": 2,
+                                    "value": 5
+                                },
+                                {
+                                    "duration": 2,
+                                    "value": 6
+                                },
+                                {
+                                    "duration": 2,
+                                    "value": 7
+                                },
+                                {
+                                    "duration": 2,
+                                    "value": 8
+                                },
+                                {
+                                    "duration": 2,
+                                    "value": 9
+                                },
+                                {
+                                    "duration": 2,
+                                    "value": 10
+                                },
+                                {
+                                    "duration": 2,
+                                    "value": 11
+                                },
+                                {
+                                    "duration": 2,
+                                    "value": 12
+                                },
+                                {
+                                    "duration": 2,
+                                    "value": 13
+                                },
+                                {
+                                    "duration": 2,
+                                    "value": 14
+                                },
+                                {
+                                    "duration": 2,
+                                    "value": 15
+                                },
+                                {
+                                    "duration": 2,
+                                    "value": 16
+                                },
+                                {
+                                    "duration": 2,
+                                    "value": 17
+                                },
+                                {
+                                    "duration": 2,
+                                    "value": 18
+                                },
+                                {
+                                    "duration": 2,
+                                    "value": 19
+                                },
+                                {
+                                    "duration": 153,
+                                    "value": -1
+                                }
+                            ],
+                            "colorFrame": [
+                                {
+                                    "duration": 240
+                                }
+                            ]
+                        },
+                        {
+                            "name": "logo_txt2",
+                            "colorFrame": [
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 28,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 198
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "defaultActions": [
+                {
+                    "gotoAndPlay": "animation"
+                }
+            ]
+        }
+    ]
+}
