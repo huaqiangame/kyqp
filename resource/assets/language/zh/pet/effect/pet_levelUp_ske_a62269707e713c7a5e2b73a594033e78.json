@@ -1,0 +1,637 @@
+{
+    "frameRate": 24,
+    "name": "pet_levelUp",
+    "version": "5.5",
+    "compatibleVersion": "5.5",
+    "armature": [
+        {
+            "type": "Armature",
+            "frameRate": 24,
+            "name": "ArmatureSj",
+            "aabb": {
+                "x": -44,
+                "y": -53.5,
+                "width": 88,
+                "height": 104
+            },
+            "bone": [
+                {
+                    "name": "root"
+                },
+                {
+                    "length": 18,
+                    "name": "layer631",
+                    "parent": "root",
+                    "transform": {
+                        "y": 21,
+                        "skX": -90.9548,
+                        "skY": -90.9548
+                    }
+                },
+                {
+                    "length": 4,
+                    "name": "sj625",
+                    "parent": "root",
+                    "transform": {
+                        "x": 0.35,
+                        "y": -8,
+                        "skX": -86.0091,
+                        "skY": -86.0091
+                    }
+                },
+                {
+                    "length": 25,
+                    "name": "sj629",
+                    "parent": "root",
+                    "transform": {
+                        "x": 0.35,
+                        "y": -1.35,
+                        "skX": -90,
+                        "skY": -90
+                    }
+                },
+                {
+                    "length": 26,
+                    "name": "sj630",
+                    "parent": "root",
+                    "transform": {
+                        "x": -1,
+                        "y": -21.3,
+                        "skX": -87.1055,
+                        "skY": -87.1055
+                    }
+                },
+                {
+                    "name": "sj631",
+                    "parent": "root",
+                    "transform": {
+                        "x": 0.5338,
+                        "y": 16.65
+                    }
+                },
+                {
+                    "name": "sj6282",
+                    "parent": "root",
+                    "transform": {
+                        "x": -0.1627,
+                        "y": 21
+                    }
+                },
+                {
+                    "name": "sj628",
+                    "parent": "root",
+                    "transform": {
+                        "x": -0.489,
+                        "y": 18.35,
+                        "skX": -90,
+                        "skY": -90
+                    }
+                }
+            ],
+            "slot": [
+                {
+                    "name": "sj6282",
+                    "parent": "sj6282"
+                },
+                {
+                    "name": "sj628",
+                    "parent": "sj628"
+                },
+                {
+                    "name": "sj625",
+                    "parent": "sj625"
+                },
+                {
+                    "name": "sj631",
+                    "parent": "sj631"
+                },
+                {
+                    "name": "sj629",
+                    "parent": "sj629"
+                },
+                {
+                    "name": "sj630",
+                    "parent": "sj630"
+                },
+                {
+                    "name": "levelUp",
+                    "parent": "root"
+                }
+            ],
+            "skin": [
+                {
+                    "slot": [
+                        {
+                            "name": "sj628",
+                            "display": [
+                                {
+                                    "name": "sj628",
+                                    "transform": {
+                                        "x": -0.65,
+                                        "y": -0.21,
+                                        "skX": 90,
+                                        "skY": 90
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "sj625",
+                            "display": [
+                                {
+                                    "name": "sj625",
+                                    "transform": {
+                                        "x": -4.51,
+                                        "y": -0.04,
+                                        "skX": 86.01,
+                                        "skY": 86.01
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "sj6282",
+                            "display": [
+                                {
+                                    "name": "sj6282",
+                                    "transform": {
+                                        "x": -0.34,
+                                        "y": -2
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "levelUp",
+                            "display": [
+                                {
+                                    "name": "sj",
+                                    "transform": {
+                                        "x": -0.5,
+                                        "y": 33
+                                    },
+                                    "path": "shengji"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "sj630",
+                            "display": [
+                                {
+                                    "name": "sj630",
+                                    "transform": {
+                                        "x": 10.24,
+                                        "y": 0.48,
+                                        "skX": 87.11,
+                                        "skY": 87.11
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "sj631",
+                            "display": [
+                                {
+                                    "name": "sj631",
+                                    "transform": {
+                                        "x": -1.03,
+                                        "y": -9.15
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "sj629",
+                            "display": [
+                                {
+                                    "name": "sj629",
+                                    "transform": {
+                                        "x": 15.15,
+                                        "y": -0.85,
+                                        "skX": 90,
+                                        "skY": 90
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "animation": [
+                {
+                    "duration": 22,
+                    "playTimes": 0,
+                    "name": "dj",
+                    "bone": [
+                        {
+                            "name": "sj625",
+                            "translateFrame": [
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0,
+                                    "y": -7.84
+                                },
+                                {
+                                    "duration": 8,
+                                    "y": -28.19
+                                }
+                            ]
+                        },
+                        {
+                            "name": "sj629",
+                            "translateFrame": [
+                                {
+                                    "duration": 2
+                                },
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0,
+                                    "y": -6.72
+                                },
+                                {
+                                    "duration": 8,
+                                    "y": -30.35
+                                }
+                            ]
+                        },
+                        {
+                            "name": "sj630",
+                            "translateFrame": [
+                                {
+                                    "duration": 9
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0,
+                                    "y": -9.29
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "y": -20.86
+                                },
+                                {
+                                    "duration": 0,
+                                    "y": -29.12
+                                }
+                            ]
+                        },
+                        {
+                            "name": "sj631",
+                            "translateFrame": [
+                                {
+                                    "duration": 2,
+                                    "curve": [
+                                        0.5,
+                                        0,
+                                        0.5,
+                                        1
+                                    ]
+                                },
+                                {
+                                    "duration": 6,
+                                    "curve": [
+                                        0.5,
+                                        0,
+                                        0.5,
+                                        1
+                                    ],
+                                    "y": 0.17
+                                },
+                                {
+                                    "duration": 3,
+                                    "curve": [
+                                        0.5,
+                                        0,
+                                        0.5,
+                                        1
+                                    ],
+                                    "y": -13.35
+                                },
+                                {
+                                    "duration": 11
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "duration": 2,
+                                    "curve": [
+                                        0.5,
+                                        0,
+                                        0.5,
+                                        1
+                                    ]
+                                },
+                                {
+                                    "duration": 8,
+                                    "tweenEasing": 0,
+                                    "x": 0.96,
+                                    "y": 0.76
+                                },
+                                {
+                                    "duration": 12
+                                }
+                            ]
+                        },
+                        {
+                            "name": "sj6282",
+                            "scaleFrame": [
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "x": 0.78,
+                                    "y": 0.78
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 6,
+                                    "x": 1.29,
+                                    "y": 1.29
+                                }
+                            ]
+                        },
+                        {
+                            "name": "sj628",
+                            "scaleFrame": [
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "x": 0.71,
+                                    "y": 0.71
+                                },
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 8,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 8,
+                                    "x": 1.1,
+                                    "y": 1.1
+                                }
+                            ]
+                        }
+                    ],
+                    "slot": [
+                        {
+                            "name": "sj628",
+                            "colorFrame": [
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 8,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 8,
+                                    "value": {
+                                        "aM": 31
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "sj6282",
+                            "colorFrame": [
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "rM": 15,
+                                        "bM": 94
+                                    }
+                                },
+                                {
+                                    "duration": 6,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "sj625",
+                            "colorFrame": [
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 15
+                                    }
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 8,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "sj631",
+                            "colorFrame": [
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 46
+                                    }
+                                },
+                                {
+                                    "duration": 10
+                                }
+                            ]
+                        },
+                        {
+                            "name": "sj629",
+                            "colorFrame": [
+                                {
+                                    "duration": 2
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 8,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "sj630",
+                            "colorFrame": [
+                                {
+                                    "duration": 9
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "rM": 0,
+                                        "bM": 84
+                                    }
+                                },
+                                {
+                                    "duration": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "duration": 19,
+                    "playTimes": 0,
+                    "name": "zczt",
+                    "bone": [
+                        {
+                            "name": "sj6282",
+                            "scaleFrame": [
+                                {
+                                    "duration": 9,
+                                    "curve": [
+                                        0.5,
+                                        0,
+                                        0.5,
+                                        1
+                                    ]
+                                },
+                                {
+                                    "duration": 10,
+                                    "curve": [
+                                        0.5,
+                                        0,
+                                        0.5,
+                                        1
+                                    ],
+                                    "x": 1.12,
+                                    "y": 1.12
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "slot": [
+                        {
+                            "name": "sj6282",
+                            "colorFrame": [
+                                {
+                                    "duration": 9,
+                                    "curve": [
+                                        0.5,
+                                        0,
+                                        0.5,
+                                        1
+                                    ]
+                                },
+                                {
+                                    "duration": 10,
+                                    "curve": [
+                                        0.5,
+                                        0,
+                                        0.5,
+                                        1
+                                    ],
+                                    "value": {
+                                        "aM": 8
+                                    }
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "defaultActions": [
+                {
+                    "gotoAndPlay": "dj"
+                }
+            ]
+        }
+    ]
+}

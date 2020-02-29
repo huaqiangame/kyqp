@@ -1,0 +1,15 @@
+{"file":"gswzp_fnt_hall1.png","frames":{
+"d":{"x":0,"y":0,"w":44,"h":20,"offX":0,"offY":0,"sourceW":44,"sourceH":20},
+"z":{"x":44,"y":0,"w":44,"h":20,"offX":0,"offY":0,"sourceW":44,"sourceH":20},
+",":{"x":44,"y":20,"w":7,"h":8,"offX":0,"offY":12,"sourceW":7,"sourceH":20},
+".":{"x":51,"y":20,"w":5,"h":7,"offX":0,"offY":12,"sourceW":5,"sourceH":20},
+"0":{"x":12,"y":20,"w":12,"h":17,"offX":0,"offY":2,"sourceW":12,"sourceH":20},
+"1":{"x":36,"y":20,"w":8,"h":17,"offX":0,"offY":2,"sourceW":8,"sourceH":20},
+"2":{"x":101,"y":17,"w":13,"h":17,"offX":0,"offY":2,"sourceW":13,"sourceH":20},
+"3":{"x":101,"y":0,"w":13,"h":17,"offX":0,"offY":2,"sourceW":13,"sourceH":20},
+"4":{"x":0,"y":20,"w":12,"h":17,"offX":0,"offY":2,"sourceW":12,"sourceH":20},
+"5":{"x":88,"y":17,"w":13,"h":17,"offX":0,"offY":2,"sourceW":13,"sourceH":20},
+"6":{"x":24,"y":20,"w":12,"h":17,"offX":0,"offY":2,"sourceW":12,"sourceH":20},
+"7":{"x":114,"y":0,"w":13,"h":17,"offX":0,"offY":2,"sourceW":13,"sourceH":20},
+"8":{"x":88,"y":0,"w":13,"h":17,"offX":0,"offY":2,"sourceW":13,"sourceH":20},
+"9":{"x":114,"y":17,"w":12,"h":17,"offX":0,"offY":2,"sourceW":12,"sourceH":20}}}

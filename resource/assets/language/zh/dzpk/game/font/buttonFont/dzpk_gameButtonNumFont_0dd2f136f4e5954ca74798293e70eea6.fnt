@@ -1,0 +1,12 @@
+{"file":"dzpk_gameButtonNumFont.png","frames":{
+"4":{"x":1,"y":49,"w":15,"h":22,"offX":0,"offY":0,"sourceW":15,"sourceH":24},
+"5":{"x":34,"y":49,"w":14,"h":22,"offX":0,"offY":0,"sourceW":15,"sourceH":24},
+"6":{"x":18,"y":1,"w":15,"h":22,"offX":0,"offY":0,"sourceW":15,"sourceH":24},
+"7":{"x":18,"y":49,"w":14,"h":22,"offX":1,"offY":0,"sourceW":15,"sourceH":24},
+"8":{"x":1,"y":1,"w":15,"h":22,"offX":0,"offY":0,"sourceW":15,"sourceH":24},
+"9":{"x":1,"y":25,"w":15,"h":22,"offX":0,"offY":0,"sourceW":15,"sourceH":24},
+".":{"x":52,"y":25,"w":5,"h":6,"offX":0,"offY":18,"sourceW":6,"sourceH":24},
+"0":{"x":18,"y":25,"w":15,"h":22,"offX":0,"offY":0,"sourceW":15,"sourceH":24},
+"1":{"x":52,"y":1,"w":9,"h":22,"offX":1,"offY":0,"sourceW":15,"sourceH":24},
+"2":{"x":35,"y":25,"w":15,"h":22,"offX":0,"offY":0,"sourceW":15,"sourceH":24},
+"3":{"x":35,"y":1,"w":15,"h":22,"offX":0,"offY":0,"sourceW":15,"sourceH":24}}}

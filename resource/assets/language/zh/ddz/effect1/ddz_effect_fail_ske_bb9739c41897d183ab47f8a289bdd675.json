@@ -1,0 +1,1042 @@
+{
+    "frameRate": 24,
+    "name": "ddz_effect_fail",
+    "version": "5.5",
+    "compatibleVersion": "5.5",
+    "armature": [
+        {
+            "type": "Armature",
+            "frameRate": 24,
+            "name": "ddz_effect_fail",
+            "bone": [
+                {
+                    "name": "root"
+                },
+                {
+                    "name": "地主失败",
+                    "parent": "root"
+                },
+                {
+                    "name": "农民失败",
+                    "parent": "root"
+                },
+                {
+                    "name": "条带",
+                    "parent": "root"
+                },
+                {
+                    "name": "农民",
+                    "parent": "root"
+                },
+                {
+                    "name": "地主",
+                    "parent": "root"
+                },
+                {
+                    "name": "乌云",
+                    "parent": "root"
+                },
+                {
+                    "name": "乌云1",
+                    "parent": "root"
+                }
+            ],
+            "slot": [
+                {
+                    "displayIndex": -1,
+                    "name": "地主失败",
+                    "parent": "地主失败"
+                },
+                {
+                    "displayIndex": -1,
+                    "name": "农民失败",
+                    "parent": "农民失败"
+                },
+                {
+                    "displayIndex": -1,
+                    "name": "条带",
+                    "parent": "条带"
+                },
+                {
+                    "displayIndex": -1,
+                    "name": "农民",
+                    "parent": "农民"
+                },
+                {
+                    "displayIndex": -1,
+                    "name": "地主",
+                    "parent": "地主"
+                },
+                {
+                    "displayIndex": -1,
+                    "name": "乌云",
+                    "parent": "乌云"
+                },
+                {
+                    "displayIndex": -1,
+                    "name": "乌云1",
+                    "parent": "乌云1"
+                }
+            ],
+            "skin": [
+                {
+                    "slot": [
+                        {
+                            "name": "地主",
+                            "display": [
+                                {
+                                    "name": "2"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "农民失败",
+                            "display": [
+                                {
+                                    "name": "农民失败"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "乌云1",
+                            "display": [
+                                {
+                                    "name": "图层 1"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "农民",
+                            "display": [
+                                {
+                                    "name": "3"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "条带",
+                            "display": [
+                                {
+                                    "name": "失败绸带"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "乌云",
+                            "display": [
+                                {
+                                    "name": "图层 1"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "地主失败",
+                            "display": [
+                                {
+                                    "name": "地主失败"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "animation": [
+                {
+                    "duration": 74,
+                    "name": "landlordfail",
+                    "bone": [
+                        {
+                            "name": "地主失败",
+                            "translateFrame": [
+                                {
+                                    "duration": 74,
+                                    "y": -8
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "duration": 2
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "x": 3,
+                                    "y": 3
+                                },
+                                {
+                                    "duration": 69
+                                }
+                            ]
+                        },
+                        {
+                            "name": "条带",
+                            "scaleFrame": [
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "x": 0.01
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "x": 1.1
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "x": 0.9
+                                },
+                                {
+                                    "duration": 63
+                                }
+                            ]
+                        },
+                        {
+                            "name": "地主",
+                            "translateFrame": [
+                                {
+                                    "duration": 3
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "x": -16.55,
+                                    "y": -60.46
+                                },
+                                {
+                                    "duration": 68,
+                                    "x": -16.55,
+                                    "y": -88.94
+                                }
+                            ]
+                        },
+                        {
+                            "name": "乌云",
+                            "translateFrame": [
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0,
+                                    "x": 96.16,
+                                    "y": -168.55
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0,
+                                    "x": 96.16,
+                                    "y": -168.55
+                                },
+                                {
+                                    "duration": 16,
+                                    "tweenEasing": 0,
+                                    "x": 89.04,
+                                    "y": -168.55
+                                },
+                                {
+                                    "duration": 17,
+                                    "tweenEasing": 0,
+                                    "x": 96.16,
+                                    "y": -168.55
+                                },
+                                {
+                                    "duration": 16,
+                                    "tweenEasing": 0,
+                                    "x": 89.04,
+                                    "y": -168.55
+                                },
+                                {
+                                    "duration": 5,
+                                    "x": 96.16,
+                                    "y": -168.55
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "duration": 2
+                                },
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "x": 0.01,
+                                    "y": 0.01
+                                },
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "x": 1.1,
+                                    "y": 1.1
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "x": 0.9,
+                                    "y": 0.9
+                                },
+                                {
+                                    "duration": 64
+                                }
+                            ]
+                        },
+                        {
+                            "name": "乌云1",
+                            "translateFrame": [
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0,
+                                    "x": -105.57,
+                                    "y": -151.94
+                                },
+                                {
+                                    "duration": 16,
+                                    "tweenEasing": 0,
+                                    "x": -105.57,
+                                    "y": -151.94
+                                },
+                                {
+                                    "duration": 16,
+                                    "tweenEasing": 0,
+                                    "x": -91.39,
+                                    "y": -151.94
+                                },
+                                {
+                                    "duration": 16,
+                                    "tweenEasing": 0,
+                                    "x": -105.57,
+                                    "y": -151.94
+                                },
+                                {
+                                    "duration": 16,
+                                    "tweenEasing": 0,
+                                    "x": -91.39,
+                                    "y": -151.94
+                                },
+                                {
+                                    "duration": 0,
+                                    "x": -105.57,
+                                    "y": -151.94
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "duration": 2
+                                },
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "x": 0.01,
+                                    "y": 0.01
+                                },
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "x": -0.9,
+                                    "y": 0.9
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "x": -0.7,
+                                    "y": 0.7
+                                },
+                                {
+                                    "duration": 64,
+                                    "x": -0.8,
+                                    "y": 0.8
+                                }
+                            ]
+                        }
+                    ],
+                    "slot": [
+                        {
+                            "name": "地主失败",
+                            "displayFrame": [
+                                {
+                                    "duration": 74
+                                }
+                            ],
+                            "colorFrame": [
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 69
+                                }
+                            ]
+                        },
+                        {
+                            "name": "条带",
+                            "displayFrame": [
+                                {
+                                    "duration": 74
+                                }
+                            ]
+                        },
+                        {
+                            "name": "地主",
+                            "displayFrame": [
+                                {
+                                    "duration": 74
+                                }
+                            ],
+                            "colorFrame": [
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 71
+                                }
+                            ]
+                        },
+                        {
+                            "name": "乌云",
+                            "colorFrame": [
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 16,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 14,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 80
+                                    }
+                                },
+                                {
+                                    "duration": 15,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 14,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 80
+                                    }
+                                },
+                                {
+                                    "duration": 5
+                                }
+                            ]
+                        },
+                        {
+                            "name": "乌云1",
+                            "colorFrame": [
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 21,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 20,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 80
+                                    }
+                                },
+                                {
+                                    "duration": 23,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 0,
+                                    "value": {
+                                        "aM": 80
+                                    }
+                                }
+                            ]
+                        }
+                    ],
+                    "zOrder": {
+                        "frame": [
+                            {
+                                "duration": 74,
+                                "zOrder": [
+                                    0,
+                                    6,
+                                    4,
+                                    -3,
+                                    6,
+                                    -6
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "duration": 74,
+                    "name": "farmerfail",
+                    "bone": [
+                        {
+                            "name": "农民失败",
+                            "translateFrame": [
+                                {
+                                    "duration": 74,
+                                    "y": -8
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "duration": 2
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "x": 3,
+                                    "y": 3
+                                },
+                                {
+                                    "duration": 69
+                                }
+                            ]
+                        },
+                        {
+                            "name": "条带",
+                            "scaleFrame": [
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "x": 0.01
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "x": 1.1
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "x": 0.9
+                                },
+                                {
+                                    "duration": 63
+                                }
+                            ]
+                        },
+                        {
+                            "name": "农民",
+                            "translateFrame": [
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "y": -63.97
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "y": -63.97
+                                },
+                                {
+                                    "duration": 68,
+                                    "y": -91.13
+                                }
+                            ]
+                        },
+                        {
+                            "name": "乌云",
+                            "translateFrame": [
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0,
+                                    "x": 96.16,
+                                    "y": -168.55
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0,
+                                    "x": 96.16,
+                                    "y": -168.55
+                                },
+                                {
+                                    "duration": 16,
+                                    "tweenEasing": 0,
+                                    "x": 89.04,
+                                    "y": -168.55
+                                },
+                                {
+                                    "duration": 17,
+                                    "tweenEasing": 0,
+                                    "x": 96.16,
+                                    "y": -168.55
+                                },
+                                {
+                                    "duration": 16,
+                                    "tweenEasing": 0,
+                                    "x": 89.04,
+                                    "y": -168.55
+                                },
+                                {
+                                    "duration": 5,
+                                    "x": 96.16,
+                                    "y": -168.55
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "duration": 2
+                                },
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "x": 0.01,
+                                    "y": 0.01
+                                },
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "x": 1.1,
+                                    "y": 1.1
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "x": 0.9,
+                                    "y": 0.9
+                                },
+                                {
+                                    "duration": 64
+                                }
+                            ]
+                        },
+                        {
+                            "name": "乌云1",
+                            "translateFrame": [
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0,
+                                    "x": -105.57,
+                                    "y": -151.94
+                                },
+                                {
+                                    "duration": 16,
+                                    "tweenEasing": 0,
+                                    "x": -105.57,
+                                    "y": -151.94
+                                },
+                                {
+                                    "duration": 16,
+                                    "tweenEasing": 0,
+                                    "x": -91.39,
+                                    "y": -151.94
+                                },
+                                {
+                                    "duration": 16,
+                                    "tweenEasing": 0,
+                                    "x": -105.57,
+                                    "y": -151.94
+                                },
+                                {
+                                    "duration": 16,
+                                    "tweenEasing": 0,
+                                    "x": -91.39,
+                                    "y": -151.94
+                                },
+                                {
+                                    "duration": 0,
+                                    "x": -105.57,
+                                    "y": -151.94
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "duration": 2
+                                },
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "x": 0.01,
+                                    "y": 0.01
+                                },
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "x": -0.9,
+                                    "y": 0.9
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "x": -0.7,
+                                    "y": 0.7
+                                },
+                                {
+                                    "duration": 64,
+                                    "x": -0.8,
+                                    "y": 0.8
+                                }
+                            ]
+                        }
+                    ],
+                    "slot": [
+                        {
+                            "name": "乌云1",
+                            "colorFrame": [
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 21,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 20,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 80
+                                    }
+                                },
+                                {
+                                    "duration": 23,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 0,
+                                    "value": {
+                                        "aM": 80
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "农民失败",
+                            "displayFrame": [
+                                {
+                                    "duration": 74
+                                }
+                            ],
+                            "colorFrame": [
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 69
+                                }
+                            ]
+                        },
+                        {
+                            "name": "条带",
+                            "displayFrame": [
+                                {
+                                    "duration": 74
+                                }
+                            ]
+                        },
+                        {
+                            "name": "农民",
+                            "displayFrame": [
+                                {
+                                    "duration": 74
+                                }
+                            ],
+                            "colorFrame": [
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 71
+                                }
+                            ]
+                        },
+                        {
+                            "name": "乌云",
+                            "colorFrame": [
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 16,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 14,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 80
+                                    }
+                                },
+                                {
+                                    "duration": 15,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 14,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 80
+                                    }
+                                },
+                                {
+                                    "duration": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "zOrder": {
+                        "frame": [
+                            {
+                                "duration": 74,
+                                "zOrder": [
+                                    1,
+                                    5,
+                                    2,
+                                    0
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "duration": 64,
+                    "playTimes": 0,
+                    "name": "cloud",
+                    "bone": [
+                        {
+                            "name": "乌云",
+                            "translateFrame": [
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0,
+                                    "x": 96.16,
+                                    "y": -168.55
+                                },
+                                {
+                                    "duration": 16,
+                                    "tweenEasing": 0,
+                                    "x": 89.04,
+                                    "y": -168.55
+                                },
+                                {
+                                    "duration": 17,
+                                    "tweenEasing": 0,
+                                    "x": 96.16,
+                                    "y": -168.55
+                                },
+                                {
+                                    "duration": 16,
+                                    "tweenEasing": 0,
+                                    "x": 89.04,
+                                    "y": -168.55
+                                },
+                                {
+                                    "duration": 5,
+                                    "x": 96.16,
+                                    "y": -168.55
+                                }
+                            ]
+                        },
+                        {
+                            "name": "乌云1",
+                            "translateFrame": [
+                                {
+                                    "duration": 16,
+                                    "tweenEasing": 0,
+                                    "x": -105.57,
+                                    "y": -151.94
+                                },
+                                {
+                                    "duration": 16,
+                                    "tweenEasing": 0,
+                                    "x": -91.39,
+                                    "y": -151.94
+                                },
+                                {
+                                    "duration": 16,
+                                    "tweenEasing": 0,
+                                    "x": -105.57,
+                                    "y": -151.94
+                                },
+                                {
+                                    "duration": 16,
+                                    "tweenEasing": 0,
+                                    "x": -91.39,
+                                    "y": -151.94
+                                },
+                                {
+                                    "duration": 0,
+                                    "x": -105.57,
+                                    "y": -151.94
+                                }
+                            ]
+                        }
+                    ],
+                    "slot": [
+                        {
+                            "name": "乌云",
+                            "displayFrame": [
+                                {
+                                    "duration": 64
+                                }
+                            ],
+                            "colorFrame": [
+                                {
+                                    "duration": 16,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 14,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 80
+                                    }
+                                },
+                                {
+                                    "duration": 15,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 14,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 80
+                                    }
+                                },
+                                {
+                                    "duration": 5
+                                }
+                            ]
+                        },
+                        {
+                            "name": "乌云1",
+                            "displayFrame": [
+                                {
+                                    "duration": 64
+                                }
+                            ],
+                            "colorFrame": [
+                                {
+                                    "duration": 21,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 80
+                                    }
+                                },
+                                {
+                                    "duration": 20,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 80
+                                    }
+                                },
+                                {
+                                    "duration": 23,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 0,
+                                    "value": {
+                                        "aM": 80
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "defaultActions": [
+                {
+                    "gotoAndPlay": "landlordfail"
+                }
+            ]
+        }
+    ]
+}

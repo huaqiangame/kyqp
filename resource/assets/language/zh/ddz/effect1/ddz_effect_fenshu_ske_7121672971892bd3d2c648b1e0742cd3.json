@@ -1,0 +1,381 @@
+{
+    "frameRate": 24,
+    "name": "ddz_effect_fenshu",
+    "version": "5.5",
+    "compatibleVersion": "5.5",
+    "armature": [
+        {
+            "type": "Armature",
+            "frameRate": 24,
+            "name": "ddz_effect_fenshu",
+            "bone": [
+                {
+                    "name": "root"
+                },
+                {
+                    "name": "不出",
+                    "parent": "root"
+                },
+                {
+                    "name": "不叫",
+                    "parent": "root"
+                },
+                {
+                    "name": "一分",
+                    "parent": "root"
+                },
+                {
+                    "name": "二分",
+                    "parent": "root"
+                },
+                {
+                    "name": "三分",
+                    "parent": "root"
+                },
+                {
+                    "name": "重新发牌",
+                    "parent": "root"
+                }
+            ],
+            "slot": [
+                {
+                    "displayIndex": -1,
+                    "name": "不出",
+                    "parent": "不出"
+                },
+                {
+                    "displayIndex": -1,
+                    "name": "不叫",
+                    "parent": "不叫"
+                },
+                {
+                    "displayIndex": -1,
+                    "name": "一分",
+                    "parent": "一分"
+                },
+                {
+                    "displayIndex": -1,
+                    "name": "二分",
+                    "parent": "二分"
+                },
+                {
+                    "displayIndex": -1,
+                    "name": "三分",
+                    "parent": "三分"
+                },
+                {
+                    "displayIndex": -1,
+                    "name": "重新发牌",
+                    "parent": "重新发牌"
+                }
+            ],
+            "skin": [
+                {
+                    "slot": [
+                        {
+                            "name": "不出",
+                            "display": [
+                                {
+                                    "name": "不出"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "重新发牌",
+                            "display": [
+                                {
+                                    "name": "cxfp2"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "不叫",
+                            "display": [
+                                {
+                                    "name": "不叫"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "一分",
+                            "display": [
+                                {
+                                    "name": "1分飘字"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "二分",
+                            "display": [
+                                {
+                                    "name": "2分飘字"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "三分",
+                            "display": [
+                                {
+                                    "name": "3分飘字"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "animation": [
+                {
+                    "duration": 5,
+                    "name": "buchu",
+                    "bone": [
+                        {
+                            "name": "不出",
+                            "translateFrame": [
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0,
+                                    "y": 50
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "slot": [
+                        {
+                            "name": "不出",
+                            "displayFrame": [
+                                {
+                                    "duration": 5
+                                }
+                            ],
+                            "colorFrame": [
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "duration": 5,
+                    "name": "bujiao",
+                    "bone": [
+                        {
+                            "name": "不叫",
+                            "translateFrame": [
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0,
+                                    "y": 50
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "slot": [
+                        {
+                            "name": "不叫",
+                            "displayFrame": [
+                                {
+                                    "duration": 5
+                                }
+                            ],
+                            "colorFrame": [
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "duration": 5,
+                    "name": "ddz_score_1",
+                    "bone": [
+                        {
+                            "name": "一分",
+                            "translateFrame": [
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0,
+                                    "y": 50
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "slot": [
+                        {
+                            "name": "一分",
+                            "displayFrame": [
+                                {
+                                    "duration": 5
+                                }
+                            ],
+                            "colorFrame": [
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "duration": 5,
+                    "name": "ddz_score_2",
+                    "bone": [
+                        {
+                            "name": "二分",
+                            "translateFrame": [
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0,
+                                    "y": 50
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "slot": [
+                        {
+                            "name": "二分",
+                            "displayFrame": [
+                                {
+                                    "duration": 5
+                                }
+                            ],
+                            "colorFrame": [
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "duration": 5,
+                    "name": "ddz_score_3",
+                    "bone": [
+                        {
+                            "name": "三分",
+                            "translateFrame": [
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0,
+                                    "y": 50
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "slot": [
+                        {
+                            "name": "三分",
+                            "displayFrame": [
+                                {
+                                    "duration": 5
+                                }
+                            ],
+                            "colorFrame": [
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "duration": 5,
+                    "name": "cxfp",
+                    "bone": [
+                        {
+                            "name": "重新发牌",
+                            "translateFrame": [
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0,
+                                    "y": 50
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "slot": [
+                        {
+                            "name": "重新发牌",
+                            "displayFrame": [
+                                {
+                                    "duration": 5
+                                }
+                            ],
+                            "colorFrame": [
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "defaultActions": [
+                {
+                    "gotoAndPlay": "buchu"
+                }
+            ]
+        }
+    ]
+}

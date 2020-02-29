@@ -1,0 +1,57 @@
+{
+    "width": 128,
+    "imagePath": "pet_levelUp_tex.png",
+    "name": "pet_levelUp",
+    "SubTexture": [
+        {
+            "width": 63,
+            "y": 1,
+            "height": 63,
+            "name": "sj6282",
+            "x": 1
+        },
+        {
+            "width": 55,
+            "y": 1,
+            "height": 55,
+            "name": "sj628",
+            "x": 66
+        },
+        {
+            "width": 48,
+            "y": 146,
+            "height": 26,
+            "name": "sj625",
+            "x": 68
+        },
+        {
+            "width": 49,
+            "y": 112,
+            "height": 32,
+            "name": "sj631",
+            "x": 68
+        },
+        {
+            "width": 65,
+            "y": 112,
+            "height": 34,
+            "name": "sj629",
+            "x": 1
+        },
+        {
+            "width": 88,
+            "y": 66,
+            "height": 44,
+            "name": "sj630",
+            "x": 1
+        },
+        {
+            "width": 47,
+            "y": 148,
+            "height": 21,
+            "name": "shengji",
+            "x": 1
+        }
+    ],
+    "height": 256
+}

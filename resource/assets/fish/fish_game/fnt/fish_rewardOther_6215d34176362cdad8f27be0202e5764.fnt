@@ -1,0 +1,14 @@
+{"file":"fish_rewardOther.png","frames":{
+"8":{"x":33,"y":49,"w":31,"h":47,"offX":0,"offY":0,"sourceW":32,"sourceH":48},
+"9":{"x":66,"y":0,"w":31,"h":47,"offX":0,"offY":0,"sourceW":32,"sourceH":48},
+".":{"x":99,"y":49,"w":15,"h":17,"offX":8,"offY":30,"sourceW":32,"sourceH":48},
+"-":{"x":33,"y":147,"w":30,"h":14,"offX":1,"offY":18,"sourceW":32,"sourceH":48},
+"+":{"x":0,"y":147,"w":31,"h":33,"offX":0,"offY":8,"sourceW":32,"sourceH":48},
+"0":{"x":0,"y":49,"w":31,"h":47,"offX":0,"offY":0,"sourceW":32,"sourceH":48},
+"1":{"x":99,"y":0,"w":22,"h":47,"offX":4,"offY":0,"sourceW":32,"sourceH":48},
+"2":{"x":0,"y":0,"w":31,"h":47,"offX":0,"offY":0,"sourceW":32,"sourceH":48},
+"3":{"x":66,"y":98,"w":31,"h":47,"offX":0,"offY":0,"sourceW":32,"sourceH":48},
+"4":{"x":33,"y":98,"w":31,"h":47,"offX":0,"offY":0,"sourceW":32,"sourceH":48},
+"5":{"x":33,"y":0,"w":31,"h":47,"offX":0,"offY":0,"sourceW":32,"sourceH":48},
+"6":{"x":66,"y":49,"w":31,"h":47,"offX":0,"offY":0,"sourceW":32,"sourceH":48},
+"7":{"x":0,"y":98,"w":31,"h":47,"offX":0,"offY":0,"sourceW":32,"sourceH":48}}}

@@ -1,0 +1,207 @@
+{
+    "frameRate": 24,
+    "name": "qznn_effect_ppcw",
+    "version": "5.5",
+    "compatibleVersion": "5.5",
+    "armature": [
+        {
+            "type": "Armature",
+            "frameRate": 24,
+            "name": "qznn_effect_ppcw",
+            "aabb": {
+                "x": -62.5,
+                "y": -81.25,
+                "width": 125,
+                "height": 127.06
+            },
+            "bone": [
+                {
+                    "name": "root"
+                },
+                {
+                    "name": "牛头",
+                    "parent": "root",
+                    "transform": {
+                        "x": -4.171,
+                        "y": -31.4964
+                    }
+                },
+                {
+                    "name": "牛身",
+                    "parent": "root"
+                },
+                {
+                    "name": "底图",
+                    "parent": "root",
+                    "transform": {
+                        "y": 32.815
+                    }
+                },
+                {
+                    "name": "眼泪",
+                    "parent": "牛头",
+                    "transform": {
+                        "x": 4.171,
+                        "y": 31.4964
+                    }
+                },
+                {
+                    "name": "拼牌错误",
+                    "parent": "底图",
+                    "transform": {
+                        "y": 1.2976
+                    }
+                }
+            ],
+            "slot": [
+                {
+                    "name": "牛身",
+                    "parent": "牛身"
+                },
+                {
+                    "name": "牛头",
+                    "parent": "牛头"
+                },
+                {
+                    "name": "眼泪",
+                    "parent": "眼泪"
+                },
+                {
+                    "name": "底图",
+                    "parent": "底图"
+                },
+                {
+                    "name": "zhong",
+                    "parent": "拼牌错误"
+                }
+            ],
+            "skin": [
+                {
+                    "slot": [
+                        {
+                            "name": "牛头",
+                            "display": [
+                                {
+                                    "name": "牛头_00000",
+                                    "transform": {
+                                        "y": 0.25
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "底图",
+                            "display": [
+                                {
+                                    "name": "bg"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "牛身",
+                            "display": [
+                                {
+                                    "name": "牛身_00000"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "眼泪",
+                            "display": [
+                                {
+                                    "name": "眼泪_00001",
+                                    "transform": {
+                                        "x": -5.06,
+                                        "y": -6.79
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "zhong",
+                            "display": [
+                                {
+                                    "name": "zhong"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "animation": [
+                {
+                    "duration": 28,
+                    "playTimes": 0,
+                    "name": "newAnimation",
+                    "bone": [
+                        {
+                            "name": "牛头",
+                            "translateFrame": [
+                                {
+                                    "duration": 15,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 13,
+                                    "tweenEasing": 0,
+                                    "y": 1
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        }
+                    ],
+                    "slot": [
+                        {
+                            "name": "眼泪",
+                            "colorFrame": [
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "defaultActions": [
+                {
+                    "gotoAndPlay": "newAnimation"
+                }
+            ]
+        }
+    ]
+}

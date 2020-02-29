@@ -1,0 +1,276 @@
+{
+  "resources": [
+    "ermj_audiosp.ogg",
+    "ermj_audiosp.m4a",
+    "ermj_audiosp.mp3",
+    "ermj_audiosp.ac3"
+  ],
+  "spritemap": {
+    "ermj_bgm_game": {
+      "start": 0,
+      "end": 60.02938775510204,
+      "loop": true
+    },
+    "ermj_daojishi_s": {
+      "start": 62,
+      "end": 62.60081632653061,
+      "loop": false
+    },
+    "ermj_fapai_s": {
+      "start": 64,
+      "end": 65.01877551020408,
+      "loop": false
+    },
+    "ermj_game_start_s": {
+      "start": 67,
+      "end": 69.32489795918367,
+      "loop": false
+    },
+    "ermj_man_bai_s": {
+      "start": 71,
+      "end": 72.09820861678004,
+      "loop": false
+    },
+    "ermj_man_bei_s": {
+      "start": 74,
+      "end": 74.75861678004536,
+      "loop": false
+    },
+    "ermj_man_buhua_s": {
+      "start": 76,
+      "end": 76.75968253968254,
+      "loop": false
+    },
+    "ermj_man_chi_s": {
+      "start": 78,
+      "end": 78.57575963718821,
+      "loop": false
+    },
+    "ermj_man_dong_s": {
+      "start": 80,
+      "end": 80.6280045351474,
+      "loop": false
+    },
+    "ermj_man_fa_s": {
+      "start": 82,
+      "end": 82.86310657596371,
+      "loop": false
+    },
+    "ermj_man_gang_s": {
+      "start": 84,
+      "end": 84.49739229024944,
+      "loop": false
+    },
+    "ermj_man_hu_s": {
+      "start": 86,
+      "end": 86.9153514739229,
+      "loop": false
+    },
+    "ermj_man_nan_s": {
+      "start": 88,
+      "end": 88.81086167800453,
+      "loop": false
+    },
+    "ermj_man_peng_s": {
+      "start": 90,
+      "end": 90.81086167800453,
+      "loop": false
+    },
+    "ermj_man_wan_1_s": {
+      "start": 92,
+      "end": 92.6018820861678,
+      "loop": false
+    },
+    "ermj_man_wan_2_s": {
+      "start": 94,
+      "end": 94.75861678004536,
+      "loop": false
+    },
+    "ermj_man_wan_3_s": {
+      "start": 96,
+      "end": 96.83698412698412,
+      "loop": false
+    },
+    "ermj_man_wan_4_s": {
+      "start": 98,
+      "end": 98.83698412698412,
+      "loop": false
+    },
+    "ermj_man_wan_5_s": {
+      "start": 100,
+      "end": 100.78473922902495,
+      "loop": false
+    },
+    "ermj_man_wan_6_s": {
+      "start": 102,
+      "end": 102.86310657596371,
+      "loop": false
+    },
+    "ermj_man_wan_7_s": {
+      "start": 104,
+      "end": 104.78473922902495,
+      "loop": false
+    },
+    "ermj_man_wan_8_s": {
+      "start": 106,
+      "end": 106.68024943310658,
+      "loop": false
+    },
+    "ermj_man_wan_9_s": {
+      "start": 108,
+      "end": 108.86310657596371,
+      "loop": false
+    },
+    "ermj_man_xi_s": {
+      "start": 110,
+      "end": 110.94147392290249,
+      "loop": false
+    },
+    "ermj_man_zhong_s": {
+      "start": 112,
+      "end": 112.75861678004536,
+      "loop": false
+    },
+    "ermj_man_zimo_s": {
+      "start": 114,
+      "end": 115.04596371882086,
+      "loop": false
+    },
+    "ermj_outCard": {
+      "start": 117,
+      "end": 117.52244897959184,
+      "loop": false
+    },
+    "ermj_shu_s": {
+      "start": 119,
+      "end": 122.63102040816327,
+      "loop": false
+    },
+    "ermj_touzi": {
+      "start": 124,
+      "end": 125.48897959183674,
+      "loop": false
+    },
+    "ermj_woman_bai_s": {
+      "start": 127,
+      "end": 127.65306122448979,
+      "loop": false
+    },
+    "ermj_woman_bei_s": {
+      "start": 129,
+      "end": 129.83698412698413,
+      "loop": false
+    },
+    "ermj_woman_buhua_s": {
+      "start": 131,
+      "end": 131.6791836734694,
+      "loop": false
+    },
+    "ermj_woman_chi_s": {
+      "start": 133,
+      "end": 133.41902494331066,
+      "loop": false
+    },
+    "ermj_woman_dong_s": {
+      "start": 135,
+      "end": 135.68024943310658,
+      "loop": false
+    },
+    "ermj_woman_fa_s": {
+      "start": 137,
+      "end": 137.6280045351474,
+      "loop": false
+    },
+    "ermj_woman_gang_s": {
+      "start": 139,
+      "end": 139.41902494331066,
+      "loop": false
+    },
+    "ermj_woman_hu_s": {
+      "start": 141,
+      "end": 141.5496371882086,
+      "loop": false
+    },
+    "ermj_woman_nan_s": {
+      "start": 143,
+      "end": 143.75861678004534,
+      "loop": false
+    },
+    "ermj_woman_peng_s": {
+      "start": 145,
+      "end": 145.73249433106577,
+      "loop": false
+    },
+    "ermj_woman_wan_1_s": {
+      "start": 147,
+      "end": 147.44514739229024,
+      "loop": false
+    },
+    "ermj_woman_wan_2_s": {
+      "start": 149,
+      "end": 149.6018820861678,
+      "loop": false
+    },
+    "ermj_woman_wan_3_s": {
+      "start": 151,
+      "end": 151.6280045351474,
+      "loop": false
+    },
+    "ermj_woman_wan_4_s": {
+      "start": 153,
+      "end": 153.68024943310658,
+      "loop": false
+    },
+    "ermj_woman_wan_5_s": {
+      "start": 155,
+      "end": 155.65412698412698,
+      "loop": false
+    },
+    "ermj_woman_wan_6_s": {
+      "start": 157,
+      "end": 157.6018820861678,
+      "loop": false
+    },
+    "ermj_woman_wan_7_s": {
+      "start": 159,
+      "end": 159.6018820861678,
+      "loop": false
+    },
+    "ermj_woman_wan_8_s": {
+      "start": 161,
+      "end": 161.5757596371882,
+      "loop": false
+    },
+    "ermj_woman_wan_9_s": {
+      "start": 163,
+      "end": 163.75861678004534,
+      "loop": false
+    },
+    "ermj_woman_xi_s": {
+      "start": 165,
+      "end": 165.73249433106577,
+      "loop": false
+    },
+    "ermj_woman_zhong_s": {
+      "start": 167,
+      "end": 167.6280045351474,
+      "loop": false
+    },
+    "ermj_woman_zimo_s": {
+      "start": 169,
+      "end": 169.83698412698413,
+      "loop": false
+    },
+    "ermj_ying_s": {
+      "start": 171,
+      "end": 174.34473922902495,
+      "loop": false
+    },
+    "ermj_zhisaizi_s": {
+      "start": 176,
+      "end": 176.9840136054422,
+      "loop": false
+    }
+  },
+  "autoplay": "ermj_bgm_game"
+}

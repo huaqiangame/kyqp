@@ -1,0 +1,11 @@
+{"file":"ddz_scene_font_clock_num.png","frames":{
+"0":{"x":53,"y":33,"w":23,"h":32,"offX":1,"offY":0,"sourceW":25,"sourceH":32},
+"1":{"x":102,"y":35,"w":17,"h":30,"offX":3,"offY":1,"sourceW":25,"sourceH":32},
+"2":{"x":26,"y":35,"w":23,"h":31,"offX":1,"offY":0,"sourceW":25,"sourceH":32},
+"3":{"x":105,"y":1,"w":22,"h":32,"offX":1,"offY":0,"sourceW":25,"sourceH":32},
+"4":{"x":53,"y":1,"w":25,"h":30,"offX":0,"offY":1,"sourceW":25,"sourceH":32},
+"5":{"x":1,"y":35,"w":23,"h":31,"offX":1,"offY":1,"sourceW":25,"sourceH":32},
+"6":{"x":27,"y":1,"w":24,"h":32,"offX":1,"offY":0,"sourceW":25,"sourceH":32},
+"7":{"x":78,"y":35,"w":22,"h":30,"offX":1,"offY":1,"sourceW":25,"sourceH":32},
+"8":{"x":80,"y":1,"w":23,"h":32,"offX":1,"offY":0,"sourceW":25,"sourceH":32},
+"9":{"x":1,"y":1,"w":24,"h":32,"offX":0,"offY":0,"sourceW":25,"sourceH":32}}}

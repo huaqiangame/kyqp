@@ -1,0 +1,2611 @@
+{
+    "frameRate": 24,
+    "name": "bjl_game_effect_zhuangwin",
+    "version": "5.5",
+    "compatibleVersion": "5.5",
+    "armature": [
+        {
+            "type": "Armature",
+            "frameRate": 24,
+            "name": "bjl_game_effect_zhuangwin",
+            "aabb": {
+                "x": -286.95,
+                "y": -333.22,
+                "width": 575.9,
+                "height": 512
+            },
+            "bone": [
+                {
+                    "name": "root"
+                },
+                {
+                    "name": "闲",
+                    "parent": "root",
+                    "transform": {
+                        "x": -80,
+                        "y": -50
+                    }
+                },
+                {
+                    "name": "和",
+                    "parent": "root"
+                },
+                {
+                    "name": "赢",
+                    "parent": "root",
+                    "transform": {
+                        "x": 80,
+                        "y": -50,
+                        "skX": -1,
+                        "skY": -1
+                    }
+                },
+                {
+                    "name": "条带",
+                    "parent": "root"
+                },
+                {
+                    "name": "光芒",
+                    "parent": "root",
+                    "transform": {
+                        "x": -23.8219,
+                        "y": -77.2231,
+                        "scX": 1.1,
+                        "scY": 1.1
+                    }
+                },
+                {
+                    "name": "筹码总",
+                    "parent": "root"
+                },
+                {
+                    "name": "星光总",
+                    "parent": "root"
+                },
+                {
+                    "name": "庄",
+                    "parent": "root",
+                    "transform": {
+                        "x": -80,
+                        "y": -50
+                    }
+                },
+                {
+                    "name": "光芒1",
+                    "parent": "root",
+                    "transform": {
+                        "x": -23.8219,
+                        "y": -77.2231,
+                        "scX": 1.1,
+                        "scY": 1.1
+                    }
+                },
+                {
+                    "name": "筹码橙",
+                    "parent": "筹码总",
+                    "transform": {
+                        "x": 240.9483,
+                        "y": -150.38,
+                        "skX": 35,
+                        "skY": 35,
+                        "scX": 1.2,
+                        "scY": 1.2
+                    }
+                },
+                {
+                    "name": "筹码黑",
+                    "parent": "筹码总",
+                    "transform": {
+                        "x": 56.7679,
+                        "y": -158.761,
+                        "skX": 67,
+                        "skY": 67,
+                        "scX": 0.8,
+                        "scY": 0.8
+                    }
+                },
+                {
+                    "name": "筹码紫",
+                    "parent": "筹码总",
+                    "transform": {
+                        "x": 200.58,
+                        "y": -93.3517
+                    }
+                },
+                {
+                    "name": "星光1",
+                    "parent": "星光总",
+                    "transform": {
+                        "x": 131.197,
+                        "y": -112.9051
+                    }
+                },
+                {
+                    "name": "星光2",
+                    "parent": "星光总",
+                    "transform": {
+                        "x": -103.9002,
+                        "y": -62.0221
+                    }
+                },
+                {
+                    "name": "星光3",
+                    "parent": "星光总",
+                    "transform": {
+                        "x": 50.8899,
+                        "y": -6.8383
+                    }
+                },
+                {
+                    "name": "星光4",
+                    "parent": "星光总",
+                    "transform": {
+                        "x": -46.6491,
+                        "y": -104.4303
+                    }
+                },
+                {
+                    "name": "筹码绿",
+                    "parent": "筹码总",
+                    "transform": {
+                        "x": -148.795,
+                        "y": -99.47,
+                        "skX": -39,
+                        "skY": -39,
+                        "scX": 0.6,
+                        "scY": 0.6
+                    }
+                },
+                {
+                    "name": "筹码蓝",
+                    "parent": "筹码总",
+                    "transform": {
+                        "x": -240.9483,
+                        "y": -68.1215,
+                        "skX": -41,
+                        "skY": -41,
+                        "scX": 1.1,
+                        "scY": 1.1
+                    }
+                },
+                {
+                    "name": "筹码红",
+                    "parent": "筹码总",
+                    "transform": {
+                        "x": -151.3811,
+                        "y": -175.3498,
+                        "skX": 19,
+                        "skY": 19,
+                        "scX": 0.9,
+                        "scY": 0.9
+                    }
+                }
+            ],
+            "slot": [
+                {
+                    "name": "光芒",
+                    "parent": "光芒"
+                },
+                {
+                    "blendMode": "add",
+                    "name": "光芒1",
+                    "parent": "光芒1"
+                },
+                {
+                    "name": "条带",
+                    "parent": "条带"
+                },
+                {
+                    "name": "筹码橙",
+                    "parent": "筹码橙"
+                },
+                {
+                    "name": "筹码红",
+                    "parent": "筹码红"
+                },
+                {
+                    "name": "筹码紫",
+                    "parent": "筹码紫"
+                },
+                {
+                    "name": "筹码蓝",
+                    "parent": "筹码蓝"
+                },
+                {
+                    "name": "筹码绿",
+                    "parent": "筹码绿"
+                },
+                {
+                    "name": "筹码黑",
+                    "parent": "筹码黑"
+                },
+                {
+                    "name": "庄",
+                    "parent": "庄"
+                },
+                {
+                    "displayIndex": -1,
+                    "name": "闲",
+                    "parent": "闲"
+                },
+                {
+                    "displayIndex": -1,
+                    "name": "和",
+                    "parent": "和"
+                },
+                {
+                    "name": "赢",
+                    "parent": "赢"
+                },
+                {
+                    "blendMode": "add",
+                    "name": "星光1",
+                    "parent": "星光1"
+                },
+                {
+                    "blendMode": "add",
+                    "name": "星光2",
+                    "parent": "星光2"
+                },
+                {
+                    "blendMode": "add",
+                    "name": "星光3",
+                    "parent": "星光3"
+                },
+                {
+                    "blendMode": "add",
+                    "name": "星光4",
+                    "parent": "星光4"
+                }
+            ],
+            "skin": [
+                {
+                    "slot": [
+                        {
+                            "name": "筹码红",
+                            "display": [
+                                {
+                                    "name": "effect_Result_Chip02"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码黑",
+                            "display": [
+                                {
+                                    "name": "effect_Result_Chip05"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码紫",
+                            "display": [
+                                {
+                                    "name": "effect_Result_Chip03",
+                                    "transform": {
+                                        "skX": -18,
+                                        "skY": -18,
+                                        "scX": 0.7,
+                                        "scY": 0.7
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "条带",
+                            "display": [
+                                {
+                                    "name": "effect_Result_bg"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码蓝",
+                            "display": [
+                                {
+                                    "name": "effect_Result_Chip04"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "光芒1",
+                            "display": [
+                                {
+                                    "name": "光芒2_00000"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码绿",
+                            "display": [
+                                {
+                                    "name": "effect_Result_Chip06"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "星光3",
+                            "display": [
+                                {
+                                    "name": "glow_00000"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "和",
+                            "display": [
+                                {
+                                    "name": "effect_Result_He"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "光芒",
+                            "display": [
+                                {
+                                    "name": "光芒2_00000"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码橙",
+                            "display": [
+                                {
+                                    "name": "effect_Result_Chip01"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "赢",
+                            "display": [
+                                {
+                                    "name": "effect_Result_Ying"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "闲",
+                            "display": [
+                                {
+                                    "name": "effect_Result_Xian"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "星光4",
+                            "display": [
+                                {
+                                    "name": "glow_00000"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "庄",
+                            "display": [
+                                {
+                                    "name": "effect_Result_Zhuang"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "星光1",
+                            "display": [
+                                {
+                                    "name": "glow_00000"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "星光2",
+                            "display": [
+                                {
+                                    "name": "glow_00000"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "animation": [
+                {
+                    "duration": 72,
+                    "playTimes": 0,
+                    "name": "bjl_game_effect_zhuangwin",
+                    "bone": [
+                        {
+                            "name": "庄",
+                            "scaleFrame": [
+                                {
+                                    "duration": 3
+                                },
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "x": 2,
+                                    "y": 2
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "x": 0.9,
+                                    "y": 0.9
+                                },
+                                {
+                                    "duration": 63
+                                }
+                            ]
+                        },
+                        {
+                            "name": "赢",
+                            "scaleFrame": [
+                                {
+                                    "duration": 3
+                                },
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "x": 2,
+                                    "y": 2
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "x": 0.9,
+                                    "y": 0.9
+                                },
+                                {
+                                    "duration": 63
+                                }
+                            ]
+                        },
+                        {
+                            "name": "条带",
+                            "scaleFrame": [
+                                {
+                                    "duration": 3
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "x": 0.01,
+                                    "y": 0.7
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "x": 1.2
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "x": 0.9
+                                },
+                                {
+                                    "duration": 58
+                                }
+                            ]
+                        },
+                        {
+                            "name": "光芒",
+                            "rotateFrame": [
+                                {
+                                    "duration": 72
+                                },
+                                {
+                                    "duration": 0,
+                                    "rotate": 45
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0,
+                                    "x": 0.01,
+                                    "y": 0.01
+                                },
+                                {
+                                    "duration": 66
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码橙",
+                            "translateFrame": [
+                                {
+                                    "duration": 14,
+                                    "curve": [
+                                        0,
+                                        0,
+                                        0.5,
+                                        1
+                                    ],
+                                    "x": -218.93,
+                                    "y": 135.23
+                                },
+                                {
+                                    "duration": 3,
+                                    "curve": [
+                                        0,
+                                        0,
+                                        0.5,
+                                        1
+                                    ]
+                                },
+                                {
+                                    "duration": 26,
+                                    "tweenEasing": 0,
+                                    "x": -2.8,
+                                    "y": 1.73
+                                },
+                                {
+                                    "duration": 29,
+                                    "tweenEasing": 0,
+                                    "x": -5.86,
+                                    "y": 5.81
+                                },
+                                {
+                                    "duration": 0,
+                                    "x": -2.8,
+                                    "y": 1.73
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码红",
+                            "translateFrame": [
+                                {
+                                    "duration": 10,
+                                    "curve": [
+                                        0,
+                                        0,
+                                        0.5,
+                                        1
+                                    ],
+                                    "x": 153.21,
+                                    "y": 166.39
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 28,
+                                    "tweenEasing": 0,
+                                    "x": 2.45,
+                                    "y": 2.66
+                                },
+                                {
+                                    "duration": 31,
+                                    "tweenEasing": 0,
+                                    "x": 5.51,
+                                    "y": 5.72
+                                },
+                                {
+                                    "duration": 0,
+                                    "x": 2.45,
+                                    "y": 2.66
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码紫",
+                            "translateFrame": [
+                                {
+                                    "duration": 12,
+                                    "curve": [
+                                        0,
+                                        0,
+                                        0.5,
+                                        1
+                                    ],
+                                    "x": -196.23,
+                                    "y": 82.19
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 25,
+                                    "tweenEasing": 0,
+                                    "x": -3.14,
+                                    "y": 1.31
+                                },
+                                {
+                                    "duration": 31,
+                                    "tweenEasing": 0,
+                                    "x": -6.2,
+                                    "y": 3.36
+                                },
+                                {
+                                    "duration": 0,
+                                    "x": -3.14,
+                                    "y": 1.31
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码蓝",
+                            "translateFrame": [
+                                {
+                                    "duration": 13,
+                                    "curve": [
+                                        0,
+                                        0,
+                                        0.5,
+                                        1
+                                    ],
+                                    "x": 236.6,
+                                    "y": 58.22
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 25,
+                                    "tweenEasing": 0,
+                                    "x": 4.73,
+                                    "y": 1.16
+                                },
+                                {
+                                    "duration": 30,
+                                    "tweenEasing": 0,
+                                    "x": -0.37,
+                                    "y": -1.9
+                                },
+                                {
+                                    "duration": 0,
+                                    "x": 4.73,
+                                    "y": 1.16
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码绿",
+                            "translateFrame": [
+                                {
+                                    "duration": 11,
+                                    "curve": [
+                                        0,
+                                        0,
+                                        0.5,
+                                        1
+                                    ],
+                                    "x": 148.23,
+                                    "y": 87.04
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 27,
+                                    "tweenEasing": 0,
+                                    "x": 1.89,
+                                    "y": 1.11
+                                },
+                                {
+                                    "duration": 31,
+                                    "tweenEasing": 0,
+                                    "x": 7.81,
+                                    "y": 3.74
+                                },
+                                {
+                                    "duration": 0,
+                                    "x": 1.89,
+                                    "y": 1.11
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码黑",
+                            "translateFrame": [
+                                {
+                                    "duration": 13,
+                                    "curve": [
+                                        0,
+                                        0,
+                                        0.5,
+                                        1
+                                    ],
+                                    "x": -56.2,
+                                    "y": 153.9
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 27,
+                                    "tweenEasing": 0,
+                                    "x": -0.9,
+                                    "y": 2.46
+                                },
+                                {
+                                    "duration": 29,
+                                    "tweenEasing": 0,
+                                    "x": 1.14,
+                                    "y": -4.69
+                                },
+                                {
+                                    "duration": 0,
+                                    "x": -0.9,
+                                    "y": 2.46
+                                }
+                            ]
+                        },
+                        {
+                            "name": "光芒1",
+                            "rotateFrame": [
+                                {
+                                    "duration": 72
+                                },
+                                {
+                                    "duration": 0,
+                                    "rotate": 45
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0,
+                                    "x": 0.01,
+                                    "y": 0.01
+                                },
+                                {
+                                    "duration": 66
+                                }
+                            ]
+                        }
+                    ],
+                    "slot": [
+                        {
+                            "name": "光芒",
+                            "colorFrame": [
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 66
+                                }
+                            ]
+                        },
+                        {
+                            "name": "条带",
+                            "colorFrame": [
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 69
+                                }
+                            ]
+                        },
+                        {
+                            "name": "庄",
+                            "colorFrame": [
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 68
+                                }
+                            ]
+                        },
+                        {
+                            "name": "赢",
+                            "colorFrame": [
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 68
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码橙",
+                            "colorFrame": [
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 68
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码红",
+                            "colorFrame": [
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 68
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码紫",
+                            "colorFrame": [
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 68
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码蓝",
+                            "colorFrame": [
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 68
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码绿",
+                            "colorFrame": [
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 68
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码黑",
+                            "colorFrame": [
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 68
+                                }
+                            ]
+                        },
+                        {
+                            "name": "星光1",
+                            "colorFrame": [
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 51,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "星光2",
+                            "colorFrame": [
+                                {
+                                    "duration": 8,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 8,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 48,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "星光3",
+                            "colorFrame": [
+                                {
+                                    "duration": 13,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 45,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "星光4",
+                            "colorFrame": [
+                                {
+                                    "duration": 18,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 8,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 37,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "光芒1",
+                            "colorFrame": [
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 66
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "duration": 72,
+                    "playTimes": 0,
+                    "name": "bjl_game_effect_xianwin",
+                    "bone": [
+                        {
+                            "name": "庄",
+                            "scaleFrame": [
+                                {
+                                    "duration": 3
+                                },
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "x": 2,
+                                    "y": 2
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "x": 0.9,
+                                    "y": 0.9
+                                },
+                                {
+                                    "duration": 63
+                                }
+                            ]
+                        },
+                        {
+                            "name": "闲",
+                            "scaleFrame": [
+                                {
+                                    "duration": 3
+                                },
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "x": 2,
+                                    "y": 2
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "x": 0.9,
+                                    "y": 0.9
+                                },
+                                {
+                                    "duration": 63
+                                }
+                            ]
+                        },
+                        {
+                            "name": "赢",
+                            "scaleFrame": [
+                                {
+                                    "duration": 3
+                                },
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "x": 2,
+                                    "y": 2
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "x": 0.9,
+                                    "y": 0.9
+                                },
+                                {
+                                    "duration": 63
+                                }
+                            ]
+                        },
+                        {
+                            "name": "条带",
+                            "scaleFrame": [
+                                {
+                                    "duration": 3
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "x": 0.01,
+                                    "y": 0.7
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "x": 1.2
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "x": 0.9
+                                },
+                                {
+                                    "duration": 58
+                                }
+                            ]
+                        },
+                        {
+                            "name": "光芒",
+                            "scaleFrame": [
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0,
+                                    "x": 0.01,
+                                    "y": 0.01
+                                },
+                                {
+                                    "duration": 24,
+                                    "curve": [
+                                        0,
+                                        0,
+                                        0.33902439024390246,
+                                        1
+                                    ],
+                                    "x": 0.91,
+                                    "y": 0.91
+                                },
+                                {
+                                    "duration": 42,
+                                    "x": 0.95,
+                                    "y": 0.95
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码绿",
+                            "translateFrame": [
+                                {
+                                    "duration": 11,
+                                    "curve": [
+                                        0,
+                                        0,
+                                        0.5,
+                                        1
+                                    ],
+                                    "x": 148.23,
+                                    "y": 87.04
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 27,
+                                    "tweenEasing": 0,
+                                    "x": 1.89,
+                                    "y": 1.11
+                                },
+                                {
+                                    "duration": 31,
+                                    "tweenEasing": 0,
+                                    "x": 7.81,
+                                    "y": 3.74
+                                },
+                                {
+                                    "duration": 0,
+                                    "x": 1.89,
+                                    "y": 1.11
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码紫",
+                            "translateFrame": [
+                                {
+                                    "duration": 12,
+                                    "curve": [
+                                        0,
+                                        0,
+                                        0.5,
+                                        1
+                                    ],
+                                    "x": -196.23,
+                                    "y": 82.19
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 25,
+                                    "tweenEasing": 0,
+                                    "x": -3.14,
+                                    "y": 1.31
+                                },
+                                {
+                                    "duration": 31,
+                                    "tweenEasing": 0,
+                                    "x": -6.2,
+                                    "y": 3.36
+                                },
+                                {
+                                    "duration": 0,
+                                    "x": -3.14,
+                                    "y": 1.31
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码蓝",
+                            "translateFrame": [
+                                {
+                                    "duration": 13,
+                                    "curve": [
+                                        0,
+                                        0,
+                                        0.5,
+                                        1
+                                    ],
+                                    "x": 236.6,
+                                    "y": 58.22
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 25,
+                                    "tweenEasing": 0,
+                                    "x": 4.73,
+                                    "y": 1.16
+                                },
+                                {
+                                    "duration": 30,
+                                    "tweenEasing": 0,
+                                    "x": -0.37,
+                                    "y": -1.9
+                                },
+                                {
+                                    "duration": 0,
+                                    "x": 4.73,
+                                    "y": 1.16
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码红",
+                            "translateFrame": [
+                                {
+                                    "duration": 10,
+                                    "curve": [
+                                        0,
+                                        0,
+                                        0.5,
+                                        1
+                                    ],
+                                    "x": 153.21,
+                                    "y": 166.39
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 28,
+                                    "tweenEasing": 0,
+                                    "x": 2.45,
+                                    "y": 2.66
+                                },
+                                {
+                                    "duration": 31,
+                                    "tweenEasing": 0,
+                                    "x": 5.51,
+                                    "y": 5.72
+                                },
+                                {
+                                    "duration": 0,
+                                    "x": 2.45,
+                                    "y": 2.66
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码黑",
+                            "translateFrame": [
+                                {
+                                    "duration": 13,
+                                    "curve": [
+                                        0,
+                                        0,
+                                        0.5,
+                                        1
+                                    ],
+                                    "x": -56.2,
+                                    "y": 153.9
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 27,
+                                    "tweenEasing": 0,
+                                    "x": -0.9,
+                                    "y": 2.46
+                                },
+                                {
+                                    "duration": 29,
+                                    "tweenEasing": 0,
+                                    "x": 1.14,
+                                    "y": -4.69
+                                },
+                                {
+                                    "duration": 0,
+                                    "x": -0.9,
+                                    "y": 2.46
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码橙",
+                            "translateFrame": [
+                                {
+                                    "duration": 14,
+                                    "curve": [
+                                        0,
+                                        0,
+                                        0.5,
+                                        1
+                                    ],
+                                    "x": -218.93,
+                                    "y": 135.23
+                                },
+                                {
+                                    "duration": 3,
+                                    "curve": [
+                                        0,
+                                        0,
+                                        0.5,
+                                        1
+                                    ]
+                                },
+                                {
+                                    "duration": 26,
+                                    "tweenEasing": 0,
+                                    "x": -2.8,
+                                    "y": 1.73
+                                },
+                                {
+                                    "duration": 29,
+                                    "tweenEasing": 0,
+                                    "x": -5.86,
+                                    "y": 5.81
+                                },
+                                {
+                                    "duration": 0,
+                                    "x": -2.8,
+                                    "y": 1.73
+                                }
+                            ]
+                        },
+                        {
+                            "name": "光芒1",
+                            "scaleFrame": [
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0,
+                                    "x": 0.01,
+                                    "y": 0.01
+                                },
+                                {
+                                    "duration": 24,
+                                    "curve": [
+                                        0,
+                                        0,
+                                        0.33902439024390246,
+                                        1
+                                    ],
+                                    "x": 0.91,
+                                    "y": 0.91
+                                },
+                                {
+                                    "duration": 42,
+                                    "x": 0.95,
+                                    "y": 0.95
+                                }
+                            ]
+                        }
+                    ],
+                    "slot": [
+                        {
+                            "name": "光芒",
+                            "colorFrame": [
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 66
+                                }
+                            ]
+                        },
+                        {
+                            "name": "条带",
+                            "colorFrame": [
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 69
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码橙",
+                            "colorFrame": [
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 68
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码红",
+                            "colorFrame": [
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 68
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码紫",
+                            "colorFrame": [
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 68
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码蓝",
+                            "colorFrame": [
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 68
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码绿",
+                            "colorFrame": [
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 68
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码黑",
+                            "colorFrame": [
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 68
+                                }
+                            ]
+                        },
+                        {
+                            "name": "庄",
+                            "displayFrame": [
+                                {
+                                    "duration": 72,
+                                    "value": -1
+                                }
+                            ],
+                            "colorFrame": [
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 68
+                                }
+                            ]
+                        },
+                        {
+                            "name": "闲",
+                            "displayFrame": [
+                                {
+                                    "duration": 72
+                                }
+                            ],
+                            "colorFrame": [
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 68
+                                }
+                            ]
+                        },
+                        {
+                            "name": "赢",
+                            "colorFrame": [
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 68
+                                }
+                            ]
+                        },
+                        {
+                            "name": "星光1",
+                            "colorFrame": [
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 51,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "星光2",
+                            "colorFrame": [
+                                {
+                                    "duration": 8,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 8,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 48,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "星光3",
+                            "colorFrame": [
+                                {
+                                    "duration": 13,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 45,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "星光4",
+                            "colorFrame": [
+                                {
+                                    "duration": 18,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 8,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 37,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "光芒1",
+                            "colorFrame": [
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 19,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 47,
+                                    "value": {
+                                        "aM": 60
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "duration": 72,
+                    "playTimes": 0,
+                    "name": "bjl_game_effect_hewin",
+                    "bone": [
+                        {
+                            "name": "庄",
+                            "scaleFrame": [
+                                {
+                                    "duration": 3
+                                },
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "x": 2,
+                                    "y": 2
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "x": 0.9,
+                                    "y": 0.9
+                                },
+                                {
+                                    "duration": 63
+                                }
+                            ]
+                        },
+                        {
+                            "name": "和",
+                            "translateFrame": [
+                                {
+                                    "duration": 72,
+                                    "y": -50
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "duration": 3
+                                },
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "x": 2,
+                                    "y": 2
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "x": 0.9,
+                                    "y": 0.9
+                                },
+                                {
+                                    "duration": 63
+                                }
+                            ]
+                        },
+                        {
+                            "name": "条带",
+                            "scaleFrame": [
+                                {
+                                    "duration": 3
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "x": 0.01,
+                                    "y": 0.7
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "x": 1.2
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "x": 0.9
+                                },
+                                {
+                                    "duration": 58
+                                }
+                            ]
+                        },
+                        {
+                            "name": "光芒",
+                            "scaleFrame": [
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0,
+                                    "x": 0.01,
+                                    "y": 0.01
+                                },
+                                {
+                                    "duration": 66
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码紫",
+                            "translateFrame": [
+                                {
+                                    "duration": 12,
+                                    "curve": [
+                                        0,
+                                        0,
+                                        0.5,
+                                        1
+                                    ],
+                                    "x": -196.23,
+                                    "y": 82.19
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 25,
+                                    "tweenEasing": 0,
+                                    "x": -3.14,
+                                    "y": 1.31
+                                },
+                                {
+                                    "duration": 31,
+                                    "tweenEasing": 0,
+                                    "x": -6.2,
+                                    "y": 3.36
+                                },
+                                {
+                                    "duration": 0,
+                                    "x": -3.14,
+                                    "y": 1.31
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码蓝",
+                            "translateFrame": [
+                                {
+                                    "duration": 13,
+                                    "curve": [
+                                        0,
+                                        0,
+                                        0.5,
+                                        1
+                                    ],
+                                    "x": 236.6,
+                                    "y": 58.22
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 25,
+                                    "tweenEasing": 0,
+                                    "x": 4.73,
+                                    "y": 1.16
+                                },
+                                {
+                                    "duration": 30,
+                                    "tweenEasing": 0,
+                                    "x": -0.37,
+                                    "y": -1.9
+                                },
+                                {
+                                    "duration": 0,
+                                    "x": 4.73,
+                                    "y": 1.16
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码红",
+                            "translateFrame": [
+                                {
+                                    "duration": 10,
+                                    "curve": [
+                                        0,
+                                        0,
+                                        0.5,
+                                        1
+                                    ],
+                                    "x": 153.21,
+                                    "y": 166.39
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 28,
+                                    "tweenEasing": 0,
+                                    "x": 2.45,
+                                    "y": 2.66
+                                },
+                                {
+                                    "duration": 31,
+                                    "tweenEasing": 0,
+                                    "x": 5.51,
+                                    "y": 5.72
+                                },
+                                {
+                                    "duration": 0,
+                                    "x": 2.45,
+                                    "y": 2.66
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码黑",
+                            "translateFrame": [
+                                {
+                                    "duration": 13,
+                                    "curve": [
+                                        0,
+                                        0,
+                                        0.5,
+                                        1
+                                    ],
+                                    "x": -56.2,
+                                    "y": 153.9
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 27,
+                                    "tweenEasing": 0,
+                                    "x": -0.9,
+                                    "y": 2.46
+                                },
+                                {
+                                    "duration": 29,
+                                    "tweenEasing": 0,
+                                    "x": 1.14,
+                                    "y": -4.69
+                                },
+                                {
+                                    "duration": 0,
+                                    "x": -0.9,
+                                    "y": 2.46
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码橙",
+                            "translateFrame": [
+                                {
+                                    "duration": 14,
+                                    "curve": [
+                                        0,
+                                        0,
+                                        0.5,
+                                        1
+                                    ],
+                                    "x": -218.93,
+                                    "y": 135.23
+                                },
+                                {
+                                    "duration": 3,
+                                    "curve": [
+                                        0,
+                                        0,
+                                        0.5,
+                                        1
+                                    ]
+                                },
+                                {
+                                    "duration": 26,
+                                    "tweenEasing": 0,
+                                    "x": -2.8,
+                                    "y": 1.73
+                                },
+                                {
+                                    "duration": 29,
+                                    "tweenEasing": 0,
+                                    "x": -5.86,
+                                    "y": 5.81
+                                },
+                                {
+                                    "duration": 0,
+                                    "x": -2.8,
+                                    "y": 1.73
+                                }
+                            ]
+                        },
+                        {
+                            "name": "星光1",
+                            "translateFrame": [
+                                {
+                                    "duration": 72,
+                                    "x": -118.94,
+                                    "y": 36.81
+                                }
+                            ]
+                        },
+                        {
+                            "name": "星光2",
+                            "translateFrame": [
+                                {
+                                    "duration": 72,
+                                    "x": 86.17,
+                                    "y": 42.55
+                                }
+                            ]
+                        },
+                        {
+                            "name": "光芒1",
+                            "scaleFrame": [
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0,
+                                    "x": 0.01,
+                                    "y": 0.01
+                                },
+                                {
+                                    "duration": 66
+                                }
+                            ]
+                        }
+                    ],
+                    "slot": [
+                        {
+                            "name": "光芒",
+                            "colorFrame": [
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 66
+                                }
+                            ]
+                        },
+                        {
+                            "name": "条带",
+                            "colorFrame": [
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 69
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码橙",
+                            "colorFrame": [
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 68
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码红",
+                            "colorFrame": [
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 68
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码紫",
+                            "colorFrame": [
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 68
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码蓝",
+                            "colorFrame": [
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 68
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码绿",
+                            "colorFrame": [
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 68
+                                }
+                            ]
+                        },
+                        {
+                            "name": "筹码黑",
+                            "colorFrame": [
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 68
+                                }
+                            ]
+                        },
+                        {
+                            "name": "庄",
+                            "displayFrame": [
+                                {
+                                    "duration": 72,
+                                    "value": -1
+                                }
+                            ],
+                            "colorFrame": [
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 68
+                                }
+                            ]
+                        },
+                        {
+                            "name": "和",
+                            "displayFrame": [
+                                {
+                                    "duration": 72
+                                }
+                            ],
+                            "colorFrame": [
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 68
+                                }
+                            ]
+                        },
+                        {
+                            "name": "赢",
+                            "displayFrame": [
+                                {
+                                    "duration": 72,
+                                    "value": -1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "星光1",
+                            "colorFrame": [
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 51,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "星光2",
+                            "colorFrame": [
+                                {
+                                    "duration": 8,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 8,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 48,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "星光3",
+                            "colorFrame": [
+                                {
+                                    "duration": 13,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 45,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "星光4",
+                            "colorFrame": [
+                                {
+                                    "duration": 18,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 8,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 37,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "光芒1",
+                            "colorFrame": [
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 66
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "defaultActions": [
+                {
+                    "gotoAndPlay": "bjl_game_effect_zhuangwin"
+                }
+            ]
+        }
+    ]
+}

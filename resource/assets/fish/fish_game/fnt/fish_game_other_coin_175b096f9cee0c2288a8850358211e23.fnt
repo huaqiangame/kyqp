@@ -1,0 +1,14 @@
+{"file":"fish_game_other_coin.png","frames":{
+"9":{"x":27,"y":1,"w":24,"h":29,"offX":0,"offY":2,"sourceW":24,"sourceH":34},
+"$":{"x":1,"y":1,"w":24,"h":34,"offX":0,"offY":0,"sourceW":24,"sourceH":34},
+".":{"x":91,"y":62,"w":9,"h":11,"offX":7,"offY":11,"sourceW":24,"sourceH":34},
+"+":{"x":69,"y":62,"w":20,"h":21,"offX":2,"offY":6,"sourceW":24,"sourceH":34},
+"0":{"x":27,"y":32,"w":23,"h":29,"offX":0,"offY":2,"sourceW":24,"sourceH":34},
+"1":{"x":52,"y":62,"w":15,"h":28,"offX":4,"offY":3,"sourceW":24,"sourceH":34},
+"2":{"x":78,"y":32,"w":23,"h":28,"offX":0,"offY":3,"sourceW":24,"sourceH":34},
+"3":{"x":103,"y":32,"w":22,"h":29,"offX":1,"offY":2,"sourceW":24,"sourceH":34},
+"4":{"x":53,"y":1,"w":24,"h":28,"offX":0,"offY":3,"sourceW":24,"sourceH":34},
+"5":{"x":104,"y":1,"w":23,"h":29,"offX":0,"offY":2,"sourceW":24,"sourceH":34},
+"6":{"x":53,"y":31,"w":23,"h":29,"offX":0,"offY":2,"sourceW":24,"sourceH":34},
+"7":{"x":1,"y":37,"w":22,"h":28,"offX":1,"offY":3,"sourceW":24,"sourceH":34},
+"8":{"x":79,"y":1,"w":23,"h":29,"offX":0,"offY":2,"sourceW":24,"sourceH":34}}}

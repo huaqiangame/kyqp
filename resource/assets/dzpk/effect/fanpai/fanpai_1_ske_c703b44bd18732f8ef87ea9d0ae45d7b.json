@@ -1,0 +1,174 @@
+{
+    "frameRate": 30,
+    "name": "fanpai_1",
+    "version": "5.5",
+    "compatibleVersion": "5.5",
+    "armature": [
+        {
+            "type": "Armature",
+            "frameRate": 30,
+            "name": "fanpai_1",
+            "bone": [
+                {
+                    "name": "root"
+                },
+                {
+                    "name": "kapai",
+                    "parent": "root"
+                },
+                {
+                    "name": "kapai2",
+                    "parent": "root"
+                }
+            ],
+            "slot": [
+                {
+                    "displayIndex": -1,
+                    "name": "cb1",
+                    "parent": "kapai"
+                },
+                {
+                    "displayIndex": -1,
+                    "name": "cb2",
+                    "parent": "kapai2"
+                }
+            ],
+            "skin": [
+                {
+                    "slot": [
+                        {
+                            "name": "cb2",
+                            "display": [
+                                {
+                                    "name": "cb1"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "cb1",
+                            "display": [
+                                {
+                                    "name": "cb1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "animation": [
+                {
+                    "duration": 10,
+                    "name": "fanpai",
+                    "bone": [
+                        {
+                            "name": "kapai",
+                            "scaleFrame": [
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0,
+                                    "x": 0.76,
+                                    "y": 0.76
+                                },
+                                {
+                                    "duration": 5,
+                                    "x": 0,
+                                    "y": 0.76
+                                }
+                            ]
+                        }
+                    ],
+                    "slot": [
+                        {
+                            "name": "cb1",
+                            "displayFrame": [
+                                {
+                                    "duration": 10
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "duration": 15,
+                    "name": "fanpai_shuang",
+                    "bone": [
+                        {
+                            "name": "kapai",
+                            "translateFrame": [
+                                {
+                                    "duration": 15,
+                                    "x": 67.26,
+                                    "y": 165.91
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0,
+                                    "x": 0.76,
+                                    "y": 0.76
+                                },
+                                {
+                                    "duration": 10,
+                                    "x": 0,
+                                    "y": 0.76
+                                }
+                            ]
+                        },
+                        {
+                            "name": "kapai2",
+                            "translateFrame": [
+                                {
+                                    "duration": 15,
+                                    "x": 133.66,
+                                    "y": 165.91
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "duration": 5,
+                                    "x": 0.76,
+                                    "y": 0.76
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0,
+                                    "x": 0.76,
+                                    "y": 0.76
+                                },
+                                {
+                                    "duration": 5,
+                                    "x": 0,
+                                    "y": 0.76
+                                }
+                            ]
+                        }
+                    ],
+                    "slot": [
+                        {
+                            "name": "cb1",
+                            "displayFrame": [
+                                {
+                                    "duration": 15
+                                }
+                            ]
+                        },
+                        {
+                            "name": "cb2",
+                            "displayFrame": [
+                                {
+                                    "duration": 15
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "defaultActions": [
+                {
+                    "gotoAndPlay": "fanpai"
+                }
+            ]
+        }
+    ]
+}

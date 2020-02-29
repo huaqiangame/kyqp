@@ -1,0 +1,793 @@
+{
+    "frameRate": 24,
+    "name": "black_wxl_effect",
+    "version": "5.5",
+    "compatibleVersion": "5.5",
+    "armature": [
+        {
+            "type": "Armature",
+            "frameRate": 24,
+            "name": "black_wxl_effect",
+            "aabb": {
+                "x": -183,
+                "y": -74.5,
+                "width": 366,
+                "height": 109
+            },
+            "bone": [
+                {
+                    "name": "root"
+                },
+                {
+                    "name": "黑杰克",
+                    "parent": "root"
+                },
+                {
+                    "name": "五小龙",
+                    "parent": "root"
+                },
+                {
+                    "name": "稻穗左",
+                    "parent": "root",
+                    "transform": {
+                        "x": -150,
+                        "y": -20
+                    }
+                },
+                {
+                    "name": "稻穗右",
+                    "parent": "root",
+                    "transform": {
+                        "x": 150,
+                        "y": -20,
+                        "scX": -1
+                    }
+                },
+                {
+                    "name": "稻穗左1",
+                    "parent": "root",
+                    "transform": {
+                        "x": -150,
+                        "y": -20
+                    }
+                },
+                {
+                    "name": "稻穗右1",
+                    "parent": "root",
+                    "transform": {
+                        "x": 150,
+                        "y": -20,
+                        "scX": -1
+                    }
+                },
+                {
+                    "name": "文字",
+                    "parent": "黑杰克"
+                }
+            ],
+            "slot": [
+                {
+                    "displayIndex": -1,
+                    "name": "文字",
+                    "parent": "文字"
+                },
+                {
+                    "displayIndex": -1,
+                    "name": "五小龙",
+                    "parent": "五小龙"
+                },
+                {
+                    "name": "稻穗",
+                    "parent": "稻穗左"
+                },
+                {
+                    "name": "稻穗1",
+                    "parent": "稻穗右"
+                },
+                {
+                    "name": "稻穗2",
+                    "parent": "稻穗左1"
+                },
+                {
+                    "name": "稻穗11",
+                    "parent": "稻穗右1"
+                }
+            ],
+            "skin": [
+                {
+                    "slot": [
+                        {
+                            "name": "文字",
+                            "display": [
+                                {
+                                    "name": "blj_1"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "稻穗",
+                            "display": [
+                                {
+                                    "type": "mesh",
+                                    "name": "blj_2",
+                                    "width": 66,
+                                    "height": 109,
+                                    "vertices": [
+                                        -35.06,
+                                        -54.7,
+                                        30.94,
+                                        -54.7,
+                                        -35.06,
+                                        54.3,
+                                        30.94,
+                                        54.3
+                                    ],
+                                    "uvs": [
+                                        0,
+                                        0,
+                                        1,
+                                        0,
+                                        0,
+                                        1,
+                                        1,
+                                        1
+                                    ],
+                                    "triangles": [
+                                        1,
+                                        0,
+                                        3,
+                                        0,
+                                        2,
+                                        3
+                                    ],
+                                    "edges": [
+                                        0,
+                                        1,
+                                        1,
+                                        3,
+                                        3,
+                                        2,
+                                        2,
+                                        0
+                                    ],
+                                    "userEdges": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "稻穗1",
+                            "display": [
+                                {
+                                    "type": "mesh",
+                                    "name": "blj_2",
+                                    "width": 66,
+                                    "height": 109,
+                                    "vertices": [
+                                        -35.13,
+                                        -56.67,
+                                        30.87,
+                                        -56.67,
+                                        -35.13,
+                                        52.33,
+                                        30.87,
+                                        52.33
+                                    ],
+                                    "uvs": [
+                                        0,
+                                        0,
+                                        1,
+                                        0,
+                                        0,
+                                        1,
+                                        1,
+                                        1
+                                    ],
+                                    "triangles": [
+                                        1,
+                                        0,
+                                        3,
+                                        0,
+                                        2,
+                                        3
+                                    ],
+                                    "edges": [
+                                        0,
+                                        1,
+                                        1,
+                                        3,
+                                        3,
+                                        2,
+                                        2,
+                                        0
+                                    ],
+                                    "userEdges": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "稻穗2",
+                            "display": [
+                                {
+                                    "type": "mesh",
+                                    "name": "blj_2",
+                                    "width": 66,
+                                    "height": 109,
+                                    "vertices": [
+                                        -35.06,
+                                        -54.7,
+                                        30.94,
+                                        -54.7,
+                                        -35.06,
+                                        54.3,
+                                        30.94,
+                                        54.3
+                                    ],
+                                    "uvs": [
+                                        0,
+                                        0,
+                                        1,
+                                        0,
+                                        0,
+                                        1,
+                                        1,
+                                        1
+                                    ],
+                                    "triangles": [
+                                        1,
+                                        0,
+                                        3,
+                                        0,
+                                        2,
+                                        3
+                                    ],
+                                    "edges": [
+                                        0,
+                                        1,
+                                        1,
+                                        3,
+                                        3,
+                                        2,
+                                        2,
+                                        0
+                                    ],
+                                    "userEdges": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "稻穗11",
+                            "display": [
+                                {
+                                    "type": "mesh",
+                                    "name": "blj_2",
+                                    "width": 66,
+                                    "height": 109,
+                                    "vertices": [
+                                        -35.13,
+                                        -56.67,
+                                        30.87,
+                                        -56.67,
+                                        -35.13,
+                                        52.33,
+                                        30.87,
+                                        52.33
+                                    ],
+                                    "uvs": [
+                                        0,
+                                        0,
+                                        1,
+                                        0,
+                                        0,
+                                        1,
+                                        1,
+                                        1
+                                    ],
+                                    "triangles": [
+                                        1,
+                                        0,
+                                        3,
+                                        0,
+                                        2,
+                                        3
+                                    ],
+                                    "edges": [
+                                        0,
+                                        1,
+                                        1,
+                                        3,
+                                        3,
+                                        2,
+                                        2,
+                                        0
+                                    ],
+                                    "userEdges": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "五小龙",
+                            "display": [
+                                {
+                                    "name": "wxl_1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "animation": [
+                {
+                    "duration": 20,
+                    "name": "blackjack",
+                    "bone": [
+                        {
+                            "name": "稻穗左",
+                            "scaleFrame": [
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0,
+                                    "x": 1.5,
+                                    "y": 1.5
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "x": 1.5,
+                                    "y": 1.5
+                                },
+                                {
+                                    "duration": 13
+                                }
+                            ]
+                        },
+                        {
+                            "name": "稻穗右",
+                            "scaleFrame": [
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0,
+                                    "x": 1.5,
+                                    "y": 1.5
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "x": 1.5,
+                                    "y": 1.5
+                                },
+                                {
+                                    "duration": 13
+                                }
+                            ]
+                        },
+                        {
+                            "name": "文字",
+                            "scaleFrame": [
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "x": 0.01
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "x": 1.2
+                                },
+                                {
+                                    "duration": 12
+                                }
+                            ]
+                        },
+                        {
+                            "name": "稻穗左1",
+                            "scaleFrame": [
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0,
+                                    "x": 1.5,
+                                    "y": 1.5
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "x": 1.5,
+                                    "y": 1.5
+                                },
+                                {
+                                    "duration": 13,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 0,
+                                    "x": 1.3,
+                                    "y": 1.3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "稻穗右1",
+                            "scaleFrame": [
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0,
+                                    "x": 1.5,
+                                    "y": 1.5
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "x": 1.5,
+                                    "y": 1.5
+                                },
+                                {
+                                    "duration": 13,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 0,
+                                    "x": 1.3,
+                                    "y": 1.3
+                                }
+                            ]
+                        }
+                    ],
+                    "slot": [
+                        {
+                            "name": "文字",
+                            "displayFrame": [
+                                {
+                                    "duration": 20
+                                }
+                            ],
+                            "colorFrame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 19
+                                }
+                            ]
+                        },
+                        {
+                            "name": "稻穗",
+                            "colorFrame": [
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 13
+                                }
+                            ]
+                        },
+                        {
+                            "name": "稻穗1",
+                            "colorFrame": [
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 13
+                                }
+                            ]
+                        },
+                        {
+                            "name": "稻穗2",
+                            "colorFrame": [
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 13,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "稻穗11",
+                            "colorFrame": [
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 13,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "duration": 20,
+                    "name": "wxl",
+                    "bone": [
+                        {
+                            "name": "五小龙",
+                            "scaleFrame": [
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "x": 0.01
+                                },
+                                {
+                                    "duration": 4,
+                                    "tweenEasing": 0,
+                                    "x": 1.2
+                                },
+                                {
+                                    "duration": 12
+                                }
+                            ]
+                        },
+                        {
+                            "name": "稻穗左",
+                            "scaleFrame": [
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0,
+                                    "x": 1.5,
+                                    "y": 1.5
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "x": 1.5,
+                                    "y": 1.5
+                                },
+                                {
+                                    "duration": 13
+                                }
+                            ]
+                        },
+                        {
+                            "name": "稻穗右",
+                            "scaleFrame": [
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0,
+                                    "x": 1.5,
+                                    "y": 1.5
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "x": 1.5,
+                                    "y": 1.5
+                                },
+                                {
+                                    "duration": 13
+                                }
+                            ]
+                        },
+                        {
+                            "name": "稻穗左1",
+                            "scaleFrame": [
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0,
+                                    "x": 1.5,
+                                    "y": 1.5
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "x": 1.5,
+                                    "y": 1.5
+                                },
+                                {
+                                    "duration": 13,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 0,
+                                    "x": 1.3,
+                                    "y": 1.3
+                                }
+                            ]
+                        },
+                        {
+                            "name": "稻穗右1",
+                            "scaleFrame": [
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0,
+                                    "x": 1.5,
+                                    "y": 1.5
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "x": 1.5,
+                                    "y": 1.5
+                                },
+                                {
+                                    "duration": 13,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 0,
+                                    "x": 1.3,
+                                    "y": 1.3
+                                }
+                            ]
+                        }
+                    ],
+                    "slot": [
+                        {
+                            "name": "稻穗",
+                            "colorFrame": [
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 13
+                                }
+                            ]
+                        },
+                        {
+                            "name": "五小龙",
+                            "displayFrame": [
+                                {
+                                    "duration": 20
+                                }
+                            ],
+                            "colorFrame": [
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 19
+                                }
+                            ]
+                        },
+                        {
+                            "name": "稻穗1",
+                            "colorFrame": [
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 13
+                                }
+                            ]
+                        },
+                        {
+                            "name": "稻穗2",
+                            "colorFrame": [
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 13,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "稻穗11",
+                            "colorFrame": [
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 13,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "defaultActions": [
+                {
+                    "gotoAndPlay": "blackjack"
+                }
+            ]
+        }
+    ]
+}

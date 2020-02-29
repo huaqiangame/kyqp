@@ -1,0 +1,43 @@
+{
+    "width": 256,
+    "imagePath": "pet_evolve_tex.png",
+    "name": "pet_evolve",
+    "SubTexture": [
+        {
+            "width": 55,
+            "y": 66,
+            "height": 55,
+            "name": "进化/小光环",
+            "x": 1
+        },
+        {
+            "width": 63,
+            "y": 1,
+            "height": 63,
+            "name": "进化/大光环",
+            "x": 1
+        },
+        {
+            "width": 41,
+            "y": 66,
+            "height": 42,
+            "name": "进化/图层_2",
+            "x": 58
+        },
+        {
+            "width": 50,
+            "y": 66,
+            "height": 24,
+            "name": "进化/进化",
+            "x": 137
+        },
+        {
+            "width": 34,
+            "y": 66,
+            "height": 40,
+            "name": "进化/星光2_拷贝",
+            "x": 101
+        }
+    ],
+    "height": 128
+}
