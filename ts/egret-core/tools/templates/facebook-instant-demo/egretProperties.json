@@ -1,0 +1,20 @@
+{
+  "modules": [
+    {
+      "name": "egret"
+    },
+    {
+      "name": "game"
+    },
+    {
+      "name": "res"
+    },
+    {
+      "name": "tween"
+    },
+    {
+      "name":"egretfb",
+      "path":"./egretfb"
+    }
+  ]
+}
