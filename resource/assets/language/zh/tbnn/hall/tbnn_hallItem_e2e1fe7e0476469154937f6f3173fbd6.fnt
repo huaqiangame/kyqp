@@ -1,0 +1,16 @@
+{"file":"tbnn_hallItem.png","frames":{
+",":{"x":24,"y":22,"w":6,"h":7,"offX":0,"offY":10,"sourceW":6,"sourceH":17},
+".":{"x":123,"y":1,"w":4,"h":5,"offX":0,"offY":10,"sourceW":4,"sourceH":17},
+"0":{"x":56,"y":21,"w":10,"h":16,"offX":0,"offY":0,"sourceW":10,"sourceH":17},
+"1":{"x":14,"y":22,"w":8,"h":14,"offX":0,"offY":1,"sourceW":8,"sourceH":17},
+"2":{"x":109,"y":19,"w":12,"h":15,"offX":0,"offY":0,"sourceW":12,"sourceH":17},
+"3":{"x":81,"y":20,"w":11,"h":16,"offX":0,"offY":0,"sourceW":11,"sourceH":17},
+"4":{"x":1,"y":22,"w":11,"h":14,"offX":0,"offY":1,"sourceW":11,"sourceH":17},
+"5":{"x":95,"y":19,"w":12,"h":15,"offX":0,"offY":1,"sourceW":12,"sourceH":17},
+"6":{"x":109,"y":1,"w":12,"h":16,"offX":0,"offY":0,"sourceW":12,"sourceH":17},
+"7":{"x":68,"y":21,"w":11,"h":14,"offX":0,"offY":1,"sourceW":11,"sourceH":17},
+"8":{"x":95,"y":1,"w":12,"h":16,"offX":0,"offY":0,"sourceW":12,"sourceH":17},
+"9":{"x":43,"y":21,"w":11,"h":16,"offX":0,"offY":0,"sourceW":11,"sourceH":17},
+"a":{"x":81,"y":1,"w":12,"h":17,"offX":0,"offY":0,"sourceW":12,"sourceH":17},
+"d":{"x":1,"y":1,"w":40,"h":19,"offX":0,"offY":0,"sourceW":40,"sourceH":19},
+"z":{"x":43,"y":1,"w":36,"h":18,"offX":1,"offY":1,"sourceW":37,"sourceH":19}}}

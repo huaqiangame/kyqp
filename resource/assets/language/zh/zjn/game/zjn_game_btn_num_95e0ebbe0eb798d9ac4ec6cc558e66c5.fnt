@@ -1,0 +1,15 @@
+{"file":"zjn_game_btn_num.png","frames":{
+"4":{"x":68,"y":88,"w":14,"h":21,"offX":0,"offY":2,"sourceW":14,"sourceH":26},
+"5":{"x":90,"y":2,"w":13,"h":21,"offX":0,"offY":2,"sourceW":14,"sourceH":26},
+"6":{"x":19,"y":93,"w":13,"h":21,"offX":0,"offY":2,"sourceW":14,"sourceH":26},
+"7":{"x":72,"y":2,"w":14,"h":21,"offX":0,"offY":2,"sourceW":14,"sourceH":26},
+"8":{"x":36,"y":93,"w":13,"h":21,"offX":0,"offY":2,"sourceW":14,"sourceH":26},
+"9":{"x":2,"y":93,"w":13,"h":22,"offX":0,"offY":2,"sourceW":14,"sourceH":26},
+"b":{"x":2,"y":33,"w":64,"h":26,"offX":0,"offY":0,"sourceW":64,"sourceH":26},
+"g":{"x":2,"y":63,"w":62,"h":26,"offX":0,"offY":0,"sourceW":62,"sourceH":26},
+"y":{"x":2,"y":2,"w":66,"h":27,"offX":0,"offY":0,"sourceW":66,"sourceH":27},
+".":{"x":70,"y":52,"w":5,"h":6,"offX":5,"offY":15,"sourceW":14,"sourceH":22},
+"0":{"x":68,"y":63,"w":14,"h":21,"offX":0,"offY":2,"sourceW":14,"sourceH":26},
+"1":{"x":53,"y":93,"w":8,"h":21,"offX":3,"offY":2,"sourceW":14,"sourceH":26},
+"2":{"x":86,"y":52,"w":13,"h":21,"offX":0,"offY":2,"sourceW":14,"sourceH":26},
+"3":{"x":72,"y":27,"w":14,"h":21,"offX":0,"offY":2,"sourceW":14,"sourceH":26}}}

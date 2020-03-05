@@ -1,0 +1,115 @@
+{
+    "width": 512,
+    "SubTexture": [
+        {
+            "width": 10,
+            "y": 168,
+            "height": 10,
+            "name": "xiaofangkuai",
+            "x": 375
+        },
+        {
+            "width": 279,
+            "y": 183,
+            "height": 90,
+            "name": "kaishiyouxi_light",
+            "x": 180
+        },
+        {
+            "width": 193,
+            "y": 1,
+            "height": 180,
+            "name": "light2",
+            "x": 180
+        },
+        {
+            "width": 146,
+            "y": 275,
+            "height": 128,
+            "name": "light3",
+            "x": 173
+        },
+        {
+            "width": 113,
+            "y": 425,
+            "height": 78,
+            "name": "cup3",
+            "x": 1
+        },
+        {
+            "width": 104,
+            "y": 1,
+            "height": 110,
+            "name": "cup 2",
+            "x": 375
+        },
+        {
+            "width": 53,
+            "y": 113,
+            "height": 53,
+            "name": "star",
+            "x": 375
+        },
+        {
+            "frameY": 0,
+            "y": 313,
+            "frameWidth": 172,
+            "frameX": 0,
+            "frameHeight": 110,
+            "width": 166,
+            "height": 110,
+            "name": "kaishi",
+            "x": 1
+        },
+        {
+            "frameY": 0,
+            "y": 201,
+            "frameWidth": 176,
+            "frameX": -6,
+            "frameHeight": 110,
+            "width": 170,
+            "height": 110,
+            "name": "youxi",
+            "x": 1
+        },
+        {
+            "frameY": -15,
+            "y": 1,
+            "frameWidth": 225,
+            "frameX": -29,
+            "frameHeight": 225,
+            "width": 177,
+            "height": 198,
+            "name": "guangxian_0000",
+            "x": 1
+        },
+        {
+            "width": 80,
+            "y": 275,
+            "height": 80,
+            "name": "star_0000",
+            "x": 417
+        },
+        {
+            "frameY": -14,
+            "y": 275,
+            "frameWidth": 120,
+            "frameX": -14,
+            "frameHeight": 120,
+            "width": 94,
+            "height": 94,
+            "name": "tongyongguangdian",
+            "x": 321
+        },
+        {
+            "width": 255,
+            "y": 405,
+            "height": 42,
+            "name": "light1",
+            "x": 169
+        }
+    ],
+    "imagePath": "kpqznn_effect_kaishiyouxi_tex.png",
+    "height": 1024,
+    "name": "kpqznn_effect_kaishiyouxi"
+}
