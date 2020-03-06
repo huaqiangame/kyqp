@@ -1,0 +1,17 @@
+
+@font-face {
+    font-family: diydont;//自定义字体名称
+    src: url(../common/fanxinshu.TTF)
+}
+body{
+    font-family:diydont;
+    color: red;
+    display: flex;
+    transform: none;
+    background-image: url(./ac.png);
+    background-repeat: no-repeat;
+    div#asd{
+        width: 100px;
+        height: 100px;
+    }
+}

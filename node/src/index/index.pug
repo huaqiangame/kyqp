@@ -1,0 +1,20 @@
+extends ../common/link/layout.pug
+
+block scripts
+  link(rel="stylesheet", href="./index.css")
+  script(src="./index.js")
+
+block content
+  h1= title
+  a(href="../about") .scss
+  br
+  a(href="../fuck") 发
+  br
+  a(href="../ejj") 发
+  br
+  a(href="./fccc") 发
+  img(src="./ac.png", alt="")
+  div#asd
+  - var pets = ['猫', '狗']
+  each petName in pets
+    include ./link/pet.pug

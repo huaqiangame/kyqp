@@ -1,0 +1,64 @@
+
+> gulp-preset@1.1.0-alpha.0 watch /www/wwwroot/ggg
+> cross-env NODE_ENV=development gulp watch
+
+[HPM] Proxy created: /api  -> https://sy5568.com
+[HPM] Proxy rewrite rule created: "^/api" ~> ""
+[13:14:49] Using gulpfile /www/wwwroot/ggg/gulpfile.js
+[13:14:49] Starting 'watch'...
+[13:14:49] Starting 'cleanScript'...
+[13:14:49] Finished 'cleanScript' after 13 ms
+[13:14:49] Starting 'images'...
+[13:14:49] Starting 'fonts'...
+[13:14:49] Starting 'styles'...
+[13:14:49] Starting 'scripts'...
+[13:14:49] Starting 'views'...
+[13:14:49] Finished 'images' after 13 ms
+[13:14:49] Finished 'fonts' after 15 ms
+[13:14:49] Finished 'styles' after 24 ms
+[13:14:49] Finished 'scripts' after 33 ms
+[13:14:49] Finished 'views' after 46 ms
+[13:14:49] Starting 'browserSyncTask'...
+[13:14:49] Starting 'watchTask'...
+[Browsersync] Access URLs:
+ --------------------------------------------------
+       Local: http://localhost:3000/index.html
+    External: http://154.204.42.144:3000/index.html
+ --------------------------------------------------
+          UI: http://localhost:3001
+ UI External: http://localhost:3001
+ --------------------------------------------------
+[Browsersync] Serving files from: __gulptemp__/
+[Browsersync] Couldn't open browser (if you are using BrowserSync in a headless environment, you might want to set the open option to false)
+
+> gulp-preset@1.1.0-alpha.0 watch /www/wwwroot/ggg
+> cross-env NODE_ENV=development gulp watch
+
+[HPM] Proxy created: /api  -> https://sy5568.com
+[HPM] Proxy rewrite rule created: "^/api" ~> ""
+[13:34:03] Using gulpfile /www/wwwroot/ggg/gulpfile.js
+[13:34:03] Starting 'watch'...
+[13:34:03] Starting 'cleanScript'...
+[13:34:03] Finished 'cleanScript' after 16 ms
+[13:34:03] Starting 'images'...
+[13:34:03] Starting 'fonts'...
+[13:34:03] Starting 'styles'...
+[13:34:03] Starting 'scripts'...
+[13:34:03] Starting 'views'...
+[13:34:03] Finished 'images' after 18 ms
+[13:34:03] Finished 'fonts' after 21 ms
+[13:34:03] Finished 'styles' after 33 ms
+[13:34:03] Finished 'scripts' after 40 ms
+[13:34:03] Finished 'views' after 50 ms
+[13:34:03] Starting 'browserSyncTask'...
+[13:34:03] Starting 'watchTask'...
+[Browsersync] Access URLs:
+ --------------------------------------------------
+       Local: http://localhost:3000/index.html
+    External: http://154.204.42.144:3000/index.html
+ --------------------------------------------------
+          UI: http://localhost:3001
+ UI External: http://localhost:3001
+ --------------------------------------------------
+[Browsersync] Serving files from: __gulptemp__/
+[Browsersync] Couldn't open browser (if you are using BrowserSync in a headless environment, you might want to set the open option to false)

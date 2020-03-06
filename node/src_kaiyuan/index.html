@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="/common/jquery.js"></script>
+</head>
+
+<body>
+    <button id="guest">游客登录</button><br>
+    <script>
+        $(function () {
+            $('#guest').on("click", function () {
+                $.ajax({
+                    "url": "/api/all/home_LoginOrRegister_login",
+                    "method": "POST",
+                    "crossDomain":true,
+                    "headers": {
+                        "Content-Type": "application/json"
+                    },
+                    "data": JSON.stringify({
+                        "userName": "",
+                        "password": "",
+                        "regularOrguest": "guest"
+                    })
+                }).done(function (response) {
+                    console.log(response);
+                    var settings = {
+                        "url": "/api/all/home_kaiyuan_doLogin",
+                        "method": "POST",
+                        "timeout": 0,
+                        crossDomain:true,
+                        "headers": {
+                            "Content-Type": "application/json;charset=UTF-8",
+                            "x-requested-with": "XMLHttpRequest"
+                        },
+                        "data": {
+                            kindId: 510
+                        }
+                    };
+                    $.ajax(settings).done(function (response) {
+                        let go = confirm("是否跳转网页？")
+                        if (go) {
+                            window.open(response.data.url.replace("https://game.ky206.com","http://154.204.42.144:9701"), "_blank")
+                        }
+                        console.log();
+                    });
+                });
+            })
+        })
+    </script>
+</body>
+
+</html>
