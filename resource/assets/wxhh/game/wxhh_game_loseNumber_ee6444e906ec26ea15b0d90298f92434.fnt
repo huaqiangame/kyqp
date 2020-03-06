@@ -1,0 +1,14 @@
+{"file":"wxhh_game_loseNumber.png","frames":{
+"0":{"x":0,"y":64,"w":22,"h":30,"offX":0,"offY":0,"sourceW":22,"sourceH":30},
+"1":{"x":47,"y":32,"w":13,"h":30,"offX":1,"offY":0,"sourceW":14,"sourceH":30},
+"2":{"x":24,"y":32,"w":21,"h":30,"offX":1,"offY":0,"sourceW":22,"sourceH":30},
+"3":{"x":24,"y":96,"w":20,"h":30,"offX":1,"offY":0,"sourceW":21,"sourceH":30},
+"4":{"x":0,"y":0,"w":22,"h":30,"offX":0,"offY":0,"sourceW":22,"sourceH":30},
+"5":{"x":46,"y":64,"w":20,"h":30,"offX":1,"offY":0,"sourceW":21,"sourceH":30},
+"6":{"x":24,"y":0,"w":22,"h":30,"offX":0,"offY":0,"sourceW":22,"sourceH":30},
+"7":{"x":24,"y":64,"w":20,"h":30,"offX":0,"offY":0,"sourceW":20,"sourceH":30},
+"8":{"x":0,"y":32,"w":22,"h":30,"offX":0,"offY":0,"sourceW":22,"sourceH":30},
+"9":{"x":0,"y":96,"w":22,"h":30,"offX":0,"offY":0,"sourceW":22,"sourceH":30},
+".":{"x":48,"y":11,"w":10,"h":13,"offX":6,"offY":17,"sourceW":22,"sourceH":30},
+"-":{"x":48,"y":0,"w":22,"h":9,"offX":0,"offY":11,"sourceW":22,"sourceH":30},
+",":{"x":60,"y":11,"w":8,"h":14,"offX":6,"offY":10,"sourceW":20,"sourceH":24}}}

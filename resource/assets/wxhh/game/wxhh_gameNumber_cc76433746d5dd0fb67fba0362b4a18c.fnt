@@ -1,0 +1,13 @@
+{"file":"wxhh_gameNumber.png","frames":{
+"9":{"x":56,"y":55,"w":27,"h":31,"offX":0,"offY":0,"sourceW":28,"sourceH":32},
+"第":{"x":8,"y":8,"w":32,"h":32,"offX":0,"offY":0,"sourceW":32,"sourceH":32},
+"局":{"x":56,"y":8,"w":32,"h":31,"offX":0,"offY":0,"sourceW":32,"sourceH":32},
+"0":{"x":8,"y":56,"w":27,"h":31,"offX":0,"offY":0,"sourceW":28,"sourceH":32},
+"1":{"x":99,"y":55,"w":21,"h":31,"offX":0,"offY":0,"sourceW":22,"sourceH":32},
+"2":{"x":8,"y":103,"w":26,"h":31,"offX":0,"offY":0,"sourceW":26,"sourceH":32},
+"3":{"x":49,"y":196,"w":25,"h":31,"offX":0,"offY":0,"sourceW":26,"sourceH":32},
+"4":{"x":51,"y":102,"w":26,"h":31,"offX":0,"offY":0,"sourceW":28,"sourceH":32},
+"5":{"x":50,"y":149,"w":26,"h":31,"offX":0,"offY":0,"sourceW":26,"sourceH":32},
+"6":{"x":93,"y":102,"w":26,"h":31,"offX":0,"offY":1,"sourceW":26,"sourceH":32},
+"7":{"x":8,"y":150,"w":25,"h":31,"offX":1,"offY":0,"sourceW":26,"sourceH":32},
+"8":{"x":92,"y":149,"w":26,"h":31,"offX":0,"offY":0,"sourceW":26,"sourceH":32}}}

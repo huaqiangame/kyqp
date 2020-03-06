@@ -1,0 +1,4126 @@
+{
+    "frameRate": 30,
+    "armature": [
+        {
+            "frameRate": 30,
+            "defaultActions": [
+                {
+                    "gotoAndPlay": "action"
+                }
+            ],
+            "skin": [
+                {
+                    "name": "",
+                    "slot": [
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "y": 13.4,
+                                        "x": 0.3
+                                    },
+                                    "name": "yj/w1",
+                                    "path": "yj/w1"
+                                }
+                            ],
+                            "name": "1a"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "y": -1.1,
+                                        "x": 1.85
+                                    },
+                                    "name": "yj/w4",
+                                    "path": "yj/w4"
+                                }
+                            ],
+                            "name": "kuang4"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "y": 13.15,
+                                        "x": 0.05
+                                    },
+                                    "name": "yj/w1",
+                                    "path": "yj/w1"
+                                }
+                            ],
+                            "name": "11b"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "y": 13.4
+                                    },
+                                    "name": "yj/w1",
+                                    "path": "yj/w1"
+                                }
+                            ],
+                            "name": "1111c"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "y": -2.4,
+                                        "x": -0.4
+                                    },
+                                    "name": "yj/w2",
+                                    "path": "yj/w2"
+                                }
+                            ],
+                            "name": "2"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "y": -2.35,
+                                        "x": -0.35
+                                    },
+                                    "name": "yj/w2",
+                                    "path": "yj/w2"
+                                }
+                            ],
+                            "name": "2222_0"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "y": -1.1,
+                                        "x": 1.85
+                                    },
+                                    "name": "yj/w4",
+                                    "path": "yj/w4"
+                                }
+                            ],
+                            "name": "kuang1"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "y": 13.35,
+                                        "x": 0.1
+                                    },
+                                    "name": "yj/w1",
+                                    "path": "yj/w1"
+                                }
+                            ],
+                            "name": "11111b"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "y": 13.25
+                                    },
+                                    "name": "yj/w1",
+                                    "path": "yj/w1"
+                                }
+                            ],
+                            "name": "11d"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "y": -1.1,
+                                        "x": 1.85
+                                    },
+                                    "name": "yj/w4",
+                                    "path": "yj/w4"
+                                }
+                            ],
+                            "name": "kuang5"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "y": 13.45,
+                                        "x": 0.25
+                                    },
+                                    "name": "yj/w1",
+                                    "path": "yj/w1"
+                                }
+                            ],
+                            "name": "1b"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "y": 13.2,
+                                        "x": -0.05
+                                    },
+                                    "name": "yj/w1",
+                                    "path": "yj/w1"
+                                }
+                            ],
+                            "name": "111c"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "y": 13.35,
+                                        "x": 0.1
+                                    },
+                                    "name": "yj/w1",
+                                    "path": "yj/w1"
+                                }
+                            ],
+                            "name": "11111d"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "y": -2.15,
+                                        "x": -0.1
+                                    },
+                                    "name": "yj/w2",
+                                    "path": "yj/w2"
+                                }
+                            ],
+                            "name": "222"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "y": 13.1,
+                                        "x": 0.05
+                                    },
+                                    "name": "yj/w1",
+                                    "path": "yj/w1"
+                                }
+                            ],
+                            "name": "111a"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "y": 13.15
+                                    },
+                                    "name": "yj/w1",
+                                    "path": "yj/w1"
+                                }
+                            ],
+                            "name": "11a"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "y": 13.45,
+                                        "x": 0.15
+                                    },
+                                    "name": "yj/w1",
+                                    "path": "yj/w1"
+                                }
+                            ],
+                            "name": "1111b"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "y": 13.35,
+                                        "x": 0.25
+                                    },
+                                    "name": "yj/w1",
+                                    "path": "yj/w1"
+                                }
+                            ],
+                            "name": "1d"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "y": -1.1,
+                                        "x": 1.85
+                                    },
+                                    "name": "yj/w4",
+                                    "path": "yj/w4"
+                                }
+                            ],
+                            "name": "kuang2"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "y": 13.2,
+                                        "x": 0.15
+                                    },
+                                    "name": "yj/w1",
+                                    "path": "yj/w1"
+                                }
+                            ],
+                            "name": "11111a"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "y": 13.2,
+                                        "x": -0.05
+                                    },
+                                    "name": "yj/w1",
+                                    "path": "yj/w1"
+                                }
+                            ],
+                            "name": "11c"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "y": 13.35,
+                                        "x": 0.1
+                                    },
+                                    "name": "yj/w1",
+                                    "path": "yj/w1"
+                                }
+                            ],
+                            "name": "1111d"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "y": -2.45,
+                                        "x": -0.5
+                                    },
+                                    "name": "yj/w2",
+                                    "path": "yj/w2"
+                                }
+                            ],
+                            "name": "22"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "y": -1.1,
+                                        "x": 1.85
+                                    },
+                                    "name": "yj/w4",
+                                    "path": "yj/w4"
+                                }
+                            ],
+                            "name": "kuang3"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "y": 13.15,
+                                        "x": 0.05
+                                    },
+                                    "name": "yj/w1",
+                                    "path": "yj/w1"
+                                }
+                            ],
+                            "name": "111b"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "y": 13.4
+                                    },
+                                    "name": "yj/w1",
+                                    "path": "yj/w1"
+                                }
+                            ],
+                            "name": "11111c"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "y": -1.1,
+                                        "x": 1.85
+                                    },
+                                    "name": "yj/w4",
+                                    "path": "yj/w4"
+                                }
+                            ],
+                            "name": "kuang6"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "y": -2.6,
+                                        "x": -0.5
+                                    },
+                                    "name": "yj/w2",
+                                    "path": "yj/w2"
+                                }
+                            ],
+                            "name": "2222"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "y": 13.4,
+                                        "x": 0.1
+                                    },
+                                    "name": "yj/w1",
+                                    "path": "yj/w1"
+                                }
+                            ],
+                            "name": "1111a"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "y": 13.5,
+                                        "x": 0.3
+                                    },
+                                    "name": "yj/w1",
+                                    "path": "yj/w1"
+                                }
+                            ],
+                            "name": "1c"
+                        },
+                        {
+                            "display": [
+                                {
+                                    "type": "image",
+                                    "transform": {
+                                        "y": 13.3
+                                    },
+                                    "name": "yj/w1",
+                                    "path": "yj/w1"
+                                }
+                            ],
+                            "name": "111d"
+                        }
+                    ]
+                }
+            ],
+            "animation": [
+                {
+                    "fadeInTime": 0.3,
+                    "bone": [
+                        {
+                            "translateFrame": [
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": -0.1,
+                                    "duration": 6,
+                                    "tweenEasing": 0,
+                                    "x": 0.05
+                                },
+                                {
+                                    "y": -0.2,
+                                    "duration": 61,
+                                    "x": 0.15
+                                }
+                            ],
+                            "rotateFrame": [
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 61
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": 1.1,
+                                    "duration": 6,
+                                    "tweenEasing": 0,
+                                    "x": 1.1
+                                },
+                                {
+                                    "y": 1.29,
+                                    "duration": 61,
+                                    "x": 1.29
+                                }
+                            ],
+                            "name": "kuang1"
+                        },
+                        {
+                            "translateFrame": [
+                                {
+                                    "y": 1.35,
+                                    "duration": 5,
+                                    "x": -0.45
+                                },
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": -0.1,
+                                    "duration": 6,
+                                    "tweenEasing": 0,
+                                    "x": 0.05
+                                },
+                                {
+                                    "y": -0.2,
+                                    "duration": 55,
+                                    "x": 0.15
+                                }
+                            ],
+                            "rotateFrame": [
+                                {
+                                    "duration": 5
+                                },
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 55
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "duration": 5
+                                },
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": 1.1,
+                                    "duration": 6,
+                                    "tweenEasing": 0,
+                                    "x": 1.1
+                                },
+                                {
+                                    "y": 1.29,
+                                    "duration": 55,
+                                    "x": 1.29
+                                }
+                            ],
+                            "name": "kuang2"
+                        },
+                        {
+                            "translateFrame": [
+                                {
+                                    "y": 1.35,
+                                    "duration": 11,
+                                    "x": -0.45
+                                },
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": -0.1,
+                                    "duration": 5,
+                                    "tweenEasing": 0,
+                                    "x": 0.05
+                                },
+                                {
+                                    "y": -0.15,
+                                    "duration": 50,
+                                    "x": 0.1
+                                }
+                            ],
+                            "rotateFrame": [
+                                {
+                                    "duration": 11
+                                },
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 50
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "duration": 11
+                                },
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": 1.1,
+                                    "duration": 5,
+                                    "tweenEasing": 0,
+                                    "x": 1.1
+                                },
+                                {
+                                    "y": 1.16,
+                                    "duration": 50,
+                                    "x": 1.16
+                                }
+                            ],
+                            "name": "kuang3"
+                        },
+                        {
+                            "translateFrame": [
+                                {
+                                    "y": 1.35,
+                                    "duration": 17,
+                                    "x": -0.45
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": -0.1,
+                                    "duration": 5,
+                                    "tweenEasing": 0,
+                                    "x": 0.05
+                                },
+                                {
+                                    "y": -0.2,
+                                    "duration": 45,
+                                    "x": 0.15
+                                }
+                            ],
+                            "rotateFrame": [
+                                {
+                                    "duration": 17
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 45
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "duration": 17
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": 1.1,
+                                    "duration": 5,
+                                    "tweenEasing": 0,
+                                    "x": 1.1
+                                },
+                                {
+                                    "y": 1.29,
+                                    "duration": 45,
+                                    "x": 1.29
+                                }
+                            ],
+                            "name": "kuang4"
+                        },
+                        {
+                            "translateFrame": [
+                                {
+                                    "y": 1.35,
+                                    "duration": 27,
+                                    "x": -0.45
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": -0.1,
+                                    "duration": 5,
+                                    "tweenEasing": 0,
+                                    "x": 0.05
+                                },
+                                {
+                                    "y": -0.2,
+                                    "duration": 35,
+                                    "x": 0.15
+                                }
+                            ],
+                            "rotateFrame": [
+                                {
+                                    "duration": 27
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 35
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "duration": 27
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": 1.1,
+                                    "duration": 5,
+                                    "tweenEasing": 0,
+                                    "x": 1.1
+                                },
+                                {
+                                    "y": 1.29,
+                                    "duration": 35,
+                                    "x": 1.29
+                                }
+                            ],
+                            "name": "kuang5"
+                        },
+                        {
+                            "translateFrame": [
+                                {
+                                    "y": 1.35,
+                                    "duration": 32,
+                                    "x": -0.45
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": -0.1,
+                                    "duration": 5,
+                                    "tweenEasing": 0,
+                                    "x": 0.05
+                                },
+                                {
+                                    "y": -0.2,
+                                    "duration": 11,
+                                    "tweenEasing": 0,
+                                    "x": 0.15
+                                },
+                                {
+                                    "y": 0.8,
+                                    "duration": 19,
+                                    "x": 13.15
+                                }
+                            ],
+                            "rotateFrame": [
+                                {
+                                    "duration": 32
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 11,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 19
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "duration": 32
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": 1.1,
+                                    "duration": 5,
+                                    "tweenEasing": 0,
+                                    "x": 1.1
+                                },
+                                {
+                                    "y": 1.29,
+                                    "duration": 11,
+                                    "tweenEasing": 0,
+                                    "x": 1.29
+                                },
+                                {
+                                    "y": 1.29,
+                                    "duration": 19,
+                                    "x": 1.29
+                                }
+                            ],
+                            "name": "kuang6"
+                        },
+                        {
+                            "translateFrame": [
+                                {
+                                    "y": 59.75,
+                                    "duration": 10,
+                                    "x": 78.9
+                                },
+                                {
+                                    "duration": 11,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": 27.55,
+                                    "duration": 40,
+                                    "tweenEasing": 0,
+                                    "x": 20.85
+                                },
+                                {
+                                    "y": 59.15,
+                                    "duration": 11,
+                                    "tweenEasing": 0,
+                                    "x": 76.25
+                                },
+                                {
+                                    "y": 60.2,
+                                    "duration": 0,
+                                    "x": 77.75
+                                }
+                            ],
+                            "rotateFrame": [
+                                {
+                                    "rotate": -169.93,
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 11,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 40,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "rotate": 50.6,
+                                    "duration": 11,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "rotate": 51.71,
+                                    "duration": 0
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "y": 2.2727,
+                                    "duration": 10,
+                                    "x": 2.2727
+                                },
+                                {
+                                    "duration": 11,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 40,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": 0.3636,
+                                    "duration": 11,
+                                    "tweenEasing": 0,
+                                    "x": 0.3636
+                                },
+                                {
+                                    "y": 0.3409,
+                                    "duration": 0,
+                                    "x": 0.3409
+                                }
+                            ],
+                            "name": "2222"
+                        },
+                        {
+                            "translateFrame": [
+                                {
+                                    "y": 9.15,
+                                    "duration": 6,
+                                    "x": 82.9
+                                },
+                                {
+                                    "duration": 12,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": 17.15,
+                                    "duration": 36,
+                                    "tweenEasing": 0,
+                                    "x": 25.35
+                                },
+                                {
+                                    "y": 34.65,
+                                    "duration": 10,
+                                    "tweenEasing": 0,
+                                    "x": 80.55
+                                },
+                                {
+                                    "y": 35.25,
+                                    "duration": 8,
+                                    "x": 82.1
+                                }
+                            ],
+                            "rotateFrame": [
+                                {
+                                    "rotate": -147.97,
+                                    "duration": 6
+                                },
+                                {
+                                    "duration": 12,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "rotate": -29.24,
+                                    "duration": 36,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "rotate": 49.77,
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "rotate": 51.72,
+                                    "duration": 8
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "y": 1.3699,
+                                    "duration": 6,
+                                    "x": 1.3699
+                                },
+                                {
+                                    "duration": 12,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 36,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": 0.3699,
+                                    "duration": 10,
+                                    "tweenEasing": 0,
+                                    "x": 0.3699
+                                },
+                                {
+                                    "y": 0.3425,
+                                    "duration": 8,
+                                    "x": 0.3425
+                                }
+                            ],
+                            "name": "2222_0"
+                        },
+                        {
+                            "translateFrame": [
+                                {
+                                    "y": -133.8,
+                                    "duration": 5,
+                                    "x": 34.6
+                                },
+                                {
+                                    "duration": 15,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": -52.55,
+                                    "duration": 32,
+                                    "tweenEasing": 0,
+                                    "x": 16.95
+                                },
+                                {
+                                    "y": -84.5,
+                                    "duration": 13,
+                                    "tweenEasing": 0,
+                                    "x": 27.05
+                                },
+                                {
+                                    "y": -88.35,
+                                    "duration": 7,
+                                    "x": 28.55
+                                }
+                            ],
+                            "rotateFrame": [
+                                {
+                                    "rotate": -47.64,
+                                    "duration": 5
+                                },
+                                {
+                                    "duration": 15,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "rotate": -42.23,
+                                    "duration": 32,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "rotate": 46.3,
+                                    "duration": 13,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "rotate": 51.73,
+                                    "duration": 7
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "y": 1.3158,
+                                    "duration": 5,
+                                    "x": 1.3158
+                                },
+                                {
+                                    "duration": 15,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 32,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": 0.3816,
+                                    "duration": 13,
+                                    "tweenEasing": 0,
+                                    "x": 0.3816
+                                },
+                                {
+                                    "y": 0.3553,
+                                    "duration": 7,
+                                    "x": 0.3553
+                                }
+                            ],
+                            "name": "222"
+                        },
+                        {
+                            "translateFrame": [
+                                {
+                                    "y": 20.6,
+                                    "duration": 3,
+                                    "x": -98.45
+                                },
+                                {
+                                    "duration": 11,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": 31.45,
+                                    "duration": 34,
+                                    "tweenEasing": 0,
+                                    "x": -56.85
+                                },
+                                {
+                                    "y": 39.7,
+                                    "duration": 11,
+                                    "tweenEasing": 0,
+                                    "x": -79.3
+                                },
+                                {
+                                    "y": 40.6,
+                                    "duration": 13,
+                                    "x": -81.65
+                                }
+                            ],
+                            "rotateFrame": [
+                                {
+                                    "rotate": 94,
+                                    "duration": 3
+                                },
+                                {
+                                    "duration": 11,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "rotate": 64.99,
+                                    "duration": 34,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "rotate": 52.3,
+                                    "duration": 11,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "rotate": 51.73,
+                                    "duration": 13
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "y": 2.0833,
+                                    "duration": 3,
+                                    "x": 2.0833
+                                },
+                                {
+                                    "duration": 11,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 34,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": 0.375,
+                                    "duration": 11,
+                                    "tweenEasing": 0,
+                                    "x": 0.375
+                                },
+                                {
+                                    "y": 0.3542,
+                                    "duration": 13,
+                                    "x": 0.3542
+                                }
+                            ],
+                            "name": "22"
+                        },
+                        {
+                            "translateFrame": [
+                                {
+                                    "duration": 11,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": -33.3,
+                                    "duration": 34,
+                                    "tweenEasing": 0,
+                                    "x": -52.8
+                                },
+                                {
+                                    "y": -57.95,
+                                    "duration": 12,
+                                    "tweenEasing": 0,
+                                    "x": -71.15
+                                },
+                                {
+                                    "y": -60.8,
+                                    "duration": 15,
+                                    "x": -74.65
+                                }
+                            ],
+                            "rotateFrame": [
+                                {
+                                    "duration": 11,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "rotate": 20.97,
+                                    "duration": 34,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "rotate": 49.5,
+                                    "duration": 12,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "rotate": 51.73,
+                                    "duration": 15
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "duration": 11,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 34,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": 0.3846,
+                                    "duration": 12,
+                                    "tweenEasing": 0,
+                                    "x": 0.3846
+                                },
+                                {
+                                    "y": 0.3385,
+                                    "duration": 15,
+                                    "x": 0.3385
+                                }
+                            ],
+                            "name": "2"
+                        },
+                        {
+                            "translateFrame": [
+                                {
+                                    "y": 28.95,
+                                    "duration": 2,
+                                    "x": 7.15
+                                },
+                                {
+                                    "duration": 56,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": 78.3,
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "x": 134
+                                },
+                                {
+                                    "y": 78.55,
+                                    "duration": 10,
+                                    "tweenEasing": 0,
+                                    "x": 134.35
+                                },
+                                {
+                                    "y": 78.45,
+                                    "duration": 1,
+                                    "x": 134.3
+                                }
+                            ],
+                            "rotateFrame": [
+                                {
+                                    "duration": 2
+                                },
+                                {
+                                    "duration": 56,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 1
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "y": 0.8403,
+                                    "duration": 2,
+                                    "x": 0.8403
+                                },
+                                {
+                                    "duration": 56,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 1
+                                }
+                            ],
+                            "name": "11111d"
+                        },
+                        {
+                            "translateFrame": [
+                                {
+                                    "y": 28.95,
+                                    "duration": 1,
+                                    "x": 7.15
+                                },
+                                {
+                                    "duration": 59,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": -116.8,
+                                    "duration": 10,
+                                    "tweenEasing": 0,
+                                    "x": 77.1
+                                },
+                                {
+                                    "y": -116.8,
+                                    "duration": 2,
+                                    "x": 77.1
+                                }
+                            ],
+                            "rotateFrame": [
+                                {
+                                    "duration": 1
+                                },
+                                {
+                                    "duration": 59,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 2
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "y": 0.8403,
+                                    "duration": 1,
+                                    "x": 0.8403
+                                },
+                                {
+                                    "duration": 59,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 2
+                                }
+                            ],
+                            "name": "1111d"
+                        },
+                        {
+                            "translateFrame": [
+                                {
+                                    "y": 43.1,
+                                    "duration": 1,
+                                    "x": 12.6
+                                },
+                                {
+                                    "duration": 58,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": 30.3,
+                                    "duration": 10,
+                                    "tweenEasing": 0,
+                                    "x": -131.05
+                                },
+                                {
+                                    "y": 30.3,
+                                    "duration": 3,
+                                    "x": -131.05
+                                }
+                            ],
+                            "rotateFrame": [
+                                {
+                                    "rotate": -45.96,
+                                    "duration": 1
+                                },
+                                {
+                                    "duration": 58,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 3
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "y": 1.2658,
+                                    "duration": 1,
+                                    "x": -1.2658
+                                },
+                                {
+                                    "duration": 58,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 3
+                                }
+                            ],
+                            "name": "111d"
+                        },
+                        {
+                            "translateFrame": [
+                                {
+                                    "duration": 58,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": -76.55,
+                                    "duration": 10,
+                                    "tweenEasing": 0,
+                                    "x": 20.05
+                                },
+                                {
+                                    "y": -76.55,
+                                    "duration": 4,
+                                    "x": 20.05
+                                }
+                            ],
+                            "rotateFrame": [
+                                {
+                                    "duration": 58,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 4
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "duration": 58,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 4
+                                }
+                            ],
+                            "name": "11d"
+                        },
+                        {
+                            "translateFrame": [
+                                {
+                                    "y": 19.9,
+                                    "duration": 9,
+                                    "x": 19.5
+                                },
+                                {
+                                    "duration": 42,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": -17.85,
+                                    "duration": 21,
+                                    "x": -73.45
+                                }
+                            ],
+                            "rotateFrame": [
+                                {
+                                    "duration": 9
+                                },
+                                {
+                                    "duration": 42,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 21
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "y": 0.8403,
+                                    "duration": 9,
+                                    "x": 0.8403
+                                },
+                                {
+                                    "duration": 42,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 21
+                                }
+                            ],
+                            "name": "1d"
+                        },
+                        {
+                            "translateFrame": [
+                                {
+                                    "y": 40.75,
+                                    "duration": 7,
+                                    "x": 14.9
+                                },
+                                {
+                                    "duration": 35,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": 75.85,
+                                    "duration": 27,
+                                    "tweenEasing": 0,
+                                    "x": -87.2
+                                },
+                                {
+                                    "y": 79.25,
+                                    "duration": 3,
+                                    "x": -93.95
+                                }
+                            ],
+                            "rotateFrame": [
+                                {
+                                    "rotate": -18.73,
+                                    "duration": 7
+                                },
+                                {
+                                    "duration": 35,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 27,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 3
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "y": 0.8403,
+                                    "duration": 7,
+                                    "x": -0.8403
+                                },
+                                {
+                                    "duration": 35,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 27,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 3
+                                }
+                            ],
+                            "name": "11111c"
+                        },
+                        {
+                            "translateFrame": [
+                                {
+                                    "y": 40.75,
+                                    "duration": 6,
+                                    "x": 14.9
+                                },
+                                {
+                                    "duration": 52,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": -135.4,
+                                    "duration": 10,
+                                    "tweenEasing": 0,
+                                    "x": -35.5
+                                },
+                                {
+                                    "y": -135.4,
+                                    "duration": 4,
+                                    "x": -35.5
+                                }
+                            ],
+                            "rotateFrame": [
+                                {
+                                    "rotate": -18.73,
+                                    "duration": 6
+                                },
+                                {
+                                    "duration": 52,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 4
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "y": 0.8403,
+                                    "duration": 6,
+                                    "x": -0.8403
+                                },
+                                {
+                                    "duration": 52,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 4
+                                }
+                            ],
+                            "name": "1111c"
+                        },
+                        {
+                            "translateFrame": [
+                                {
+                                    "y": 26.75,
+                                    "duration": 4,
+                                    "x": 13.8
+                                },
+                                {
+                                    "duration": 55,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": 45.15,
+                                    "duration": 10,
+                                    "tweenEasing": 0,
+                                    "x": 122.95
+                                },
+                                {
+                                    "y": 45.15,
+                                    "duration": 3,
+                                    "x": 122.95
+                                }
+                            ],
+                            "rotateFrame": [
+                                {
+                                    "rotate": 27.22,
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 55,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 3
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "y": 1.2658,
+                                    "duration": 4,
+                                    "x": 1.2658
+                                },
+                                {
+                                    "duration": 55,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 3
+                                }
+                            ],
+                            "name": "111c"
+                        },
+                        {
+                            "translateFrame": [
+                                {
+                                    "y": 26.75,
+                                    "duration": 3,
+                                    "x": 13.8
+                                },
+                                {
+                                    "duration": 55,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": -91.85,
+                                    "duration": 10,
+                                    "tweenEasing": 0,
+                                    "x": 9.8
+                                },
+                                {
+                                    "y": -91.85,
+                                    "duration": 4,
+                                    "x": 9.8
+                                }
+                            ],
+                            "rotateFrame": [
+                                {
+                                    "rotate": 27.22,
+                                    "duration": 3
+                                },
+                                {
+                                    "duration": 55,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 4
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "y": 1.2658,
+                                    "duration": 3,
+                                    "x": 1.2658
+                                },
+                                {
+                                    "duration": 55,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 4
+                                }
+                            ],
+                            "name": "11c"
+                        },
+                        {
+                            "translateFrame": [
+                                {
+                                    "y": 30.3,
+                                    "duration": 6,
+                                    "x": -9.8
+                                },
+                                {
+                                    "duration": 43,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": -40.9,
+                                    "duration": 23,
+                                    "x": 85.45
+                                }
+                            ],
+                            "rotateFrame": [
+                                {
+                                    "rotate": -18.73,
+                                    "duration": 6
+                                },
+                                {
+                                    "duration": 43,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 23
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "y": 0.8403,
+                                    "duration": 6,
+                                    "x": -0.8403
+                                },
+                                {
+                                    "duration": 43,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 23
+                                }
+                            ],
+                            "name": "1c"
+                        },
+                        {
+                            "translateFrame": [
+                                {
+                                    "y": 14.85,
+                                    "duration": 2,
+                                    "x": 24.8
+                                },
+                                {
+                                    "duration": 58,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": 67.6,
+                                    "duration": 11,
+                                    "tweenEasing": 0,
+                                    "x": 185.2
+                                },
+                                {
+                                    "y": 67.6,
+                                    "duration": 1,
+                                    "x": 185.2
+                                }
+                            ],
+                            "rotateFrame": [
+                                {
+                                    "rotate": 112.96,
+                                    "duration": 2
+                                },
+                                {
+                                    "duration": 58,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 11,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 1
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "y": 0.6173,
+                                    "duration": 2,
+                                    "x": -0.6173
+                                },
+                                {
+                                    "duration": 58,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 11,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 1
+                                }
+                            ],
+                            "name": "11111b"
+                        },
+                        {
+                            "translateFrame": [
+                                {
+                                    "y": 43.9,
+                                    "duration": 1,
+                                    "x": 28.2
+                                },
+                                {
+                                    "duration": 57,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": 15.8,
+                                    "duration": 10,
+                                    "tweenEasing": 0,
+                                    "x": -156.9
+                                },
+                                {
+                                    "y": 15.8,
+                                    "duration": 4,
+                                    "x": -156.9
+                                }
+                            ],
+                            "rotateFrame": [
+                                {
+                                    "rotate": 55.65,
+                                    "duration": 1
+                                },
+                                {
+                                    "duration": 57,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 4
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "y": 0.885,
+                                    "duration": 1,
+                                    "x": -0.885
+                                },
+                                {
+                                    "duration": 57,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 4
+                                }
+                            ],
+                            "name": "1111b"
+                        },
+                        {
+                            "translateFrame": [
+                                {
+                                    "y": 26.1,
+                                    "duration": 1,
+                                    "x": 1.6
+                                },
+                                {
+                                    "duration": 56,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": -76.95,
+                                    "duration": 10,
+                                    "tweenEasing": 0,
+                                    "x": 103.65
+                                },
+                                {
+                                    "y": -76.95,
+                                    "duration": 5,
+                                    "x": 103.65
+                                }
+                            ],
+                            "rotateFrame": [
+                                {
+                                    "rotate": 83.16,
+                                    "duration": 1
+                                },
+                                {
+                                    "duration": 56,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 5
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "y": 0.9346,
+                                    "duration": 1,
+                                    "x": 0.9346
+                                },
+                                {
+                                    "duration": 56,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 5
+                                }
+                            ],
+                            "name": "111b"
+                        },
+                        {
+                            "translateFrame": [
+                                {
+                                    "duration": 56,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": -53.85,
+                                    "duration": 10,
+                                    "tweenEasing": 0,
+                                    "x": -122.75
+                                },
+                                {
+                                    "y": -53.85,
+                                    "duration": 6,
+                                    "x": -122.75
+                                }
+                            ],
+                            "rotateFrame": [
+                                {
+                                    "duration": 56,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 6
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "duration": 56,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 6
+                                }
+                            ],
+                            "name": "11b"
+                        },
+                        {
+                            "translateFrame": [
+                                {
+                                    "y": 49,
+                                    "duration": 1,
+                                    "x": 12.45
+                                },
+                                {
+                                    "duration": 39,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": -59.5,
+                                    "duration": 28,
+                                    "tweenEasing": 0,
+                                    "x": -13.6
+                                },
+                                {
+                                    "y": -127.1,
+                                    "duration": 4,
+                                    "x": -27.15
+                                }
+                            ],
+                            "rotateFrame": [
+                                {
+                                    "rotate": 37.21,
+                                    "duration": 1
+                                },
+                                {
+                                    "duration": 39,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 28,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 4
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "y": 0.6173,
+                                    "duration": 1,
+                                    "x": -0.6173
+                                },
+                                {
+                                    "duration": 39,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 28,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 4
+                                }
+                            ],
+                            "name": "1b"
+                        },
+                        {
+                            "translateFrame": [
+                                {
+                                    "y": 19.35,
+                                    "duration": 2,
+                                    "x": -4
+                                },
+                                {
+                                    "duration": 54,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": -34.55,
+                                    "duration": 10,
+                                    "tweenEasing": 0,
+                                    "x": 145.55
+                                },
+                                {
+                                    "y": -34.55,
+                                    "duration": 6,
+                                    "x": 145.55
+                                }
+                            ],
+                            "rotateFrame": [
+                                {
+                                    "rotate": 55.94,
+                                    "duration": 2
+                                },
+                                {
+                                    "duration": 54,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 6
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "y": 0.9615,
+                                    "duration": 2,
+                                    "x": 0.9615
+                                },
+                                {
+                                    "duration": 54,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 6
+                                }
+                            ],
+                            "name": "11111a"
+                        },
+                        {
+                            "translateFrame": [
+                                {
+                                    "y": 14.1,
+                                    "duration": 1,
+                                    "x": 19.45
+                                },
+                                {
+                                    "duration": 54,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": -143.15,
+                                    "duration": 10,
+                                    "tweenEasing": 0,
+                                    "x": -113.25
+                                },
+                                {
+                                    "y": -143.15,
+                                    "duration": 7,
+                                    "x": -113.25
+                                }
+                            ],
+                            "rotateFrame": [
+                                {
+                                    "rotate": 55.94,
+                                    "duration": 1
+                                },
+                                {
+                                    "duration": 54,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 7
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "y": 0.6173,
+                                    "duration": 1,
+                                    "x": 0.6173
+                                },
+                                {
+                                    "duration": 54,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 7
+                                }
+                            ],
+                            "name": "1111a"
+                        },
+                        {
+                            "translateFrame": [
+                                {
+                                    "y": 11.6,
+                                    "duration": 1,
+                                    "x": 22.6
+                                },
+                                {
+                                    "duration": 37,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": 103.35,
+                                    "duration": 26,
+                                    "tweenEasing": 0,
+                                    "x": -78.25
+                                },
+                                {
+                                    "y": 111.75,
+                                    "duration": 8,
+                                    "x": -85.85
+                                }
+                            ],
+                            "rotateFrame": [
+                                {
+                                    "rotate": 9.99,
+                                    "duration": 1
+                                },
+                                {
+                                    "duration": 37,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 26,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 8
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "y": 0.9346,
+                                    "duration": 1,
+                                    "x": -0.9346
+                                },
+                                {
+                                    "duration": 37,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 26,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 8
+                                }
+                            ],
+                            "name": "111a"
+                        },
+                        {
+                            "translateFrame": [
+                                {
+                                    "duration": 52,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": -91.2,
+                                    "duration": 13,
+                                    "tweenEasing": 0,
+                                    "x": -126.6
+                                },
+                                {
+                                    "y": -91.2,
+                                    "duration": 7,
+                                    "x": -126.6
+                                }
+                            ],
+                            "rotateFrame": [
+                                {
+                                    "duration": 52,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 13,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 7
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "duration": 52,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 13,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 7
+                                }
+                            ],
+                            "name": "11a"
+                        },
+                        {
+                            "translateFrame": [
+                                {
+                                    "y": 17.6,
+                                    "duration": 6,
+                                    "x": 5.5
+                                },
+                                {
+                                    "duration": 40,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "y": 18.3,
+                                    "duration": 1,
+                                    "tweenEasing": 0,
+                                    "x": -166.7
+                                },
+                                {
+                                    "y": 18.3,
+                                    "duration": 25,
+                                    "x": -166.7
+                                }
+                            ],
+                            "rotateFrame": [
+                                {
+                                    "rotate": 55.94,
+                                    "duration": 6
+                                },
+                                {
+                                    "duration": 40,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 1,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 25
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "y": 0.6173,
+                                    "duration": 6,
+                                    "x": 0.6173
+                                },
+                                {
+                                    "duration": 40,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 1,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 25
+                                }
+                            ],
+                            "name": "1a"
+                        },
+                        {
+                            "translateFrame": [],
+                            "rotateFrame": [],
+                            "scaleFrame": [],
+                            "name": "root"
+                        }
+                    ],
+                    "duration": 72,
+                    "frame": [],
+                    "slot": [
+                        {
+                            "colorFrame": [
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 61
+                                }
+                            ],
+                            "name": "kuang1",
+                            "displayFrame": [
+                                {
+                                    "duration": 5
+                                },
+                                {
+                                    "duration": 6
+                                },
+                                {
+                                    "duration": 61
+                                }
+                            ]
+                        },
+                        {
+                            "colorFrame": [
+                                {
+                                    "duration": 5
+                                },
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 55
+                                }
+                            ],
+                            "name": "kuang2",
+                            "displayFrame": [
+                                {
+                                    "value": -1,
+                                    "duration": 5
+                                },
+                                {
+                                    "duration": 6
+                                },
+                                {
+                                    "duration": 6
+                                },
+                                {
+                                    "duration": 55
+                                }
+                            ]
+                        },
+                        {
+                            "colorFrame": [
+                                {
+                                    "duration": 11
+                                },
+                                {
+                                    "duration": 6,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 50
+                                }
+                            ],
+                            "name": "kuang3",
+                            "displayFrame": [
+                                {
+                                    "value": -1,
+                                    "duration": 11
+                                },
+                                {
+                                    "duration": 6
+                                },
+                                {
+                                    "duration": 5
+                                },
+                                {
+                                    "duration": 50
+                                }
+                            ]
+                        },
+                        {
+                            "colorFrame": [
+                                {
+                                    "duration": 17
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 45
+                                }
+                            ],
+                            "name": "kuang4",
+                            "displayFrame": [
+                                {
+                                    "value": -1,
+                                    "duration": 17
+                                },
+                                {
+                                    "duration": 5
+                                },
+                                {
+                                    "duration": 5
+                                },
+                                {
+                                    "duration": 45
+                                }
+                            ]
+                        },
+                        {
+                            "colorFrame": [
+                                {
+                                    "duration": 27
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 35
+                                }
+                            ],
+                            "name": "kuang5",
+                            "displayFrame": [
+                                {
+                                    "value": -1,
+                                    "duration": 27
+                                },
+                                {
+                                    "duration": 5
+                                },
+                                {
+                                    "duration": 5
+                                },
+                                {
+                                    "duration": 35
+                                }
+                            ]
+                        },
+                        {
+                            "colorFrame": [
+                                {
+                                    "duration": 32
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 11,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 19
+                                }
+                            ],
+                            "name": "kuang6",
+                            "displayFrame": [
+                                {
+                                    "value": -1,
+                                    "duration": 32
+                                },
+                                {
+                                    "duration": 5
+                                },
+                                {
+                                    "duration": 5
+                                },
+                                {
+                                    "duration": 11
+                                },
+                                {
+                                    "duration": 19
+                                }
+                            ]
+                        },
+                        {
+                            "colorFrame": [
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 11,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 40,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 11,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 0
+                                }
+                            ],
+                            "name": "2222",
+                            "displayFrame": [
+                                {
+                                    "value": -1,
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 11
+                                },
+                                {
+                                    "duration": 40
+                                },
+                                {
+                                    "duration": 11
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        },
+                        {
+                            "colorFrame": [
+                                {
+                                    "duration": 6
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 12,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 36,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 8
+                                }
+                            ],
+                            "name": "2222_0",
+                            "displayFrame": [
+                                {
+                                    "value": -1,
+                                    "duration": 6
+                                },
+                                {
+                                    "duration": 12
+                                },
+                                {
+                                    "duration": 36
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 8
+                                }
+                            ]
+                        },
+                        {
+                            "colorFrame": [
+                                {
+                                    "duration": 5
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 15,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 32,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 13,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 7
+                                }
+                            ],
+                            "name": "222",
+                            "displayFrame": [
+                                {
+                                    "value": -1,
+                                    "duration": 5
+                                },
+                                {
+                                    "duration": 15
+                                },
+                                {
+                                    "duration": 32
+                                },
+                                {
+                                    "duration": 13
+                                },
+                                {
+                                    "duration": 7
+                                }
+                            ]
+                        },
+                        {
+                            "colorFrame": [
+                                {
+                                    "duration": 3
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 11,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 34,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 11,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 13
+                                }
+                            ],
+                            "name": "22",
+                            "displayFrame": [
+                                {
+                                    "value": -1,
+                                    "duration": 3
+                                },
+                                {
+                                    "duration": 11
+                                },
+                                {
+                                    "duration": 34
+                                },
+                                {
+                                    "duration": 11
+                                },
+                                {
+                                    "duration": 13
+                                }
+                            ]
+                        },
+                        {
+                            "colorFrame": [
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 11,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 34,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 12,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 15
+                                }
+                            ],
+                            "name": "2",
+                            "displayFrame": [
+                                {
+                                    "duration": 11
+                                },
+                                {
+                                    "duration": 34
+                                },
+                                {
+                                    "duration": 12
+                                },
+                                {
+                                    "duration": 15
+                                }
+                            ]
+                        },
+                        {
+                            "colorFrame": [
+                                {
+                                    "duration": 2
+                                },
+                                {
+                                    "duration": 56,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 1
+                                }
+                            ],
+                            "name": "11111d",
+                            "displayFrame": [
+                                {
+                                    "value": -1,
+                                    "duration": 2
+                                },
+                                {
+                                    "duration": 56
+                                },
+                                {
+                                    "duration": 3
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 1
+                                }
+                            ]
+                        },
+                        {
+                            "colorFrame": [
+                                {
+                                    "duration": 1
+                                },
+                                {
+                                    "duration": 59,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 2
+                                }
+                            ],
+                            "name": "1111d",
+                            "displayFrame": [
+                                {
+                                    "value": -1,
+                                    "duration": 1
+                                },
+                                {
+                                    "duration": 59
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 2
+                                }
+                            ]
+                        },
+                        {
+                            "colorFrame": [
+                                {
+                                    "duration": 1
+                                },
+                                {
+                                    "duration": 58,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 3
+                                }
+                            ],
+                            "name": "111d",
+                            "displayFrame": [
+                                {
+                                    "value": -1,
+                                    "duration": 1
+                                },
+                                {
+                                    "duration": 58
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 3
+                                }
+                            ]
+                        },
+                        {
+                            "colorFrame": [
+                                {
+                                    "duration": 58,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 4
+                                }
+                            ],
+                            "name": "11d",
+                            "displayFrame": [
+                                {
+                                    "duration": 58
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 4
+                                }
+                            ]
+                        },
+                        {
+                            "colorFrame": [
+                                {
+                                    "duration": 9
+                                },
+                                {
+                                    "duration": 42,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 21
+                                }
+                            ],
+                            "name": "1d",
+                            "displayFrame": [
+                                {
+                                    "value": -1,
+                                    "duration": 9
+                                },
+                                {
+                                    "duration": 42
+                                },
+                                {
+                                    "duration": 21
+                                }
+                            ]
+                        },
+                        {
+                            "colorFrame": [
+                                {
+                                    "duration": 7
+                                },
+                                {
+                                    "duration": 35,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 27,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 3
+                                }
+                            ],
+                            "name": "11111c",
+                            "displayFrame": [
+                                {
+                                    "value": -1,
+                                    "duration": 7
+                                },
+                                {
+                                    "duration": 35
+                                },
+                                {
+                                    "duration": 27
+                                },
+                                {
+                                    "duration": 3
+                                }
+                            ]
+                        },
+                        {
+                            "colorFrame": [
+                                {
+                                    "duration": 6
+                                },
+                                {
+                                    "duration": 52,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 4
+                                }
+                            ],
+                            "name": "1111c",
+                            "displayFrame": [
+                                {
+                                    "value": -1,
+                                    "duration": 6
+                                },
+                                {
+                                    "duration": 52
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 4
+                                }
+                            ]
+                        },
+                        {
+                            "colorFrame": [
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 55,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 3
+                                }
+                            ],
+                            "name": "111c",
+                            "displayFrame": [
+                                {
+                                    "value": -1,
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 55
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 3
+                                }
+                            ]
+                        },
+                        {
+                            "colorFrame": [
+                                {
+                                    "duration": 3
+                                },
+                                {
+                                    "duration": 55,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 4
+                                }
+                            ],
+                            "name": "11c",
+                            "displayFrame": [
+                                {
+                                    "value": -1,
+                                    "duration": 3
+                                },
+                                {
+                                    "duration": 55
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 4
+                                }
+                            ]
+                        },
+                        {
+                            "colorFrame": [
+                                {
+                                    "duration": 6
+                                },
+                                {
+                                    "duration": 43,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 23
+                                }
+                            ],
+                            "name": "1c",
+                            "displayFrame": [
+                                {
+                                    "value": -1,
+                                    "duration": 6
+                                },
+                                {
+                                    "duration": 43
+                                },
+                                {
+                                    "duration": 23
+                                }
+                            ]
+                        },
+                        {
+                            "colorFrame": [
+                                {
+                                    "duration": 2
+                                },
+                                {
+                                    "duration": 58,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 11,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 1
+                                }
+                            ],
+                            "name": "11111b",
+                            "displayFrame": [
+                                {
+                                    "value": -1,
+                                    "duration": 2
+                                },
+                                {
+                                    "duration": 58
+                                },
+                                {
+                                    "duration": 11
+                                },
+                                {
+                                    "duration": 1
+                                }
+                            ]
+                        },
+                        {
+                            "colorFrame": [
+                                {
+                                    "duration": 1
+                                },
+                                {
+                                    "duration": 57,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 4
+                                }
+                            ],
+                            "name": "1111b",
+                            "displayFrame": [
+                                {
+                                    "value": -1,
+                                    "duration": 1
+                                },
+                                {
+                                    "duration": 57
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 4
+                                }
+                            ]
+                        },
+                        {
+                            "colorFrame": [
+                                {
+                                    "duration": 1
+                                },
+                                {
+                                    "duration": 56,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 5
+                                }
+                            ],
+                            "name": "111b",
+                            "displayFrame": [
+                                {
+                                    "value": -1,
+                                    "duration": 1
+                                },
+                                {
+                                    "duration": 56
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 5
+                                }
+                            ]
+                        },
+                        {
+                            "colorFrame": [
+                                {
+                                    "duration": 56,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 6
+                                }
+                            ],
+                            "name": "11b",
+                            "displayFrame": [
+                                {
+                                    "duration": 56
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 6
+                                }
+                            ]
+                        },
+                        {
+                            "colorFrame": [
+                                {
+                                    "duration": 1
+                                },
+                                {
+                                    "duration": 39,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 28,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 4
+                                }
+                            ],
+                            "name": "1b",
+                            "displayFrame": [
+                                {
+                                    "value": -1,
+                                    "duration": 1
+                                },
+                                {
+                                    "duration": 39
+                                },
+                                {
+                                    "duration": 28
+                                },
+                                {
+                                    "duration": 4
+                                }
+                            ]
+                        },
+                        {
+                            "colorFrame": [
+                                {
+                                    "duration": 2
+                                },
+                                {
+                                    "duration": 54,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 6
+                                }
+                            ],
+                            "name": "11111a",
+                            "displayFrame": [
+                                {
+                                    "value": -1,
+                                    "duration": 2
+                                },
+                                {
+                                    "duration": 54
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 6
+                                }
+                            ]
+                        },
+                        {
+                            "colorFrame": [
+                                {
+                                    "duration": 1
+                                },
+                                {
+                                    "duration": 54,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 10,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 7
+                                }
+                            ],
+                            "name": "1111a",
+                            "displayFrame": [
+                                {
+                                    "value": -1,
+                                    "duration": 1
+                                },
+                                {
+                                    "duration": 54
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 7
+                                }
+                            ]
+                        },
+                        {
+                            "colorFrame": [
+                                {
+                                    "duration": 1
+                                },
+                                {
+                                    "duration": 37,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 26,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 8
+                                }
+                            ],
+                            "name": "111a",
+                            "displayFrame": [
+                                {
+                                    "value": -1,
+                                    "duration": 1
+                                },
+                                {
+                                    "duration": 37
+                                },
+                                {
+                                    "duration": 26
+                                },
+                                {
+                                    "duration": 8
+                                }
+                            ]
+                        },
+                        {
+                            "colorFrame": [
+                                {
+                                    "duration": 52,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 13,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 7
+                                }
+                            ],
+                            "name": "11a",
+                            "displayFrame": [
+                                {
+                                    "duration": 52
+                                },
+                                {
+                                    "duration": 13
+                                },
+                                {
+                                    "duration": 7
+                                }
+                            ]
+                        },
+                        {
+                            "colorFrame": [
+                                {
+                                    "duration": 6
+                                },
+                                {
+                                    "duration": 40,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 1,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "color": {
+                                        "aM": 0
+                                    },
+                                    "duration": 25
+                                }
+                            ],
+                            "name": "1a",
+                            "displayFrame": [
+                                {
+                                    "value": -1,
+                                    "duration": 6
+                                },
+                                {
+                                    "duration": 40
+                                },
+                                {
+                                    "duration": 1
+                                },
+                                {
+                                    "duration": 25
+                                }
+                            ]
+                        }
+                    ],
+                    "ffd": [],
+                    "ik": [],
+                    "name": "action"
+                }
+            ],
+            "aabb": {
+                "x": -104.2735565149359,
+                "y": -81.16209074018997,
+                "width": 224.06716274552895,
+                "height": 236.30496492882543
+            },
+            "slot": [
+                {
+                    "color": {},
+                    "name": "kuang1",
+                    "parent": "kuang1"
+                },
+                {
+                    "z": 1,
+                    "color": {},
+                    "name": "kuang2",
+                    "parent": "kuang2"
+                },
+                {
+                    "z": 2,
+                    "color": {},
+                    "name": "kuang3",
+                    "parent": "kuang3"
+                },
+                {
+                    "z": 3,
+                    "color": {},
+                    "name": "kuang4",
+                    "parent": "kuang4"
+                },
+                {
+                    "z": 4,
+                    "color": {},
+                    "name": "kuang5",
+                    "parent": "kuang5"
+                },
+                {
+                    "z": 5,
+                    "color": {},
+                    "name": "kuang6",
+                    "parent": "kuang6"
+                },
+                {
+                    "z": 6,
+                    "color": {},
+                    "name": "2222",
+                    "parent": "2222"
+                },
+                {
+                    "z": 7,
+                    "color": {},
+                    "name": "2222_0",
+                    "parent": "2222_0"
+                },
+                {
+                    "z": 8,
+                    "color": {},
+                    "name": "222",
+                    "parent": "222"
+                },
+                {
+                    "z": 9,
+                    "color": {},
+                    "name": "22",
+                    "parent": "22"
+                },
+                {
+                    "z": 10,
+                    "color": {},
+                    "name": "2",
+                    "parent": "2"
+                },
+                {
+                    "z": 11,
+                    "color": {},
+                    "name": "11111d",
+                    "parent": "11111d"
+                },
+                {
+                    "z": 12,
+                    "color": {},
+                    "name": "1111d",
+                    "parent": "1111d"
+                },
+                {
+                    "z": 13,
+                    "color": {},
+                    "name": "111d",
+                    "parent": "111d"
+                },
+                {
+                    "z": 14,
+                    "color": {},
+                    "name": "11d",
+                    "parent": "11d"
+                },
+                {
+                    "z": 15,
+                    "color": {},
+                    "name": "1d",
+                    "parent": "1d"
+                },
+                {
+                    "z": 16,
+                    "color": {},
+                    "name": "11111c",
+                    "parent": "11111c"
+                },
+                {
+                    "z": 17,
+                    "color": {},
+                    "name": "1111c",
+                    "parent": "1111c"
+                },
+                {
+                    "z": 18,
+                    "color": {},
+                    "name": "111c",
+                    "parent": "111c"
+                },
+                {
+                    "z": 19,
+                    "color": {},
+                    "name": "11c",
+                    "parent": "11c"
+                },
+                {
+                    "z": 20,
+                    "color": {},
+                    "name": "1c",
+                    "parent": "1c"
+                },
+                {
+                    "z": 21,
+                    "color": {},
+                    "name": "11111b",
+                    "parent": "11111b"
+                },
+                {
+                    "z": 22,
+                    "color": {},
+                    "name": "1111b",
+                    "parent": "1111b"
+                },
+                {
+                    "z": 23,
+                    "color": {},
+                    "name": "111b",
+                    "parent": "111b"
+                },
+                {
+                    "z": 24,
+                    "color": {},
+                    "name": "11b",
+                    "parent": "11b"
+                },
+                {
+                    "z": 25,
+                    "color": {},
+                    "name": "1b",
+                    "parent": "1b"
+                },
+                {
+                    "z": 26,
+                    "color": {},
+                    "name": "11111a",
+                    "parent": "11111a"
+                },
+                {
+                    "z": 27,
+                    "color": {},
+                    "name": "1111a",
+                    "parent": "1111a"
+                },
+                {
+                    "z": 28,
+                    "color": {},
+                    "name": "111a",
+                    "parent": "111a"
+                },
+                {
+                    "z": 29,
+                    "color": {},
+                    "name": "11a",
+                    "parent": "11a"
+                },
+                {
+                    "z": 30,
+                    "color": {},
+                    "name": "1a",
+                    "parent": "1a"
+                }
+            ],
+            "bone": [
+                {
+                    "transform": {},
+                    "name": "root"
+                },
+                {
+                    "inheritScale": false,
+                    "transform": {
+                        "y": -19.9,
+                        "scX": 1.19,
+                        "scY": 1.19,
+                        "x": -19.5
+                    },
+                    "name": "1d",
+                    "parent": "root"
+                },
+                {
+                    "inheritScale": false,
+                    "transform": {
+                        "y": -1.35,
+                        "x": 0.45
+                    },
+                    "name": "kuang2",
+                    "parent": "root"
+                },
+                {
+                    "inheritScale": false,
+                    "transform": {
+                        "y": -1.35,
+                        "x": 0.45
+                    },
+                    "name": "kuang3",
+                    "parent": "root"
+                },
+                {
+                    "inheritScale": false,
+                    "transform": {
+                        "y": -1.35,
+                        "x": 0.45
+                    },
+                    "name": "kuang4",
+                    "parent": "root"
+                },
+                {
+                    "inheritScale": false,
+                    "transform": {
+                        "y": -1.35,
+                        "x": 0.45
+                    },
+                    "name": "kuang5",
+                    "parent": "root"
+                },
+                {
+                    "inheritScale": false,
+                    "transform": {
+                        "y": -1.35,
+                        "x": 0.45
+                    },
+                    "name": "kuang6",
+                    "parent": "root"
+                },
+                {
+                    "inheritScale": false,
+                    "transform": {
+                        "skY": 169.93,
+                        "y": -59.75,
+                        "scX": 0.44,
+                        "scY": 0.44,
+                        "skX": 169.93,
+                        "x": -78.9
+                    },
+                    "name": "2222",
+                    "parent": "root"
+                },
+                {
+                    "inheritScale": false,
+                    "transform": {
+                        "skY": 147.97,
+                        "y": -9.15,
+                        "scX": 0.73,
+                        "scY": 0.73,
+                        "skX": 147.97,
+                        "x": -82.9
+                    },
+                    "name": "2222_0",
+                    "parent": "root"
+                },
+                {
+                    "inheritScale": false,
+                    "transform": {
+                        "skY": 47.64,
+                        "y": 133.8,
+                        "scX": 0.76,
+                        "scY": 0.76,
+                        "skX": 47.64,
+                        "x": -34.6
+                    },
+                    "name": "222",
+                    "parent": "root"
+                },
+                {
+                    "inheritScale": false,
+                    "transform": {
+                        "skY": -94,
+                        "y": -20.6,
+                        "scX": 0.48,
+                        "scY": 0.48,
+                        "skX": -94,
+                        "x": 98.45
+                    },
+                    "name": "22",
+                    "parent": "root"
+                },
+                {
+                    "inheritScale": false,
+                    "transform": {
+                        "skY": -26.99,
+                        "y": 104.1,
+                        "scX": 0.65,
+                        "scY": 0.65,
+                        "skX": -26.99,
+                        "x": 87.35
+                    },
+                    "name": "2",
+                    "parent": "root"
+                },
+                {
+                    "inheritScale": false,
+                    "transform": {
+                        "y": -28.95,
+                        "scX": 1.19,
+                        "scY": 1.19,
+                        "x": -7.15
+                    },
+                    "name": "11111d",
+                    "parent": "root"
+                },
+                {
+                    "inheritScale": false,
+                    "transform": {
+                        "y": -28.95,
+                        "scX": 1.19,
+                        "scY": 1.19,
+                        "x": -7.15
+                    },
+                    "name": "1111d",
+                    "parent": "root"
+                },
+                {
+                    "inheritScale": false,
+                    "transform": {
+                        "skY": 45.96,
+                        "y": -43.1,
+                        "scX": -0.79,
+                        "scY": 0.79,
+                        "skX": 45.96,
+                        "x": -12.6
+                    },
+                    "name": "111d",
+                    "parent": "root"
+                },
+                {
+                    "inheritScale": false,
+                    "transform": {
+                        "skY": 45.96,
+                        "y": -29.6,
+                        "scX": -0.79,
+                        "scY": 0.79,
+                        "skX": 45.96,
+                        "x": -12.6
+                    },
+                    "name": "11d",
+                    "parent": "root"
+                },
+                {
+                    "inheritScale": false,
+                    "transform": {
+                        "y": -1.35,
+                        "x": 0.45
+                    },
+                    "name": "kuang1",
+                    "parent": "root"
+                },
+                {
+                    "inheritScale": false,
+                    "transform": {
+                        "skY": 18.73,
+                        "y": -40.75,
+                        "scX": -1.19,
+                        "scY": 1.19,
+                        "skX": 18.73,
+                        "x": -14.9
+                    },
+                    "name": "11111c",
+                    "parent": "root"
+                },
+                {
+                    "inheritScale": false,
+                    "transform": {
+                        "skY": 18.73,
+                        "y": -40.75,
+                        "scX": -1.19,
+                        "scY": 1.19,
+                        "skX": 18.73,
+                        "x": -14.9
+                    },
+                    "name": "1111c",
+                    "parent": "root"
+                },
+                {
+                    "inheritScale": false,
+                    "transform": {
+                        "skY": -27.22,
+                        "y": -26.75,
+                        "scX": 0.79,
+                        "scY": 0.79,
+                        "skX": -27.22,
+                        "x": -13.8
+                    },
+                    "name": "111c",
+                    "parent": "root"
+                },
+                {
+                    "inheritScale": false,
+                    "transform": {
+                        "skY": -27.22,
+                        "y": -26.75,
+                        "scX": 0.79,
+                        "scY": 0.79,
+                        "skX": -27.22,
+                        "x": -13.8
+                    },
+                    "name": "11c",
+                    "parent": "root"
+                },
+                {
+                    "inheritScale": false,
+                    "transform": {
+                        "skY": 18.73,
+                        "y": -30.3,
+                        "scX": -1.19,
+                        "scY": 1.19,
+                        "skX": 18.73,
+                        "x": 9.8
+                    },
+                    "name": "1c",
+                    "parent": "root"
+                },
+                {
+                    "inheritScale": false,
+                    "transform": {
+                        "skY": -112.96,
+                        "y": -14.85,
+                        "scX": -1.62,
+                        "scY": 1.62,
+                        "skX": -112.96,
+                        "x": -24.8
+                    },
+                    "name": "11111b",
+                    "parent": "root"
+                },
+                {
+                    "inheritScale": false,
+                    "transform": {
+                        "skY": -55.65,
+                        "y": -43.9,
+                        "scX": -1.13,
+                        "scY": 1.13,
+                        "skX": -55.65,
+                        "x": -28.2
+                    },
+                    "name": "1111b",
+                    "parent": "root"
+                },
+                {
+                    "inheritScale": false,
+                    "transform": {
+                        "skY": -83.16,
+                        "y": -26.1,
+                        "scX": 1.07,
+                        "scY": 1.07,
+                        "skX": -83.16,
+                        "x": -1.6
+                    },
+                    "name": "111b",
+                    "parent": "root"
+                },
+                {
+                    "inheritScale": false,
+                    "transform": {
+                        "skY": -83.16,
+                        "y": -26.1,
+                        "scX": 1.07,
+                        "scY": 1.07,
+                        "skX": -83.16,
+                        "x": -15.1
+                    },
+                    "name": "11b",
+                    "parent": "root"
+                },
+                {
+                    "inheritScale": false,
+                    "transform": {
+                        "skY": -37.21,
+                        "y": -49,
+                        "scX": -1.62,
+                        "scY": 1.62,
+                        "skX": -37.21,
+                        "x": -12.45
+                    },
+                    "name": "1b",
+                    "parent": "root"
+                },
+                {
+                    "inheritScale": false,
+                    "transform": {
+                        "skY": -55.94,
+                        "y": -19.35,
+                        "scX": 1.04,
+                        "scY": 1.04,
+                        "skX": -55.94,
+                        "x": 4
+                    },
+                    "name": "11111a",
+                    "parent": "root"
+                },
+                {
+                    "inheritScale": false,
+                    "transform": {
+                        "skY": -55.94,
+                        "y": -14.1,
+                        "scX": 1.62,
+                        "scY": 1.62,
+                        "skX": -55.94,
+                        "x": -19.45
+                    },
+                    "name": "1111a",
+                    "parent": "root"
+                },
+                {
+                    "inheritScale": false,
+                    "transform": {
+                        "skY": -9.99,
+                        "y": -11.6,
+                        "scX": -1.07,
+                        "scY": 1.07,
+                        "skX": -9.99,
+                        "x": -22.6
+                    },
+                    "name": "111a",
+                    "parent": "root"
+                },
+                {
+                    "inheritScale": false,
+                    "transform": {
+                        "skY": -9.99,
+                        "y": -11.6,
+                        "scX": -1.07,
+                        "scY": 1.07,
+                        "skX": -9.99,
+                        "x": -9.1
+                    },
+                    "name": "11a",
+                    "parent": "root"
+                },
+                {
+                    "inheritScale": false,
+                    "transform": {
+                        "skY": -55.94,
+                        "y": -17.6,
+                        "scX": 1.62,
+                        "scY": 1.62,
+                        "skX": -55.94,
+                        "x": -5.5
+                    },
+                    "name": "1a",
+                    "parent": "root"
+                }
+            ],
+            "type": "lh_wingold",
+            "ik": [],
+            "name": "lh_wingold"
+        }
+    ],
+    "version": "5.5",
+    "name": "lh_wingold",
+    "isGlobal": 0
+}

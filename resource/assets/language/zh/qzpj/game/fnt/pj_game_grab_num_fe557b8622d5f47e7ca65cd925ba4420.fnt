@@ -1,0 +1,14 @@
+{"file":"pj_game_grab_num.png","frames":{
+"q":{"x":2,"y":44,"w":43,"h":38,"offX":0,"offY":0,"sourceW":43,"sourceH":38},
+"u":{"x":2,"y":2,"w":80,"h":38,"offX":0,"offY":0,"sourceW":80,"sourceH":38},
+"0":{"x":111,"y":2,"w":21,"h":28,"offX":5,"offY":6,"sourceW":31,"sourceH":39},
+"1":{"x":125,"y":34,"w":18,"h":29,"offX":6,"offY":6,"sourceW":31,"sourceH":39},
+"2":{"x":86,"y":2,"w":21,"h":29,"offX":5,"offY":6,"sourceW":31,"sourceH":39},
+"3":{"x":123,"y":69,"w":21,"h":28,"offX":5,"offY":6,"sourceW":31,"sourceH":39},
+"4":{"x":72,"y":77,"w":22,"h":29,"offX":4,"offY":6,"sourceW":31,"sourceH":39},
+"5":{"x":46,"y":86,"w":22,"h":30,"offX":4,"offY":5,"sourceW":31,"sourceH":39},
+"6":{"x":49,"y":44,"w":22,"h":29,"offX":4,"offY":6,"sourceW":31,"sourceH":39},
+"7":{"x":101,"y":35,"w":20,"h":30,"offX":5,"offY":5,"sourceW":31,"sourceH":39},
+"8":{"x":98,"y":76,"w":21,"h":28,"offX":5,"offY":6,"sourceW":31,"sourceH":39},
+"9":{"x":75,"y":44,"w":22,"h":28,"offX":4,"offY":6,"sourceW":31,"sourceH":39},
+"b":{"x":2,"y":86,"w":40,"h":39,"offX":0,"offY":0,"sourceW":40,"sourceH":39}}}

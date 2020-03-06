@@ -1,0 +1,3311 @@
+{
+    "frameRate": 24,
+    "name": "jsys_effect_kaijiang",
+    "version": "5.5",
+    "compatibleVersion": "5.5",
+    "armature": [
+        {
+            "type": "Armature",
+            "frameRate": 24,
+            "name": "jsys_effect_kaijiang",
+            "aabb": {
+                "x": -274.5,
+                "y": -264.5,
+                "width": 549,
+                "height": 529
+            },
+            "bone": [
+                {
+                    "name": "root"
+                },
+                {
+                    "name": "yuan",
+                    "parent": "root"
+                },
+                {
+                    "name": "paizi",
+                    "parent": "yuan",
+                    "transform": {
+                        "y": -168.45
+                    }
+                },
+                {
+                    "name": "taizi",
+                    "parent": "yuan",
+                    "transform": {
+                        "y": 210.5
+                    }
+                },
+                {
+                    "name": "glow",
+                    "parent": "yuan",
+                    "transform": {
+                        "y": 30.391
+                    }
+                },
+                {
+                    "name": "glow1",
+                    "parent": "yuan",
+                    "transform": {
+                        "y": 30.391
+                    }
+                },
+                {
+                    "name": "point",
+                    "parent": "yuan"
+                },
+                {
+                    "name": "point1",
+                    "parent": "yuan"
+                },
+                {
+                    "name": "point2",
+                    "parent": "yuan"
+                },
+                {
+                    "name": "point3",
+                    "parent": "yuan"
+                },
+                {
+                    "name": "11",
+                    "parent": "point",
+                    "transform": {
+                        "x": 194.2435,
+                        "y": -26.4321,
+                        "scX": 1.5,
+                        "scY": 1.5
+                    }
+                },
+                {
+                    "name": "shadow",
+                    "parent": "taizi",
+                    "transform": {
+                        "x": 5.7045,
+                        "y": -22.9185
+                    }
+                },
+                {
+                    "name": "animal",
+                    "parent": "paizi"
+                },
+                {
+                    "name": "daosui1",
+                    "parent": "paizi",
+                    "transform": {
+                        "x": 48.2867
+                    }
+                },
+                {
+                    "name": "daosui11",
+                    "parent": "paizi",
+                    "transform": {
+                        "x": -49.998,
+                        "scX": -1
+                    }
+                },
+                {
+                    "name": "13",
+                    "parent": "point1",
+                    "transform": {
+                        "x": 202.0914,
+                        "y": 80.0507,
+                        "scX": 1.5,
+                        "scY": 1.5
+                    }
+                },
+                {
+                    "name": "111",
+                    "parent": "point1",
+                    "transform": {
+                        "x": 195.5756,
+                        "y": 103.7837,
+                        "scX": 1.5,
+                        "scY": 1.5
+                    }
+                },
+                {
+                    "name": "121",
+                    "parent": "point1",
+                    "transform": {
+                        "x": 186.3422,
+                        "y": 126.2385,
+                        "scX": 1.5,
+                        "scY": 1.5
+                    }
+                },
+                {
+                    "name": "1",
+                    "parent": "point",
+                    "transform": {
+                        "x": 185.0022,
+                        "y": -49.3936,
+                        "scX": 1.5,
+                        "scY": 1.5
+                    }
+                },
+                {
+                    "name": "14",
+                    "parent": "point2",
+                    "transform": {
+                        "x": -184.9299,
+                        "y": -49.9562,
+                        "scX": 1.5,
+                        "scY": 1.5
+                    }
+                },
+                {
+                    "name": "112",
+                    "parent": "point2",
+                    "transform": {
+                        "x": -194.23,
+                        "y": -25.4567,
+                        "scX": 1.5,
+                        "scY": 1.5
+                    }
+                },
+                {
+                    "name": "122",
+                    "parent": "point2",
+                    "transform": {
+                        "x": -201.6297,
+                        "y": -3.1464,
+                        "scX": 1.5,
+                        "scY": 1.5
+                    }
+                },
+                {
+                    "name": "12",
+                    "parent": "point",
+                    "transform": {
+                        "x": 200.8125,
+                        "y": -2.7284,
+                        "scX": 1.5,
+                        "scY": 1.5
+                    }
+                },
+                {
+                    "name": "15",
+                    "parent": "point3",
+                    "transform": {
+                        "x": -201.1375,
+                        "y": 81.3052,
+                        "scX": 1.5,
+                        "scY": 1.5
+                    }
+                },
+                {
+                    "name": "113",
+                    "parent": "point3",
+                    "transform": {
+                        "x": -194.1604,
+                        "y": 104.2667,
+                        "scX": 1.5,
+                        "scY": 1.5
+                    }
+                },
+                {
+                    "name": "123",
+                    "parent": "point3",
+                    "transform": {
+                        "x": -185.2709,
+                        "y": 127.4479,
+                        "scX": 1.5,
+                        "scY": 1.5
+                    }
+                },
+                {
+                    "name": "p",
+                    "parent": "paizi"
+                },
+                {
+                    "name": "light",
+                    "parent": "taizi"
+                },
+                {
+                    "name": "p112",
+                    "parent": "p",
+                    "transform": {
+                        "x": -15.244,
+                        "y": 33.5098,
+                        "scX": 0.5,
+                        "scY": 0.5
+                    }
+                },
+                {
+                    "name": "p12",
+                    "parent": "p",
+                    "transform": {
+                        "x": -15.0007,
+                        "y": -33.4142,
+                        "scX": 0.5,
+                        "scY": 0.5
+                    }
+                },
+                {
+                    "name": "p13",
+                    "parent": "p",
+                    "transform": {
+                        "x": 72.3074,
+                        "y": -29.1123,
+                        "scX": 0.5,
+                        "scY": 0.5
+                    }
+                },
+                {
+                    "name": "p14",
+                    "parent": "p",
+                    "transform": {
+                        "x": -45.0888,
+                        "y": -33.4142,
+                        "scX": 0.5,
+                        "scY": 0.5
+                    }
+                },
+                {
+                    "name": "p15",
+                    "parent": "p",
+                    "transform": {
+                        "x": -72.9076,
+                        "y": -29.3217,
+                        "scX": 0.5,
+                        "scY": 0.5
+                    }
+                },
+                {
+                    "name": "p16",
+                    "parent": "p",
+                    "transform": {
+                        "x": 89.268,
+                        "y": -13.0842,
+                        "scX": 0.5,
+                        "scY": 0.5
+                    }
+                },
+                {
+                    "name": "p17",
+                    "parent": "p",
+                    "transform": {
+                        "x": 88.909,
+                        "y": 11.8262,
+                        "scX": 0.5,
+                        "scY": 0.5
+                    }
+                },
+                {
+                    "name": "p18",
+                    "parent": "p",
+                    "transform": {
+                        "x": 72.5791,
+                        "y": 28.7186,
+                        "scX": 0.5,
+                        "scY": 0.5
+                    }
+                },
+                {
+                    "name": "p19",
+                    "parent": "p",
+                    "transform": {
+                        "x": 42.734,
+                        "y": 33.3659,
+                        "scX": 0.5,
+                        "scY": 0.5
+                    }
+                },
+                {
+                    "name": "p110",
+                    "parent": "p",
+                    "transform": {
+                        "x": 13.9192,
+                        "y": 33.0743,
+                        "scX": 0.5,
+                        "scY": 0.5
+                    }
+                },
+                {
+                    "name": "p111",
+                    "parent": "p",
+                    "transform": {
+                        "x": -88.9299,
+                        "y": -12.9734,
+                        "scX": 0.5,
+                        "scY": 0.5
+                    }
+                },
+                {
+                    "name": "p11",
+                    "parent": "p",
+                    "transform": {
+                        "x": 13.8904,
+                        "y": -33.4142,
+                        "scX": 0.5,
+                        "scY": 0.5
+                    }
+                },
+                {
+                    "name": "p113",
+                    "parent": "p",
+                    "transform": {
+                        "x": -44.5393,
+                        "y": 33.0966,
+                        "scX": 0.5,
+                        "scY": 0.5
+                    }
+                },
+                {
+                    "name": "p114",
+                    "parent": "p",
+                    "transform": {
+                        "x": -73.1193,
+                        "y": 28.7816,
+                        "scX": 0.5,
+                        "scY": 0.5
+                    }
+                },
+                {
+                    "name": "p115",
+                    "parent": "p",
+                    "transform": {
+                        "x": -89.4566,
+                        "y": 12.5073,
+                        "scX": 0.5,
+                        "scY": 0.5
+                    }
+                },
+                {
+                    "name": "p1",
+                    "parent": "p",
+                    "transform": {
+                        "x": 42.9084,
+                        "y": -33.4142,
+                        "scX": 0.5,
+                        "scY": 0.5
+                    }
+                },
+                {
+                    "name": "l1",
+                    "parent": "light",
+                    "transform": {
+                        "x": -169.3538,
+                        "y": -23.222
+                    }
+                },
+                {
+                    "name": "l11",
+                    "parent": "light",
+                    "transform": {
+                        "x": 168.961,
+                        "y": -18.5325
+                    }
+                },
+                {
+                    "name": "l12",
+                    "parent": "light",
+                    "transform": {
+                        "x": -113.067,
+                        "y": -6.8339
+                    }
+                },
+                {
+                    "name": "l13",
+                    "parent": "light",
+                    "transform": {
+                        "x": 120.6547,
+                        "y": -9.5998
+                    }
+                },
+                {
+                    "name": "l14",
+                    "parent": "light",
+                    "transform": {
+                        "x": -54.9823,
+                        "y": 0.081
+                    }
+                },
+                {
+                    "name": "l15",
+                    "parent": "light",
+                    "transform": {
+                        "x": 67.0992,
+                        "y": -2.6849
+                    }
+                },
+                {
+                    "name": "l16",
+                    "parent": "light",
+                    "transform": {
+                        "x": 5.5225,
+                        "y": 0.081
+                    }
+                }
+            ],
+            "slot": [
+                {
+                    "name": "yuan",
+                    "parent": "yuan"
+                },
+                {
+                    "name": "paizi",
+                    "parent": "paizi"
+                },
+                {
+                    "name": "taizi",
+                    "parent": "taizi"
+                },
+                {
+                    "name": "daosui1",
+                    "parent": "daosui1"
+                },
+                {
+                    "name": "daosui11",
+                    "parent": "daosui11"
+                },
+                {
+                    "name": "shadow",
+                    "parent": "shadow"
+                },
+                {
+                    "blendMode": "add",
+                    "name": "glow",
+                    "parent": "glow"
+                },
+                {
+                    "blendMode": "add",
+                    "name": "glow1",
+                    "parent": "glow1"
+                },
+                {
+                    "displayIndex": -1,
+                    "name": "animal",
+                    "parent": "animal"
+                },
+                {
+                    "blendMode": "add",
+                    "name": "daosui12",
+                    "parent": "daosui1"
+                },
+                {
+                    "blendMode": "add",
+                    "name": "daosui111",
+                    "parent": "daosui11"
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "1",
+                    "parent": "1"
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "11",
+                    "parent": "11"
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "12",
+                    "parent": "12"
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "13",
+                    "parent": "13"
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "111",
+                    "parent": "111"
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "121",
+                    "parent": "121"
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "14",
+                    "parent": "14"
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "112",
+                    "parent": "112"
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "122",
+                    "parent": "122"
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "15",
+                    "parent": "15"
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "113",
+                    "parent": "113"
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "123",
+                    "parent": "123"
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "glowball2",
+                    "parent": "p1",
+                    "color": {
+                        "gM": 94,
+                        "bM": 84
+                    }
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "glowball21",
+                    "parent": "p11",
+                    "color": {
+                        "gM": 94,
+                        "bM": 84
+                    }
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "glowball22",
+                    "parent": "p12",
+                    "color": {
+                        "gM": 94,
+                        "bM": 84
+                    }
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "glowball23",
+                    "parent": "p13",
+                    "color": {
+                        "gM": 94,
+                        "bM": 84
+                    }
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "glowball24",
+                    "parent": "p14",
+                    "color": {
+                        "gM": 94,
+                        "bM": 84
+                    }
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "glowball25",
+                    "parent": "p15",
+                    "color": {
+                        "gM": 94,
+                        "bM": 84
+                    }
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "glowball26",
+                    "parent": "p16",
+                    "color": {
+                        "gM": 94,
+                        "bM": 84
+                    }
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "glowball27",
+                    "parent": "p17",
+                    "color": {
+                        "gM": 94,
+                        "bM": 84
+                    }
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "glowball28",
+                    "parent": "p18",
+                    "color": {
+                        "gM": 94,
+                        "bM": 84
+                    }
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "glowball29",
+                    "parent": "p19",
+                    "color": {
+                        "gM": 94,
+                        "bM": 84
+                    }
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "glowball210",
+                    "parent": "p110",
+                    "color": {
+                        "gM": 94,
+                        "bM": 84
+                    }
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "glowball211",
+                    "parent": "p111",
+                    "color": {
+                        "gM": 94,
+                        "bM": 84
+                    }
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "glowball212",
+                    "parent": "p112",
+                    "color": {
+                        "gM": 94,
+                        "bM": 84
+                    }
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "glowball213",
+                    "parent": "p113",
+                    "color": {
+                        "gM": 94,
+                        "bM": 84
+                    }
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "glowball214",
+                    "parent": "p114",
+                    "color": {
+                        "gM": 94,
+                        "bM": 84
+                    }
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "glowball215",
+                    "parent": "p115",
+                    "color": {
+                        "gM": 94,
+                        "bM": 84
+                    }
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "l1",
+                    "parent": "l1"
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "l11",
+                    "parent": "l11"
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "l12",
+                    "parent": "l12"
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "l13",
+                    "parent": "l13"
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "l14",
+                    "parent": "l14"
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "l15",
+                    "parent": "l15"
+                },
+                {
+                    "blendMode": "add",
+                    "displayIndex": -1,
+                    "name": "l16",
+                    "parent": "l16"
+                }
+            ],
+            "skin": [
+                {
+                    "slot": [
+                        {
+                            "name": "glowball2",
+                            "display": [
+                                {
+                                    "name": "glowball2",
+                                    "transform": {
+                                        "x": 0.74
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "111",
+                            "display": [
+                                {
+                                    "name": "point"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glowball24",
+                            "display": [
+                                {
+                                    "name": "glowball2",
+                                    "transform": {
+                                        "x": 0.74
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glowball27",
+                            "display": [
+                                {
+                                    "name": "glowball2",
+                                    "transform": {
+                                        "x": 0.74
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glowball215",
+                            "display": [
+                                {
+                                    "name": "glowball2",
+                                    "transform": {
+                                        "x": 0.74
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "123",
+                            "display": [
+                                {
+                                    "name": "point"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "l15",
+                            "display": [
+                                {
+                                    "name": "合成 1_00000"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "daosui111",
+                            "display": [
+                                {
+                                    "type": "mesh",
+                                    "name": "稻穗",
+                                    "width": 32,
+                                    "height": 42,
+                                    "vertices": [
+                                        -16,
+                                        14.25,
+                                        -10.6,
+                                        19.05,
+                                        -5.6,
+                                        21,
+                                        2.9,
+                                        19.05,
+                                        9.95,
+                                        12.95,
+                                        14.2,
+                                        5.2,
+                                        16,
+                                        -2.2,
+                                        16,
+                                        -11.8,
+                                        10.85,
+                                        -18.5,
+                                        3.65,
+                                        -21,
+                                        -2.65,
+                                        -21,
+                                        -2.1,
+                                        -15.15,
+                                        -1.15,
+                                        -10.35,
+                                        -1.55,
+                                        -5.55,
+                                        -3.75,
+                                        -1.85,
+                                        -6.15,
+                                        1.3,
+                                        -9.65,
+                                        3.15,
+                                        -13.75,
+                                        5.55
+                                    ],
+                                    "uvs": [
+                                        0,
+                                        0.83929,
+                                        0.16875,
+                                        0.95357,
+                                        0.325,
+                                        1,
+                                        0.59062,
+                                        0.95357,
+                                        0.81094,
+                                        0.80833,
+                                        0.94375,
+                                        0.62381,
+                                        1,
+                                        0.44762,
+                                        1,
+                                        0.21905,
+                                        0.83906,
+                                        0.05952,
+                                        0.61406,
+                                        0,
+                                        0.41719,
+                                        0,
+                                        0.43438,
+                                        0.13929,
+                                        0.46406,
+                                        0.25357,
+                                        0.45156,
+                                        0.36786,
+                                        0.38281,
+                                        0.45595,
+                                        0.30781,
+                                        0.53095,
+                                        0.19844,
+                                        0.575,
+                                        0.07031,
+                                        0.63214
+                                    ],
+                                    "triangles": [
+                                        13,
+                                        5,
+                                        6,
+                                        8,
+                                        12,
+                                        7,
+                                        13,
+                                        6,
+                                        7,
+                                        12,
+                                        13,
+                                        7,
+                                        14,
+                                        4,
+                                        5,
+                                        13,
+                                        14,
+                                        5,
+                                        11,
+                                        12,
+                                        9,
+                                        14,
+                                        15,
+                                        4,
+                                        9,
+                                        12,
+                                        8,
+                                        15,
+                                        3,
+                                        4,
+                                        16,
+                                        1,
+                                        2,
+                                        10,
+                                        11,
+                                        9,
+                                        16,
+                                        2,
+                                        3,
+                                        15,
+                                        16,
+                                        3,
+                                        16,
+                                        17,
+                                        1,
+                                        17,
+                                        0,
+                                        1
+                                    ],
+                                    "edges": [
+                                        0,
+                                        1,
+                                        1,
+                                        2,
+                                        2,
+                                        3,
+                                        3,
+                                        4,
+                                        4,
+                                        5,
+                                        5,
+                                        6,
+                                        6,
+                                        7,
+                                        7,
+                                        8,
+                                        8,
+                                        9,
+                                        9,
+                                        10,
+                                        10,
+                                        11,
+                                        11,
+                                        12,
+                                        12,
+                                        13,
+                                        13,
+                                        14,
+                                        14,
+                                        15,
+                                        15,
+                                        16,
+                                        16,
+                                        17,
+                                        17,
+                                        0
+                                    ],
+                                    "userEdges": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "112",
+                            "display": [
+                                {
+                                    "name": "point"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "14",
+                            "display": [
+                                {
+                                    "name": "point"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glowball211",
+                            "display": [
+                                {
+                                    "name": "glowball2",
+                                    "transform": {
+                                        "x": 0.74
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "daosui11",
+                            "display": [
+                                {
+                                    "type": "mesh",
+                                    "name": "稻穗",
+                                    "width": 32,
+                                    "height": 42,
+                                    "vertices": [
+                                        -16,
+                                        14.25,
+                                        -10.6,
+                                        19.05,
+                                        -5.6,
+                                        21,
+                                        2.9,
+                                        19.05,
+                                        9.95,
+                                        12.95,
+                                        14.2,
+                                        5.2,
+                                        16,
+                                        -2.2,
+                                        16,
+                                        -11.8,
+                                        10.85,
+                                        -18.5,
+                                        3.65,
+                                        -21,
+                                        -2.65,
+                                        -21,
+                                        -2.1,
+                                        -15.15,
+                                        -1.15,
+                                        -10.35,
+                                        -1.55,
+                                        -5.55,
+                                        -3.75,
+                                        -1.85,
+                                        -6.15,
+                                        1.3,
+                                        -9.65,
+                                        3.15,
+                                        -13.75,
+                                        5.55
+                                    ],
+                                    "uvs": [
+                                        0,
+                                        0.83929,
+                                        0.16875,
+                                        0.95357,
+                                        0.325,
+                                        1,
+                                        0.59062,
+                                        0.95357,
+                                        0.81094,
+                                        0.80833,
+                                        0.94375,
+                                        0.62381,
+                                        1,
+                                        0.44762,
+                                        1,
+                                        0.21905,
+                                        0.83906,
+                                        0.05952,
+                                        0.61406,
+                                        0,
+                                        0.41719,
+                                        0,
+                                        0.43438,
+                                        0.13929,
+                                        0.46406,
+                                        0.25357,
+                                        0.45156,
+                                        0.36786,
+                                        0.38281,
+                                        0.45595,
+                                        0.30781,
+                                        0.53095,
+                                        0.19844,
+                                        0.575,
+                                        0.07031,
+                                        0.63214
+                                    ],
+                                    "triangles": [
+                                        13,
+                                        5,
+                                        6,
+                                        8,
+                                        12,
+                                        7,
+                                        13,
+                                        6,
+                                        7,
+                                        12,
+                                        13,
+                                        7,
+                                        14,
+                                        4,
+                                        5,
+                                        13,
+                                        14,
+                                        5,
+                                        11,
+                                        12,
+                                        9,
+                                        14,
+                                        15,
+                                        4,
+                                        9,
+                                        12,
+                                        8,
+                                        15,
+                                        3,
+                                        4,
+                                        16,
+                                        1,
+                                        2,
+                                        10,
+                                        11,
+                                        9,
+                                        16,
+                                        2,
+                                        3,
+                                        15,
+                                        16,
+                                        3,
+                                        16,
+                                        17,
+                                        1,
+                                        17,
+                                        0,
+                                        1
+                                    ],
+                                    "edges": [
+                                        0,
+                                        1,
+                                        1,
+                                        2,
+                                        2,
+                                        3,
+                                        3,
+                                        4,
+                                        4,
+                                        5,
+                                        5,
+                                        6,
+                                        6,
+                                        7,
+                                        7,
+                                        8,
+                                        8,
+                                        9,
+                                        9,
+                                        10,
+                                        10,
+                                        11,
+                                        11,
+                                        12,
+                                        12,
+                                        13,
+                                        13,
+                                        14,
+                                        14,
+                                        15,
+                                        15,
+                                        16,
+                                        16,
+                                        17,
+                                        17,
+                                        0
+                                    ],
+                                    "userEdges": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "l12",
+                            "display": [
+                                {
+                                    "name": "合成 1_00000"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "l11",
+                            "display": [
+                                {
+                                    "name": "合成 1_00000"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glowball21",
+                            "display": [
+                                {
+                                    "name": "glowball2",
+                                    "transform": {
+                                        "x": 0.74
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "12",
+                            "display": [
+                                {
+                                    "name": "point"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "taizi",
+                            "display": [
+                                {
+                                    "name": "台子"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "paizi",
+                            "display": [
+                                {
+                                    "name": "牌子"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glowball214",
+                            "display": [
+                                {
+                                    "name": "glowball2",
+                                    "transform": {
+                                        "x": 0.74
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glowball213",
+                            "display": [
+                                {
+                                    "name": "glowball2",
+                                    "transform": {
+                                        "x": 0.74
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "l16",
+                            "display": [
+                                {
+                                    "name": "合成 1_00000"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "l14",
+                            "display": [
+                                {
+                                    "name": "合成 1_00000"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "daosui12",
+                            "display": [
+                                {
+                                    "type": "mesh",
+                                    "name": "稻穗",
+                                    "width": 32,
+                                    "height": 42,
+                                    "vertices": [
+                                        -16,
+                                        16.1,
+                                        -6,
+                                        21,
+                                        3.5,
+                                        18.7,
+                                        11.4,
+                                        11.3,
+                                        16,
+                                        1.15,
+                                        16,
+                                        -9.25,
+                                        12.85,
+                                        -18.25,
+                                        3.35,
+                                        -21,
+                                        -2.35,
+                                        -21,
+                                        -1.2,
+                                        -12.55,
+                                        -2.65,
+                                        -5.65,
+                                        -5.25,
+                                        -0.7,
+                                        -11.1,
+                                        2.85,
+                                        -14.75,
+                                        6.35
+                                    ],
+                                    "uvs": [
+                                        0,
+                                        0.88333,
+                                        0.3125,
+                                        1,
+                                        0.60938,
+                                        0.94524,
+                                        0.85625,
+                                        0.76905,
+                                        1,
+                                        0.52738,
+                                        1,
+                                        0.27976,
+                                        0.90156,
+                                        0.06548,
+                                        0.60469,
+                                        0,
+                                        0.42656,
+                                        0,
+                                        0.4625,
+                                        0.20119,
+                                        0.41719,
+                                        0.36548,
+                                        0.33594,
+                                        0.48333,
+                                        0.15313,
+                                        0.56786,
+                                        0.03906,
+                                        0.65119
+                                    ],
+                                    "triangles": [
+                                        11,
+                                        3,
+                                        4,
+                                        10,
+                                        11,
+                                        4,
+                                        6,
+                                        9,
+                                        5,
+                                        10,
+                                        4,
+                                        5,
+                                        9,
+                                        10,
+                                        5,
+                                        7,
+                                        9,
+                                        6,
+                                        11,
+                                        2,
+                                        3,
+                                        8,
+                                        9,
+                                        7,
+                                        11,
+                                        12,
+                                        2,
+                                        12,
+                                        1,
+                                        2,
+                                        12,
+                                        13,
+                                        1,
+                                        13,
+                                        0,
+                                        1
+                                    ],
+                                    "edges": [
+                                        0,
+                                        1,
+                                        1,
+                                        2,
+                                        2,
+                                        3,
+                                        3,
+                                        4,
+                                        4,
+                                        5,
+                                        5,
+                                        6,
+                                        6,
+                                        7,
+                                        7,
+                                        8,
+                                        8,
+                                        9,
+                                        9,
+                                        10,
+                                        10,
+                                        11,
+                                        11,
+                                        12,
+                                        12,
+                                        13,
+                                        13,
+                                        0
+                                    ],
+                                    "userEdges": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glowball23",
+                            "display": [
+                                {
+                                    "name": "glowball2",
+                                    "transform": {
+                                        "x": 0.74
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "121",
+                            "display": [
+                                {
+                                    "name": "point"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glowball210",
+                            "display": [
+                                {
+                                    "name": "glowball2",
+                                    "transform": {
+                                        "x": 0.74
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glowball29",
+                            "display": [
+                                {
+                                    "name": "glowball2",
+                                    "transform": {
+                                        "x": 0.74
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "l1",
+                            "display": [
+                                {
+                                    "name": "合成 1_00000"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "11",
+                            "display": [
+                                {
+                                    "name": "point"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glowball26",
+                            "display": [
+                                {
+                                    "name": "glowball2",
+                                    "transform": {
+                                        "x": 0.74
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glowball25",
+                            "display": [
+                                {
+                                    "name": "glowball2",
+                                    "transform": {
+                                        "x": 0.74
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glow",
+                            "display": [
+                                {
+                                    "name": "glow"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glowball212",
+                            "display": [
+                                {
+                                    "name": "glowball2",
+                                    "transform": {
+                                        "x": 0.74
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "l13",
+                            "display": [
+                                {
+                                    "name": "合成 1_00000"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "13",
+                            "display": [
+                                {
+                                    "name": "point"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glowball22",
+                            "display": [
+                                {
+                                    "name": "glowball2",
+                                    "transform": {
+                                        "x": 0.74
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "daosui1",
+                            "display": [
+                                {
+                                    "type": "mesh",
+                                    "name": "稻穗",
+                                    "width": 32,
+                                    "height": 42,
+                                    "vertices": [
+                                        -16,
+                                        16.1,
+                                        -6,
+                                        21,
+                                        3.5,
+                                        18.7,
+                                        11.4,
+                                        11.3,
+                                        16,
+                                        1.15,
+                                        16,
+                                        -9.25,
+                                        12.85,
+                                        -18.25,
+                                        3.35,
+                                        -21,
+                                        -2.35,
+                                        -21,
+                                        -1.2,
+                                        -12.55,
+                                        -2.65,
+                                        -5.65,
+                                        -5.25,
+                                        -0.7,
+                                        -11.1,
+                                        2.85,
+                                        -14.75,
+                                        6.35
+                                    ],
+                                    "uvs": [
+                                        0,
+                                        0.88333,
+                                        0.3125,
+                                        1,
+                                        0.60938,
+                                        0.94524,
+                                        0.85625,
+                                        0.76905,
+                                        1,
+                                        0.52738,
+                                        1,
+                                        0.27976,
+                                        0.90156,
+                                        0.06548,
+                                        0.60469,
+                                        0,
+                                        0.42656,
+                                        0,
+                                        0.4625,
+                                        0.20119,
+                                        0.41719,
+                                        0.36548,
+                                        0.33594,
+                                        0.48333,
+                                        0.15313,
+                                        0.56786,
+                                        0.03906,
+                                        0.65119
+                                    ],
+                                    "triangles": [
+                                        11,
+                                        3,
+                                        4,
+                                        10,
+                                        11,
+                                        4,
+                                        6,
+                                        9,
+                                        5,
+                                        10,
+                                        4,
+                                        5,
+                                        9,
+                                        10,
+                                        5,
+                                        7,
+                                        9,
+                                        6,
+                                        11,
+                                        2,
+                                        3,
+                                        8,
+                                        9,
+                                        7,
+                                        11,
+                                        12,
+                                        2,
+                                        12,
+                                        1,
+                                        2,
+                                        12,
+                                        13,
+                                        1,
+                                        13,
+                                        0,
+                                        1
+                                    ],
+                                    "edges": [
+                                        0,
+                                        1,
+                                        1,
+                                        2,
+                                        2,
+                                        3,
+                                        3,
+                                        4,
+                                        4,
+                                        5,
+                                        5,
+                                        6,
+                                        6,
+                                        7,
+                                        7,
+                                        8,
+                                        8,
+                                        9,
+                                        9,
+                                        10,
+                                        10,
+                                        11,
+                                        11,
+                                        12,
+                                        12,
+                                        13,
+                                        13,
+                                        0
+                                    ],
+                                    "userEdges": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glowball28",
+                            "display": [
+                                {
+                                    "name": "glowball2",
+                                    "transform": {
+                                        "x": 0.74
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glow1",
+                            "display": [
+                                {
+                                    "name": "glow"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "1",
+                            "display": [
+                                {
+                                    "name": "point"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "122",
+                            "display": [
+                                {
+                                    "name": "point"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "15",
+                            "display": [
+                                {
+                                    "name": "point"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "shadow",
+                            "display": [
+                                {
+                                    "name": "shadow"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "113",
+                            "display": [
+                                {
+                                    "name": "point"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "yuan",
+                            "display": [
+                                {
+                                    "name": "大圈"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "animation": [
+                {
+                    "duration": 48,
+                    "name": "newAnimation",
+                    "bone": [
+                        {
+                            "name": "yuan",
+                            "scaleFrame": [
+                                {
+                                    "duration": 5,
+                                    "curve": [
+                                        0,
+                                        0,
+                                        0.5,
+                                        1
+                                    ],
+                                    "x": 0.01,
+                                    "y": 0.01
+                                },
+                                {
+                                    "duration": 3,
+                                    "tweenEasing": 0,
+                                    "x": 1.05,
+                                    "y": 1.05
+                                },
+                                {
+                                    "duration": 40
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glow",
+                            "rotateFrame": [
+                                {
+                                    "duration": 48,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 0,
+                                    "rotate": 60
+                                }
+                            ]
+                        },
+                        {
+                            "name": "shadow",
+                            "scaleFrame": [
+                                {
+                                    "duration": 11
+                                },
+                                {
+                                    "duration": 17,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 20,
+                                    "tweenEasing": 0,
+                                    "x": 0.8,
+                                    "y": 0.8
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glow1",
+                            "rotateFrame": [
+                                {
+                                    "duration": 48,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 0,
+                                    "rotate": 60
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "duration": 2
+                                },
+                                {
+                                    "duration": 18,
+                                    "curve": [
+                                        0,
+                                        0,
+                                        0.5,
+                                        1
+                                    ]
+                                },
+                                {
+                                    "duration": 28,
+                                    "x": 2,
+                                    "y": 2
+                                }
+                            ]
+                        },
+                        {
+                            "name": "l1",
+                            "translateFrame": [
+                                {
+                                    "duration": 15
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 26,
+                                    "y": -5.45
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "duration": 15
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 26,
+                                    "x": 1.1,
+                                    "y": 1.25
+                                }
+                            ]
+                        },
+                        {
+                            "name": "l11",
+                            "translateFrame": [
+                                {
+                                    "duration": 15
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 26,
+                                    "y": -4.54
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "duration": 15
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 26,
+                                    "x": 1.1,
+                                    "y": 1.25
+                                }
+                            ]
+                        },
+                        {
+                            "name": "l12",
+                            "translateFrame": [
+                                {
+                                    "duration": 20
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 21,
+                                    "y": -4.09
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "duration": 20
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 21,
+                                    "x": 1.1,
+                                    "y": 1.25
+                                }
+                            ]
+                        },
+                        {
+                            "name": "l13",
+                            "translateFrame": [
+                                {
+                                    "duration": 20
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 21,
+                                    "y": -3.27
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "duration": 20
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 21,
+                                    "x": 1.1,
+                                    "y": 1.25
+                                }
+                            ]
+                        },
+                        {
+                            "name": "l14",
+                            "translateFrame": [
+                                {
+                                    "duration": 25
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 16,
+                                    "y": -3.27
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "duration": 25
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 16,
+                                    "x": 1.1,
+                                    "y": 1.25
+                                }
+                            ]
+                        },
+                        {
+                            "name": "l15",
+                            "translateFrame": [
+                                {
+                                    "duration": 25
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 16,
+                                    "y": -3.27
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "duration": 25
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 16,
+                                    "x": 1.1,
+                                    "y": 1.25
+                                }
+                            ]
+                        },
+                        {
+                            "name": "l16",
+                            "translateFrame": [
+                                {
+                                    "duration": 30
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 11,
+                                    "y": -3.27
+                                }
+                            ],
+                            "scaleFrame": [
+                                {
+                                    "duration": 30
+                                },
+                                {
+                                    "duration": 7,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 11,
+                                    "x": 1.1,
+                                    "y": 1.25
+                                }
+                            ]
+                        }
+                    ],
+                    "slot": [
+                        {
+                            "name": "glow",
+                            "colorFrame": [
+                                {
+                                    "duration": 5,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 43
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glow1",
+                            "colorFrame": [
+                                {
+                                    "duration": 2,
+                                    "tweenEasing": 0,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                },
+                                {
+                                    "duration": 18,
+                                    "curve": [
+                                        0,
+                                        0,
+                                        0.5,
+                                        1
+                                    ],
+                                    "value": {
+                                        "aM": 50
+                                    }
+                                },
+                                {
+                                    "duration": 28,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "daosui12",
+                            "colorFrame": [
+                                {
+                                    "duration": 8,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 16,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 24,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "daosui111",
+                            "colorFrame": [
+                                {
+                                    "duration": 8,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 16,
+                                    "tweenEasing": 0
+                                },
+                                {
+                                    "duration": 24,
+                                    "value": {
+                                        "aM": 0
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "name": "1",
+                            "displayFrame": [
+                                {
+                                    "duration": 8,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 10,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 10,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "11",
+                            "displayFrame": [
+                                {
+                                    "duration": 8,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 10,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 10,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "12",
+                            "displayFrame": [
+                                {
+                                    "duration": 8,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 10,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 10,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "13",
+                            "displayFrame": [
+                                {
+                                    "duration": 18,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 10,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 0,
+                                    "value": -1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "111",
+                            "displayFrame": [
+                                {
+                                    "duration": 18,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 10,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 0,
+                                    "value": -1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "121",
+                            "displayFrame": [
+                                {
+                                    "duration": 18,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 10,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 0,
+                                    "value": -1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "14",
+                            "displayFrame": [
+                                {
+                                    "duration": 8,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 10,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 10,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "112",
+                            "displayFrame": [
+                                {
+                                    "duration": 8,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 10,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 10,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "122",
+                            "displayFrame": [
+                                {
+                                    "duration": 8,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 10,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 10,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "15",
+                            "displayFrame": [
+                                {
+                                    "duration": 18,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 10,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 0,
+                                    "value": -1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "113",
+                            "displayFrame": [
+                                {
+                                    "duration": 18,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 10,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 0,
+                                    "value": -1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "123",
+                            "displayFrame": [
+                                {
+                                    "duration": 18,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 10,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 10
+                                },
+                                {
+                                    "duration": 0,
+                                    "value": -1
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glowball2",
+                            "displayFrame": [
+                                {
+                                    "duration": 8,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glowball21",
+                            "displayFrame": [
+                                {
+                                    "duration": 8,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glowball22",
+                            "displayFrame": [
+                                {
+                                    "duration": 8,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glowball23",
+                            "displayFrame": [
+                                {
+                                    "duration": 8,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glowball24",
+                            "displayFrame": [
+                                {
+                                    "duration": 8,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glowball25",
+                            "displayFrame": [
+                                {
+                                    "duration": 8,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glowball26",
+                            "displayFrame": [
+                                {
+                                    "duration": 8,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glowball27",
+                            "displayFrame": [
+                                {
+                                    "duration": 8,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glowball28",
+                            "displayFrame": [
+                                {
+                                    "duration": 8,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glowball29",
+                            "displayFrame": [
+                                {
+                                    "duration": 8,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glowball210",
+                            "displayFrame": [
+                                {
+                                    "duration": 8,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glowball211",
+                            "displayFrame": [
+                                {
+                                    "duration": 8,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glowball212",
+                            "displayFrame": [
+                                {
+                                    "duration": 8,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glowball213",
+                            "displayFrame": [
+                                {
+                                    "duration": 8,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glowball214",
+                            "displayFrame": [
+                                {
+                                    "duration": 8,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "glowball215",
+                            "displayFrame": [
+                                {
+                                    "duration": 8,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 4
+                                },
+                                {
+                                    "duration": 4,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 0
+                                }
+                            ]
+                        },
+                        {
+                            "name": "l1",
+                            "displayFrame": [
+                                {
+                                    "duration": 15,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 33
+                                }
+                            ]
+                        },
+                        {
+                            "name": "l11",
+                            "displayFrame": [
+                                {
+                                    "duration": 15,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 33
+                                }
+                            ]
+                        },
+                        {
+                            "name": "l12",
+                            "displayFrame": [
+                                {
+                                    "duration": 20,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 28
+                                }
+                            ]
+                        },
+                        {
+                            "name": "l13",
+                            "displayFrame": [
+                                {
+                                    "duration": 20,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 28
+                                }
+                            ]
+                        },
+                        {
+                            "name": "l14",
+                            "displayFrame": [
+                                {
+                                    "duration": 25,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 23
+                                }
+                            ]
+                        },
+                        {
+                            "name": "l15",
+                            "displayFrame": [
+                                {
+                                    "duration": 25,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 23
+                                }
+                            ]
+                        },
+                        {
+                            "name": "l16",
+                            "displayFrame": [
+                                {
+                                    "duration": 30,
+                                    "value": -1
+                                },
+                                {
+                                    "duration": 18
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "defaultActions": [
+                {
+                    "gotoAndPlay": "newAnimation"
+                }
+            ]
+        }
+    ]
+}

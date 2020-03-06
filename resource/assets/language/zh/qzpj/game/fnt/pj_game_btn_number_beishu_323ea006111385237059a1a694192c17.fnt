@@ -1,0 +1,13 @@
+{"file":"pj_game_btn_number_beishu.png","frames":{
+"u":{"x":2,"y":2,"w":66,"h":35,"offX":0,"offY":0,"sourceW":66,"sourceH":35},
+"0":{"x":27,"y":41,"w":21,"h":30,"offX":5,"offY":3,"sourceW":31,"sourceH":36},
+"1":{"x":102,"y":42,"w":14,"h":29,"offX":9,"offY":4,"sourceW":31,"sourceH":36},
+"2":{"x":77,"y":75,"w":20,"h":30,"offX":6,"offY":3,"sourceW":31,"sourceH":36},
+"3":{"x":101,"y":75,"w":20,"h":30,"offX":6,"offY":3,"sourceW":31,"sourceH":36},
+"4":{"x":2,"y":41,"w":21,"h":30,"offX":5,"offY":3,"sourceW":31,"sourceH":36},
+"5":{"x":77,"y":42,"w":21,"h":29,"offX":5,"offY":4,"sourceW":31,"sourceH":36},
+"6":{"x":27,"y":75,"w":21,"h":30,"offX":5,"offY":3,"sourceW":31,"sourceH":36},
+"7":{"x":52,"y":76,"w":21,"h":29,"offX":5,"offY":4,"sourceW":31,"sourceH":36},
+"8":{"x":2,"y":75,"w":21,"h":30,"offX":5,"offY":3,"sourceW":31,"sourceH":36},
+"9":{"x":52,"y":42,"w":21,"h":30,"offX":5,"offY":3,"sourceW":31,"sourceH":36},
+"b":{"x":72,"y":2,"w":31,"h":36,"offX":0,"offY":0,"sourceW":31,"sourceH":36}}}

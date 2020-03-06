@@ -1,0 +1,13 @@
+{"file":"pj_game_betting_num.png","frames":{
+"0":{"x":95,"y":2,"w":21,"h":28,"offX":5,"offY":6,"sourceW":31,"sourceH":39},
+"1":{"x":94,"y":66,"w":18,"h":29,"offX":6,"offY":6,"sourceW":31,"sourceH":39},
+"2":{"x":2,"y":83,"w":21,"h":29,"offX":5,"offY":6,"sourceW":31,"sourceH":39},
+"3":{"x":70,"y":2,"w":21,"h":28,"offX":5,"offY":6,"sourceW":31,"sourceH":39},
+"4":{"x":68,"y":45,"w":22,"h":29,"offX":4,"offY":6,"sourceW":31,"sourceH":39},
+"5":{"x":42,"y":45,"w":22,"h":30,"offX":4,"offY":5,"sourceW":31,"sourceH":39},
+"6":{"x":68,"y":78,"w":22,"h":29,"offX":4,"offY":6,"sourceW":31,"sourceH":39},
+"7":{"x":46,"y":2,"w":20,"h":30,"offX":5,"offY":5,"sourceW":31,"sourceH":39},
+"8":{"x":94,"y":34,"w":21,"h":28,"offX":5,"offY":6,"sourceW":31,"sourceH":39},
+"9":{"x":42,"y":79,"w":22,"h":28,"offX":4,"offY":6,"sourceW":31,"sourceH":39},
+"b":{"x":2,"y":2,"w":40,"h":39,"offX":0,"offY":0,"sourceW":40,"sourceH":39},
+"q":{"x":2,"y":45,"w":36,"h":34,"offX":2,"offY":3,"sourceW":40,"sourceH":39}}}
