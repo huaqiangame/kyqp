@@ -61,7 +61,7 @@
     "gulp-typescript": "^6.0.0-alpha.1",
     "gulp-uglify": "^3.0.2",
     "http-proxy-middleware": "^1.0.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "ts-loader": "^6.2.1",
     "typescript": "^3.8.2"
   }
